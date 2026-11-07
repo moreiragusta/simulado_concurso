@@ -170,6 +170,115 @@
         "garantia aos titulares de informações claras, precisas e facilmente acessíveis sobre a realização do tratamento.",
         "realização do tratamento para propósitos legítimos, específicos, explícitos e informados ao titular."
       ]
+    },
+
+    {
+      "id": "LEG-011",
+      "tema": "legislacao",
+      "enunciado": "De acordo com a Lei nº 12.846/2013 (Lei Anticorrupção), as pessoas jurídicas serão responsabilizadas pelos atos lesivos praticados em seu interesse ou benefício, contra a administração pública, nacional ou estrangeira, de forma:",
+      "correta": "objetiva, nos âmbitos administrativo e civil.",
+      "incorretas": [
+        "subjetiva, nos âmbitos administrativo e civil.",
+        "objetiva, nos âmbitos penal e administrativo.",
+        "subjetiva, exclusivamente no âmbito penal.",
+        "objetiva, somente no âmbito civil e mediante prova de dolo."
+      ]
+    },
+    {
+      "id": "LEG-012",
+      "tema": "legislacao",
+      "enunciado": "Na esfera administrativa, a Lei nº 12.846/2013 prevê a aplicação às pessoas jurídicas de multa no valor de:",
+      "correta": "0,1% (um décimo por cento) a 20% (vinte por cento) do faturamento bruto do último exercício anterior ao da instauração do processo administrativo, excluídos os tributos.",
+      "incorretas": [
+        "1% (um por cento) a 10% (dez por cento) do faturamento bruto do último exercício anterior ao da instauração do processo administrativo, excluídos os tributos.",
+        "0,5% (meio por cento) a 30% (trinta por cento) do faturamento bruto do último exercício anterior ao da instauração do processo administrativo, incluídos os tributos.",
+        "2% (dois por cento) a 20% (vinte por cento) do faturamento líquido do último exercício anterior ao da instauração do processo administrativo, excluídos os tributos.",
+        "0,1% (um décimo por cento) a 10% (dez por cento) do faturamento bruto do exercício em que ocorreu o ato lesivo, incluídos os tributos."
+      ]
+    },
+    {
+      "id": "LEG-013",
+      "tema": "legislacao",
+      "enunciado": "Sobre o acordo de leniência previsto na Lei nº 12.846/2013, assinale a alternativa CORRETA.",
+      "correta": "A celebração do acordo não exime a pessoa jurídica da obrigação de reparar integralmente o dano causado.",
+      "incorretas": [
+        "A celebração do acordo isenta a pessoa jurídica da obrigação de reparar o dano causado à administração.",
+        "A celebração do acordo reduz em até 1/2 (metade) o valor da multa aplicável à pessoa jurídica.",
+        "A celebração do acordo extingue automaticamente a responsabilidade penal dos dirigentes da empresa.",
+        "O acordo somente pode ser celebrado após o trânsito em julgado da decisão judicial condenatória."
+      ]
+    },
+    {
+      "id": "LEG-014",
+      "tema": "legislacao",
+      "enunciado": "Para os fins da Lei nº 12.288/2010 (Estatuto da Igualdade Racial), considera-se população negra:",
+      "correta": "o conjunto de pessoas que se autodeclaram pretas e pardas, conforme o quesito cor ou raça usado pela Fundação IBGE, ou que adotam autodefinição análoga.",
+      "incorretas": [
+        "o conjunto de pessoas que se autodeclaram pretas, excluídas as pardas, conforme o critério de classificação definido pela Fundação IBGE.",
+        "o conjunto de pessoas assim classificadas por comissão de heteroidentificação instituída pelo Poder Público federal, estadual ou municipal.",
+        "o conjunto de pessoas descendentes de comunidades remanescentes de quilombos, devidamente certificadas pelo órgão federal competente.",
+        "o conjunto de pessoas que comprovem ascendência africana por meio de documentação oficial expedida por cartório de registro civil."
+      ]
+    },
+    {
+      "id": "LEG-015",
+      "tema": "legislacao",
+      "enunciado": "Segundo a Lei nº 12.288/2010 (Estatuto da Igualdade Racial), ações afirmativas são:",
+      "correta": "os programas e medidas especiais adotados pelo Estado e pela iniciativa privada para a correção das desigualdades raciais e para a promoção da igualdade de oportunidades.",
+      "incorretas": [
+        "os programas e medidas especiais adotados exclusivamente pelo Estado, vedada a participação da iniciativa privada, para a correção das desigualdades raciais.",
+        "as sanções penais e administrativas aplicadas aos autores de atos de discriminação racial praticados contra a população negra.",
+        "os programas de transferência de renda destinados exclusivamente às comunidades remanescentes de quilombos certificadas pelo Poder Público.",
+        "as políticas públicas de caráter universal, sem qualquer distinção de raça ou cor, voltadas à redução da pobreza e das desigualdades regionais."
+      ]
+    },
+    {
+      "id": "LEG-016",
+      "tema": "legislacao",
+      "enunciado": "A Lei nº 12.288/2010 institui, como forma de organização e de articulação voltadas à implementação do conjunto de políticas e serviços destinados a superar as desigualdades étnicas existentes no País, o:",
+      "correta": "Sistema Nacional de Promoção da Igualdade Racial (SINAPIR).",
+      "incorretas": [
+        "Conselho Nacional de Combate à Discriminação Racial (CNCDR).",
+        "Fundo Nacional de Promoção da Igualdade Étnica (FNPIE).",
+        "Sistema Único de Proteção dos Direitos Étnicos (SUPDE).",
+        "Programa Nacional de Inclusão e Equidade Racial (PNIER)."
+      ]
+    },
+    {
+      "id": "LEG-017",
+      "tema": "legislacao",
+      "enunciado": "Conforme a Lei nº 12.016/2009, o direito de requerer mandado de segurança extinguir-se-á decorridos:",
+      "correta": "120 (cento e vinte) dias, contados da ciência, pelo interessado, do ato impugnado.",
+      "incorretas": [
+        "30 (trinta) dias, contados da ciência, pelo interessado, do ato impugnado.",
+        "60 (sessenta) dias, contados da publicação do ato impugnado no diário oficial.",
+        "90 (noventa) dias, contados da ciência, pelo interessado, do ato impugnado.",
+        "180 (cento e oitenta) dias, contados da publicação do ato impugnado no diário oficial."
+      ]
+    },
+    {
+      "id": "LEG-018",
+      "tema": "legislacao",
+      "enunciado": "De acordo com a Lei nº 12.016/2009, o mandado de segurança coletivo pode ser impetrado por:",
+      "correta": "partido político com representação no Congresso Nacional, na defesa de seus interesses legítimos relativos a seus integrantes ou à finalidade partidária.",
+      "incorretas": [
+        "partido político, independentemente de representação no Congresso Nacional, na defesa de quaisquer interesses difusos da sociedade.",
+        "associação legalmente constituída e em funcionamento há, pelo menos, 6 (seis) meses, em defesa de direitos de terceiros não associados.",
+        "qualquer cidadão no pleno gozo de seus direitos políticos, em defesa de interesses difusos e coletivos de toda a sociedade.",
+        "pessoa física integrante de categoria profissional, em defesa de direito líquido e certo da totalidade dos membros dessa categoria."
+      ]
+    },
+    {
+      "id": "LEG-019",
+      "tema": "legislacao",
+      "enunciado": "Nos termos da Lei nº 12.016/2009, NÃO se concederá mandado de segurança quando se tratar de:",
+      "correta": "decisão judicial transitada em julgado.",
+      "incorretas": [
+        "ato de autoridade praticado com ilegalidade ou abuso de poder.",
+        "ato de dirigente de autarquia no exercício de atribuições do poder público.",
+        "ato administrativo do qual caiba recurso sem efeito suspensivo.",
+        "omissão ilegal de autoridade pública que viole direito líquido e certo."
+      ]
     }
   ]
 }
