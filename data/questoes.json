@@ -946,6 +946,97 @@
         "estabelecer padrões, tomar ação corretiva, medir o desempenho e comparar o desempenho com o padrão."
       ]
     },
+    {
+      "id": "ADM-008",
+      "tema": "especificos",
+      "fonte": "Estrutura organizacional — organograma",
+      "enunciado": "A representação gráfica da estrutura formal de uma organização, que mostra seus órgãos, níveis hierárquicos e relações de subordinação, é denominada:",
+      "correta": "organograma.",
+      "incorretas": [
+        "fluxograma.",
+        "cronograma.",
+        "histograma.",
+        "sociograma."
+      ]
+    },
+    {
+      "id": "ADM-009",
+      "tema": "especificos",
+      "fonte": "Modelos de estrutura — linear",
+      "enunciado": "O modelo de estrutura organizacional caracterizado por linhas diretas e únicas de autoridade, em que cada subordinado se reporta a um único chefe (unidade de comando), é a estrutura:",
+      "correta": "linear.",
+      "incorretas": [
+        "funcional.",
+        "linha-staff.",
+        "matricial.",
+        "em rede."
+      ]
+    },
+    {
+      "id": "ADM-010",
+      "tema": "especificos",
+      "fonte": "Modelos de estrutura — matricial",
+      "enunciado": "A estrutura organizacional que combina a departamentalização funcional com a departamentalização por projetos, fazendo com que o profissional responda simultaneamente a dois chefes (dupla subordinação), é a estrutura:",
+      "correta": "matricial.",
+      "incorretas": [
+        "linear.",
+        "funcional.",
+        "linha-staff.",
+        "divisional."
+      ]
+    },
+    {
+      "id": "ADM-011",
+      "tema": "especificos",
+      "fonte": "Modelos de estrutura — linha-staff",
+      "enunciado": "Na estrutura organizacional do tipo linha-staff, os órgãos de staff (assessoria) caracterizam-se por:",
+      "correta": "prestar assessoria e consultoria especializada, sem autoridade de comando sobre os órgãos de linha.",
+      "incorretas": [
+        "exercer autoridade de comando direto sobre os órgãos de linha, substituindo os seus chefes.",
+        "executar diretamente as atividades-fim da organização, no lugar dos órgãos de linha.",
+        "substituir a alta administração na tomada das decisões estratégicas da organização.",
+        "eliminar a hierarquia, de modo que todas as decisões sejam tomadas coletivamente."
+      ]
+    },
+    {
+      "id": "ADM-012",
+      "tema": "especificos",
+      "fonte": "Gestão pela qualidade — ciclo PDCA",
+      "enunciado": "O ciclo PDCA, ferramenta de melhoria contínua amplamente utilizada na gestão pela qualidade, é composto pelas etapas:",
+      "correta": "planejar, executar, verificar e agir.",
+      "incorretas": [
+        "planejar, decidir, controlar e avaliar.",
+        "programar, desenvolver, corrigir e aprovar.",
+        "prever, dirigir, coordenar e agir.",
+        "planejar, documentar, conferir e arquivar."
+      ]
+    },
+    {
+      "id": "ADM-013",
+      "tema": "especificos",
+      "fonte": "Gestão pela qualidade — programa 5S (Seiri)",
+      "enunciado": "No programa 5S, o senso de utilização (Seiri) consiste em:",
+      "correta": "separar o que é necessário do que é desnecessário, descartando aquilo que não tem utilidade.",
+      "incorretas": [
+        "organizar os objetos necessários em locais definidos, para que sejam encontrados com facilidade.",
+        "manter o ambiente de trabalho limpo, eliminando a sujeira e as suas fontes.",
+        "padronizar as práticas adotadas e cuidar da saúde física e mental dos trabalhadores.",
+        "cumprir rigorosamente as normas e os procedimentos, transformando-os em hábito."
+      ]
+    },
+    {
+      "id": "ADM-014",
+      "tema": "especificos",
+      "fonte": "Gestão pela qualidade — princípios",
+      "enunciado": "Assinale a alternativa que apresenta princípios da gestão pela qualidade total.",
+      "correta": "Foco no cliente e melhoria contínua dos processos.",
+      "incorretas": [
+        "Inspeção apenas do produto final, ao término da produção.",
+        "Qualidade sob responsabilidade exclusiva de um único setor.",
+        "Decisões baseadas na intuição dos gestores, sem uso de dados.",
+        "Redução de custos, ainda que em prejuízo da satisfação do cliente."
+      ]
+    },
 
     {
       "id": "LEG-001",

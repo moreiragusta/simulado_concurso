@@ -20,7 +20,7 @@ Geração em blocos pequenos (~10 questões), um assunto por vez, revisados ante
 
 | Assunto | Qtd | Status |
 |---|---|---|
-| Introdução à Administração (natureza das organizações, PODC, estrutura organizacional, gestão pela qualidade) | 14 | 🟡 7/14 — ADM-001 a 007 (bloco 17) |
+| Introdução à Administração (natureza das organizações, PODC, estrutura organizacional, gestão pela qualidade) | 14 | ✅ ADM-001 a 014 (blocos 17 e 18) |
 | Mudança e inovação; gestão por processos (mapeamento, análise, melhoria) | 12 | ⏳ |
 | Sistema de Informação de RH; dados de pessoal; desenvolvimento de RH e educação corporativa | 10 | ⏳ |
 | Comunicação corporativa, trabalho em equipe, relações humanas e conflitos | 12 | ⏳ |
