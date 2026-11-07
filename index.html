@@ -57,6 +57,18 @@
       </div>
 
       <button id="btn-iniciar" class="btn btn-grande" type="button" disabled>Iniciar simulado</button>
+
+      <div id="card-historico" class="card" hidden>
+        <h2>Seu histórico</h2>
+        <div class="hist-resumo">
+          <div><span id="hist-total" class="hist-num">0</span><span class="hist-rot">simulados</span></div>
+          <div><span id="hist-media" class="hist-num">0</span><span class="hist-rot">média (pts)</span></div>
+          <div><span id="hist-melhor" class="hist-num">0</span><span class="hist-rot">melhor nota</span></div>
+        </div>
+        <ol id="lista-historico" class="lista-historico"></ol>
+        <p class="hist-aviso">Salvo apenas neste navegador e aparelho.</p>
+        <button id="btn-limpar-historico" class="btn-link" type="button">Limpar histórico</button>
+      </div>
     </section>
 
     <!-- TELA DE QUESTÃO -->
@@ -84,6 +96,7 @@
         <h1 class="titulo titulo-menor">Resultado</h1>
         <p class="nota"><span id="nota">0</span><small> / <span id="nota-max">0</span> pts</small></p>
         <p id="resumo" class="sub"></p>
+        <p id="comparativo" class="comparativo" hidden></p>
       </div>
 
       <div class="card">
@@ -97,6 +110,7 @@
       </div>
 
       <button id="btn-refazer" class="btn btn-grande" type="button">↻ Refazer simulado</button>
+      <button id="btn-inicio" class="btn-link btn-link-centro" type="button">Voltar ao início e ver histórico</button>
     </section>
   </main>
 

@@ -246,6 +246,20 @@
     $('nota-max').textContent = max;
     $('resumo').textContent = acertos + ' de ' + total + ' questões certas (' + Math.round(acertos / total * 100) + '%)';
 
+    var melhorAnterior = registrarTentativa({
+      data: Date.now(), nota: nota, max: max, acertos: acertos, total: total, porMateria: porMateria
+    });
+    var comp = $('comparativo');
+    if (melhorAnterior === null) {
+      comp.hidden = true;
+    } else {
+      comp.hidden = false;
+      comp.className = 'comparativo' + (nota > melhorAnterior ? ' melhor' : '');
+      comp.textContent = nota > melhorAnterior
+        ? '★ Novo recorde! Sua melhor nota anterior era ' + melhorAnterior + ' pts.'
+        : 'Sua melhor nota até agora: ' + melhorAnterior + ' pts.';
+    }
+
     $('desempenho').innerHTML = banco.temas.filter(function (t) { return porMateria[t.id]; }).map(function (t) {
       var pm = porMateria[t.id];
       var pct = Math.round(pm.ok / pm.total * 100);
@@ -266,10 +280,72 @@
     }).join('');
   }
 
+  // ---------- Histórico de tentativas (salvo só neste navegador) ----------
+  var CHAVE_HISTORICO = 'historico-simulados';
+  var MAX_HISTORICO = 30;
+
+  function lerHistorico() {
+    try {
+      var lista = JSON.parse(localStorage.getItem(CHAVE_HISTORICO) || '[]');
+      return Array.isArray(lista) ? lista : [];
+    } catch (e) { return []; }
+  }
+
+  function gravarHistorico(lista) {
+    try { localStorage.setItem(CHAVE_HISTORICO, JSON.stringify(lista.slice(0, MAX_HISTORICO))); } catch (e) {}
+  }
+
+  // Registra a tentativa e devolve a melhor nota anterior (ou null, se for a primeira).
+  function registrarTentativa(t) {
+    var lista = lerHistorico();
+    var melhorAnterior = lista.length ? Math.max.apply(null, lista.map(function (x) { return x.nota; })) : null;
+    lista.unshift(t);
+    gravarHistorico(lista);
+    return melhorAnterior;
+  }
+
+  function formatarData(ms) {
+    var d = new Date(ms);
+    var dois = function (n) { return (n < 10 ? '0' : '') + n; };
+    return dois(d.getDate()) + '/' + dois(d.getMonth() + 1) + ' ' + dois(d.getHours()) + 'h' + dois(d.getMinutes());
+  }
+
+  function renderHistorico() {
+    var lista = lerHistorico();
+    $('card-historico').hidden = lista.length === 0;
+    if (!lista.length) return;
+
+    var soma = 0, melhor = 0;
+    lista.forEach(function (t) { soma += t.nota; if (t.nota > melhor) melhor = t.nota; });
+    $('hist-total').textContent = lista.length;
+    $('hist-media').textContent = (Math.round(soma / lista.length * 10) / 10).toString().replace('.', ',');
+    $('hist-melhor').textContent = melhor;
+
+    $('lista-historico').innerHTML = lista.slice(0, 10).map(function (t) {
+      var pct = t.max ? Math.round(t.nota / t.max * 100) : 0;
+      return '<li><span class="data">' + formatarData(t.data) + '</span>' +
+        '<span class="acertos">' + t.acertos + '/' + t.total + ' · ' + t.nota + '/' + t.max + ' pts</span>' +
+        '<div class="mini" aria-hidden="true"><div style="width:' + pct + '%"></div></div></li>';
+    }).join('');
+  }
+
+  $('btn-limpar-historico').addEventListener('click', function () {
+    if (!window.confirm('Apagar todo o histórico de simulados deste navegador?')) return;
+    try { localStorage.removeItem(CHAVE_HISTORICO); } catch (e) {}
+    renderHistorico();
+  });
+
+  $('btn-inicio').addEventListener('click', function () {
+    renderHistorico();
+    mostrar('inicio');
+  });
+
   // ---------- Início ----------
   $('btn-iniciar').addEventListener('click', iniciar);
   $('btn-proxima').addEventListener('click', proxima);
   $('btn-refazer').addEventListener('click', iniciar);
+
+  renderHistorico();
 
   carregarBanco()
     .then(montarTelaInicial)

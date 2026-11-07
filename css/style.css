@@ -317,6 +317,51 @@ button:focus-visible { outline: 3px dashed var(--fg); outline-offset: 4px; }
 .gabarito .erro .sua { color: var(--erro); }
 .gabarito .certa-txt { color: var(--ok); }
 
+/* ---------- Histórico ---------- */
+.hist-resumo { display: grid; grid-template-columns: repeat(3, 1fr); gap: 10px; margin-bottom: 14px; }
+.hist-resumo > div {
+  display: flex; flex-direction: column; align-items: center; text-align: center;
+  border: 2px solid var(--borda); border-radius: 12px; padding: 8px 4px;
+}
+.hist-num { font-family: "Bangers", sans-serif; font-size: 1.9rem; line-height: 1.1; }
+.hist-rot { font-size: .8rem; color: var(--fg-suave); }
+
+.lista-historico { list-style: none; margin: 0; padding: 0; display: flex; flex-direction: column; }
+.lista-historico li {
+  display: grid;
+  grid-template-columns: 1fr auto 70px;
+  align-items: center;
+  gap: 10px;
+  padding: 8px 2px;
+  border-bottom: 2px dashed var(--borda);
+  font-size: .95rem;
+}
+.lista-historico li:last-child { border-bottom: none; }
+.lista-historico .data { color: var(--fg-suave); }
+.lista-historico .acertos { font-weight: 700; white-space: nowrap; }
+.lista-historico .mini { height: 10px; border: 2px solid var(--borda); border-radius: 999px; overflow: hidden; }
+.lista-historico .mini > div { height: 100%; background: var(--fg); }
+
+.hist-aviso { margin: 10px 0 0; font-size: .8rem; color: var(--fg-suave); }
+
+.btn-link {
+  margin-top: 6px;
+  padding: 0;
+  border: none;
+  background: none;
+  color: var(--fg-suave);
+  font: inherit;
+  font-size: .85rem;
+  text-decoration: underline;
+  cursor: pointer;
+}
+.btn-link:hover { color: var(--erro); }
+.btn-link-centro { align-self: center; margin-top: 0; font-size: .95rem; }
+.btn-link-centro:hover { color: var(--fg); }
+
+.comparativo { margin: 10px 0 0; font-weight: 700; }
+.comparativo.melhor { color: var(--ok); }
+
 /* ---------- Rodapé ---------- */
 .rodape { text-align: center; font-size: .8rem; color: var(--fg-suave); padding: 8px 16px 20px; }
 

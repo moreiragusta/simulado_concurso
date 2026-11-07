@@ -9,6 +9,7 @@ Simulado web (celular e computador) com questões no estilo da banca **FAFIPA** 
 - As 5 alternativas são sempre embaralhadas.
 - A resposta é corrigida na hora e não pode ser alterada.
 - No final aparece o gabarito (✓ / ✗), o desempenho por matéria e a nota ponderada.
+- Cada simulado concluído entra no histórico da tela inicial (salvo só no navegador/aparelho usado).
 
 ## Matérias (prova real: 40 questões / 100 pontos)
 
@@ -64,10 +65,10 @@ e acesse `http://localhost:8000`.
 - [x] Etapa 2 — visual (cartoon P&B, claro/escuro, responsivo)
 - [x] Etapa 3 — lógica do simulado
 - [x] Etapa 4 — banco de 200 questões (24 blocos revisados; ver `PLANO_QUESTOES.md`)
-- [ ] Etapa 5 — extras
+- [x] Etapa 5 — extras
   - [x] barra de progresso e placar parcial
   - [x] desempenho por matéria e nota ponderada
-  - [ ] histórico de tentativas
+  - [x] histórico de tentativas (últimas 30, salvas no `localStorage` do navegador; resumo com média e melhor nota)
 - [ ] v2 — explicação por questão (usando o campo `fonte`), filtro por matéria
 
 ### Fontes das questões de legislação
