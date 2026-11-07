@@ -5,11 +5,37 @@
     "observacao": "Matérias com 'noSimulado' fixo entram com essa quantidade; as demais dividem o restante (2 ou 3 cada, sorteado)."
   },
   "temas": [
-    { "id": "portugues",   "nome": "Língua Portuguesa",            "questoesNaProva": 5,  "valor": 2 },
-    { "id": "matematica",  "nome": "Matemática/Raciocínio Lógico", "questoesNaProva": 5,  "valor": 2 },
-    { "id": "informatica", "nome": "Noções de Informática",        "questoesNaProva": 5,  "valor": 2 },
-    { "id": "legislacao",  "nome": "Legislação",                   "questoesNaProva": 5,  "valor": 2 },
-    { "id": "especificos", "nome": "Conhecimentos Específicos",    "questoesNaProva": 20, "valor": 3, "noSimulado": 10 }
+    {
+      "id": "portugues",
+      "nome": "Língua Portuguesa",
+      "questoesNaProva": 5,
+      "valor": 2
+    },
+    {
+      "id": "matematica",
+      "nome": "Matemática/Raciocínio Lógico",
+      "questoesNaProva": 5,
+      "valor": 2
+    },
+    {
+      "id": "informatica",
+      "nome": "Noções de Informática",
+      "questoesNaProva": 5,
+      "valor": 2
+    },
+    {
+      "id": "legislacao",
+      "nome": "Legislação",
+      "questoesNaProva": 5,
+      "valor": 2
+    },
+    {
+      "id": "especificos",
+      "nome": "Conhecimentos Específicos",
+      "questoesNaProva": 20,
+      "valor": 3,
+      "noSimulado": 10
+    }
   ],
   "questoes": [
     {
@@ -345,7 +371,12 @@
       "tema": "matematica",
       "enunciado": "Um servidor recebe R$ 3.000,00 e contribui com 14% para o regime próprio. Qual o valor da contribuição?",
       "correta": "R$ 420,00",
-      "incorretas": ["R$ 300,00", "R$ 340,00", "R$ 400,00", "R$ 440,00"]
+      "incorretas": [
+        "R$ 300,00",
+        "R$ 340,00",
+        "R$ 400,00",
+        "R$ 440,00"
+      ]
     },
     {
       "id": "MAT-002",
@@ -353,7 +384,12 @@
       "fonte": "Equação do 1º grau",
       "enunciado": "O triplo de um número, somado a 12, é igual a 45. Esse número é:",
       "correta": "11",
-      "incorretas": ["9", "13", "15", "19"]
+      "incorretas": [
+        "9",
+        "13",
+        "15",
+        "19"
+      ]
     },
     {
       "id": "MAT-003",
@@ -361,7 +397,12 @@
       "fonte": "Equação do 2º grau",
       "enunciado": "As raízes da equação x² − 5x + 6 = 0 são:",
       "correta": "2 e 3.",
-      "incorretas": ["−2 e −3.", "1 e 6.", "−1 e 6.", "−2 e 3."]
+      "incorretas": [
+        "−2 e −3.",
+        "1 e 6.",
+        "−1 e 6.",
+        "−2 e 3."
+      ]
     },
     {
       "id": "MAT-004",
@@ -369,7 +410,12 @@
       "fonte": "Sistema de equações do 1º grau",
       "enunciado": "Em um setor da prefeitura trabalham 30 servidores, entre homens e mulheres. Sabendo que o número de mulheres excede o de homens em 6, quantas mulheres trabalham nesse setor?",
       "correta": "18",
-      "incorretas": ["12", "16", "20", "24"]
+      "incorretas": [
+        "12",
+        "16",
+        "20",
+        "24"
+      ]
     },
     {
       "id": "MAT-005",
@@ -377,7 +423,12 @@
       "fonte": "MMC",
       "enunciado": "Um equipamento passa por manutenção a cada 12 dias, e outro, a cada 18 dias. Se ambos passaram por manutenção hoje, voltarão a passar por manutenção no mesmo dia daqui a:",
       "correta": "36 dias.",
-      "incorretas": ["30 dias.", "54 dias.", "72 dias.", "216 dias."]
+      "incorretas": [
+        "30 dias.",
+        "54 dias.",
+        "72 dias.",
+        "216 dias."
+      ]
     },
     {
       "id": "MAT-006",
@@ -385,7 +436,12 @@
       "fonte": "MDC",
       "enunciado": "Um almoxarifado possui 48 canetas e 72 lápis, que serão distribuídos em kits idênticos, com o maior número possível de kits e sem sobras. Quantos kits serão formados?",
       "correta": "24",
-      "incorretas": ["6", "8", "12", "144"]
+      "incorretas": [
+        "6",
+        "8",
+        "12",
+        "144"
+      ]
     },
     {
       "id": "MAT-007",
@@ -393,7 +449,12 @@
       "fonte": "Regra de três simples",
       "enunciado": "Uma impressora imprime 240 páginas em 8 minutos. Mantido o mesmo ritmo, quantas páginas ela imprimirá em 15 minutos?",
       "correta": "450",
-      "incorretas": ["360", "400", "480", "500"]
+      "incorretas": [
+        "360",
+        "400",
+        "480",
+        "500"
+      ]
     },
     {
       "id": "MAT-008",
@@ -401,7 +462,12 @@
       "fonte": "Regra de três composta",
       "enunciado": "Cinco servidores digitalizam 600 documentos em 4 dias. Mantido o mesmo ritmo de trabalho, quantos documentos oito servidores digitalizarão em 6 dias?",
       "correta": "1.440",
-      "incorretas": ["960", "1.200", "1.600", "1.800"]
+      "incorretas": [
+        "960",
+        "1.200",
+        "1.600",
+        "1.800"
+      ]
     },
     {
       "id": "MAT-009",
@@ -409,7 +475,12 @@
       "fonte": "Juros simples",
       "enunciado": "Um capital de R$ 2.000,00 foi aplicado a juros simples, à taxa de 1,5% ao mês, durante 8 meses. O valor dos juros obtidos nessa aplicação foi de:",
       "correta": "R$ 240,00",
-      "incorretas": ["R$ 120,00", "R$ 160,00", "R$ 300,00", "R$ 2.240,00"]
+      "incorretas": [
+        "R$ 120,00",
+        "R$ 160,00",
+        "R$ 300,00",
+        "R$ 2.240,00"
+      ]
     },
     {
       "id": "MAT-010",
@@ -417,7 +488,12 @@
       "fonte": "Quatro operações e frações — resolução de problemas",
       "enunciado": "Um servidor recebeu 3 caixas com 125 processos cada uma e já arquivou 2/5 do total. Quantos processos ainda faltam ser arquivados?",
       "correta": "225",
-      "incorretas": ["150", "175", "250", "300"]
+      "incorretas": [
+        "150",
+        "175",
+        "250",
+        "300"
+      ]
     },
     {
       "id": "MAT-011",
@@ -425,7 +501,12 @@
       "fonte": "Geometria plana — ângulos suplementares",
       "enunciado": "Dois ângulos são suplementares, e um deles mede 40° a mais que o outro. A medida do maior desses ângulos é:",
       "correta": "110°",
-      "incorretas": ["65°", "70°", "100°", "140°"]
+      "incorretas": [
+        "65°",
+        "70°",
+        "100°",
+        "140°"
+      ]
     },
     {
       "id": "MAT-012",
@@ -433,7 +514,12 @@
       "fonte": "Geometria plana — Teorema de Tales",
       "enunciado": "Três retas paralelas são cortadas por duas retas transversais. Na primeira transversal, os segmentos determinados medem 4 cm e 6 cm. Na segunda transversal, o segmento correspondente ao de 4 cm mede 10 cm. O segmento correspondente ao de 6 cm mede:",
       "correta": "15 cm.",
-      "incorretas": ["2,4 cm.", "8 cm.", "12 cm.", "20 cm."]
+      "incorretas": [
+        "2,4 cm.",
+        "8 cm.",
+        "12 cm.",
+        "20 cm."
+      ]
     },
     {
       "id": "MAT-013",
@@ -441,7 +527,12 @@
       "fonte": "Geometria plana — área do círculo",
       "enunciado": "Uma praça circular tem raio de 10 metros. Considerando π = 3,14, a área dessa praça é de:",
       "correta": "314 m².",
-      "incorretas": ["31,4 m².", "62,8 m².", "628 m².", "3.140 m²."]
+      "incorretas": [
+        "31,4 m².",
+        "62,8 m².",
+        "628 m².",
+        "3.140 m²."
+      ]
     },
     {
       "id": "MAT-014",
@@ -449,7 +540,12 @@
       "fonte": "Geometria espacial — volume do paralelepípedo e conversão m³/litros",
       "enunciado": "Uma caixa-d'água tem a forma de um paralelepípedo reto-retângulo com dimensões internas de 2 m de comprimento, 1,5 m de largura e 1 m de altura. A capacidade dessa caixa-d'água é de:",
       "correta": "3.000 litros.",
-      "incorretas": ["3 litros.", "300 litros.", "4.500 litros.", "30.000 litros."]
+      "incorretas": [
+        "3 litros.",
+        "300 litros.",
+        "4.500 litros.",
+        "30.000 litros."
+      ]
     },
     {
       "id": "MAT-015",
@@ -457,7 +553,12 @@
       "fonte": "Plano cartesiano — simetria",
       "enunciado": "No plano cartesiano, o ponto simétrico de A(3, −2) em relação ao eixo das abscissas (eixo x) é:",
       "correta": "(3, 2)",
-      "incorretas": ["(−3, −2)", "(−3, 2)", "(2, 3)", "(−2, 3)"]
+      "incorretas": [
+        "(−3, −2)",
+        "(−3, 2)",
+        "(2, 3)",
+        "(−2, 3)"
+      ]
     },
     {
       "id": "MAT-016",
@@ -465,7 +566,12 @@
       "fonte": "Estatística — média, moda e mediana",
       "enunciado": "As idades de cinco servidores de um setor são: 25, 30, 30, 42 e 48 anos. A média aritmética, a moda e a mediana dessas idades são, respectivamente:",
       "correta": "35, 30 e 30.",
-      "incorretas": ["35, 30 e 42.", "30, 30 e 35.", "35, 42 e 30.", "34, 30 e 30."]
+      "incorretas": [
+        "35, 30 e 42.",
+        "30, 30 e 35.",
+        "35, 42 e 30.",
+        "34, 30 e 30."
+      ]
     },
     {
       "id": "MAT-017",
@@ -473,7 +579,12 @@
       "fonte": "Estatística — média ponderada",
       "enunciado": "Em uma prova, um candidato obteve nota 6 em Português (peso 2), nota 9 em Matemática (peso 1) e nota 8 em Conhecimentos Específicos (peso 3). A média ponderada desse candidato foi:",
       "correta": "7,5",
-      "incorretas": ["6,5", "7,0", "7,7", "8,0"]
+      "incorretas": [
+        "6,5",
+        "7,0",
+        "7,7",
+        "8,0"
+      ]
     },
     {
       "id": "MAT-018",
@@ -481,7 +592,12 @@
       "fonte": "Probabilidade — evento simples",
       "enunciado": "Uma urna contém 4 bolas vermelhas, 6 bolas azuis e 10 bolas brancas, todas do mesmo tamanho. Retirando-se uma bola ao acaso, a probabilidade de ela ser azul é de:",
       "correta": "30%",
-      "incorretas": ["6%", "20%", "25%", "60%"]
+      "incorretas": [
+        "6%",
+        "20%",
+        "25%",
+        "60%"
+      ]
     },
     {
       "id": "MAT-019",
@@ -489,7 +605,12 @@
       "fonte": "Sequência numérica — diferenças crescentes",
       "enunciado": "Observe a sequência numérica: 2, 6, 12, 20, 30, ... Mantido o mesmo padrão, o próximo termo é:",
       "correta": "42",
-      "incorretas": ["36", "38", "40", "44"]
+      "incorretas": [
+        "36",
+        "38",
+        "40",
+        "44"
+      ]
     },
     {
       "id": "MAT-020",
@@ -497,7 +618,12 @@
       "fonte": "Sequência de letras — saltos crescentes no alfabeto de 26 letras",
       "enunciado": "Considere o alfabeto de 26 letras (incluindo K, W e Y) e a sequência: A, C, F, J, O, ... Mantido o mesmo padrão, a próxima letra é:",
       "correta": "U",
-      "incorretas": ["S", "T", "V", "X"]
+      "incorretas": [
+        "S",
+        "T",
+        "V",
+        "X"
+      ]
     },
     {
       "id": "MAT-021",
@@ -505,7 +631,12 @@
       "fonte": "Conjuntos — união e interseção",
       "enunciado": "Em um grupo de 50 servidores, 30 fizeram curso de Excel, 25 fizeram curso de Word e 10 fizeram os dois cursos. Quantos servidores desse grupo não fizeram nenhum dos dois cursos?",
       "correta": "5",
-      "incorretas": ["0", "10", "15", "20"]
+      "incorretas": [
+        "0",
+        "10",
+        "15",
+        "20"
+      ]
     },
     {
       "id": "MAT-022",
@@ -513,7 +644,12 @@
       "fonte": "Potenciação e ordem das operações",
       "enunciado": "O valor da expressão 2³ + 3² − 4⁰ × 5 é:",
       "correta": "12",
-      "incorretas": ["7", "16", "17", "80"]
+      "incorretas": [
+        "7",
+        "16",
+        "17",
+        "80"
+      ]
     },
     {
       "id": "MAT-023",
@@ -521,7 +657,12 @@
       "fonte": "Produtos notáveis — quadrado da soma",
       "enunciado": "O desenvolvimento do produto notável (x + 3)² resulta em:",
       "correta": "x² + 6x + 9",
-      "incorretas": ["x² + 9", "x² + 3x + 9", "x² + 6x + 6", "x² − 6x + 9"]
+      "incorretas": [
+        "x² + 9",
+        "x² + 3x + 9",
+        "x² + 6x + 6",
+        "x² − 6x + 9"
+      ]
     },
     {
       "id": "MAT-024",
@@ -529,7 +670,12 @@
       "fonte": "Função afim",
       "enunciado": "O valor de uma corrida de táxi é dado por uma função afim: R$ 5,00 de valor fixo (bandeirada) mais R$ 2,50 por quilômetro rodado. Uma corrida de 12 km custará:",
       "correta": "R$ 35,00",
-      "incorretas": ["R$ 30,00", "R$ 32,50", "R$ 37,50", "R$ 60,00"]
+      "incorretas": [
+        "R$ 30,00",
+        "R$ 32,50",
+        "R$ 37,50",
+        "R$ 60,00"
+      ]
     },
     {
       "id": "MAT-025",
@@ -537,52 +683,23 @@
       "fonte": "Unidades de medida — tempo",
       "enunciado": "Uma reunião começou às 8h45min e durou 2h50min. Essa reunião terminou às:",
       "correta": "11h35min",
-      "incorretas": ["10h35min", "11h05min", "11h25min", "12h35min"]
+      "incorretas": [
+        "10h35min",
+        "11h05min",
+        "11h25min",
+        "12h35min"
+      ]
     },
     {
       "id": "INF-001",
       "tema": "informatica",
       "enunciado": "No Microsoft Word, o atalho Ctrl + Z serve para:",
       "correta": "desfazer a última ação",
-      "incorretas": ["salvar o documento", "refazer a última ação", "selecionar todo o texto", "fechar o documento"]
-    },
-    {
-      "id": "INF-002",
-      "tema": "informatica",
-      "fonte": "Hardware — dispositivos de entrada e saída",
-      "enunciado": "Assinale a alternativa que apresenta apenas dispositivos de entrada.",
-      "correta": "Teclado, mouse e scanner.",
       "incorretas": [
-        "Monitor, impressora e caixa de som.",
-        "Teclado, monitor e impressora.",
-        "Mouse, projetor e fone de ouvido.",
-        "Scanner, impressora e monitor."
-      ]
-    },
-    {
-      "id": "INF-003",
-      "tema": "informatica",
-      "fonte": "Hardware — memória RAM x ROM",
-      "enunciado": "Sobre a memória RAM de um computador, assinale a alternativa CORRETA.",
-      "correta": "É uma memória volátil, cujo conteúdo é perdido quando o computador é desligado.",
-      "incorretas": [
-        "É uma memória permanente, usada para guardar arquivos após o desligamento.",
-        "É um software responsável por gerenciar os periféricos do computador.",
-        "É um dispositivo de saída que exibe as informações processadas ao usuário.",
-        "É uma memória somente de leitura, gravada de fábrica pelo fabricante."
-      ]
-    },
-    {
-      "id": "INF-004",
-      "tema": "informatica",
-      "fonte": "Software — sistema operacional",
-      "enunciado": "O Windows 11 e o Linux Ubuntu são exemplos de:",
-      "correta": "sistemas operacionais.",
-      "incorretas": [
-        "aplicativos de escritório.",
-        "navegadores de internet.",
-        "programas antivírus.",
-        "dispositivos de hardware."
+        "salvar o documento",
+        "refazer a última ação",
+        "selecionar todo o texto",
+        "fechar o documento"
       ]
     },
     {
@@ -651,32 +768,6 @@
       ]
     },
     {
-      "id": "INF-010",
-      "tema": "informatica",
-      "fonte": "Segurança — tipos de malware (ransomware)",
-      "enunciado": "O tipo de código malicioso que torna inacessíveis os dados armazenados em um equipamento, geralmente por meio de criptografia, e exige pagamento de resgate para restabelecer o acesso é denominado:",
-      "correta": "ransomware.",
-      "incorretas": [
-        "spyware.",
-        "adware.",
-        "worm.",
-        "cavalo de troia."
-      ]
-    },
-    {
-      "id": "INF-011",
-      "tema": "informatica",
-      "fonte": "Segurança — boas práticas (senhas e autenticação em dois fatores)",
-      "enunciado": "Assinale a alternativa que apresenta uma boa prática de segurança da informação.",
-      "correta": "Ativar a verificação em duas etapas nas contas que oferecem esse recurso.",
-      "incorretas": [
-        "Utilizar a mesma senha em todos os serviços para não correr o risco de esquecê-la.",
-        "Anotar as senhas em um papel colado no monitor para consultá-las com rapidez.",
-        "Desativar o antivírus para que o computador fique mais rápido durante o trabalho.",
-        "Abrir os anexos de e-mails de remetentes desconhecidos para verificar o conteúdo."
-      ]
-    },
-    {
       "id": "INF-012",
       "tema": "informatica",
       "fonte": "Windows 11 — Gerenciador de Tarefas (Ctrl + Shift + Esc)",
@@ -700,32 +791,6 @@
         "abrir as configurações de som e ajustar o volume do sistema.",
         "desligar o computador sem fechar os aplicativos abertos.",
         "alternar entre as janelas dos aplicativos que estão abertos."
-      ]
-    },
-    {
-      "id": "INF-014",
-      "tema": "informatica",
-      "fonte": "Linux Ubuntu — comandos básicos do terminal (ls)",
-      "enunciado": "No terminal do Linux Ubuntu, o comando utilizado para listar o conteúdo de um diretório é:",
-      "correta": "ls",
-      "incorretas": [
-        "cd",
-        "pwd",
-        "mkdir",
-        "rm"
-      ]
-    },
-    {
-      "id": "INF-015",
-      "tema": "informatica",
-      "fonte": "Linux Ubuntu — comando sudo",
-      "enunciado": "No Linux Ubuntu, o comando sudo, colocado antes de outro comando no terminal, é utilizado para:",
-      "correta": "executar o comando com privilégios de administrador (superusuário).",
-      "incorretas": [
-        "apagar permanentemente os arquivos indicados no comando.",
-        "mudar do diretório atual para o diretório pessoal do usuário.",
-        "exibir o caminho completo do diretório em que o usuário está.",
-        "encerrar a interface gráfica e reiniciar o sistema operacional."
       ]
     },
     {
@@ -760,7 +825,12 @@
       "fonte": "Excel 2021 — função SOMA",
       "enunciado": "Em uma planilha do Microsoft Excel 2021, as células A1, A2, A3 e A4 contêm, respectivamente, os valores 2, 4, 6 e 8. O resultado da fórmula =SOMA(A1:A4) é:",
       "correta": "20",
-      "incorretas": ["5", "8", "10", "12"]
+      "incorretas": [
+        "5",
+        "8",
+        "10",
+        "12"
+      ]
     },
     {
       "id": "INF-019",
@@ -768,7 +838,12 @@
       "fonte": "Excel 2021 — função SE",
       "enunciado": "Em uma planilha do Microsoft Excel 2021, a célula B2 contém o valor 6,5. A célula C2 contém a fórmula =SE(B2>=7;\"Aprovado\";\"Reprovado\"). O resultado exibido em C2 será:",
       "correta": "Reprovado",
-      "incorretas": ["Aprovado", "6,5", "VERDADEIRO", "#VALOR!"]
+      "incorretas": [
+        "Aprovado",
+        "6,5",
+        "VERDADEIRO",
+        "#VALOR!"
+      ]
     },
     {
       "id": "INF-020",
@@ -776,71 +851,167 @@
       "fonte": "Excel 2021 — referência relativa e absoluta ($)",
       "enunciado": "No Microsoft Excel 2021, a célula C1 contém a fórmula =A1*$B$1. Se essa fórmula for copiada para a célula C2, a fórmula resultante em C2 será:",
       "correta": "=A2*$B$1",
-      "incorretas": ["=A2*$B$2", "=A1*$B$1", "=B2*$B$1", "=A2*B2"]
-    },
-    {
-      "id": "INF-021",
-      "tema": "informatica",
-      "fonte": "Navegadores — navegação anônima/privada",
-      "enunciado": "Sobre a navegação anônima (ou privada), disponível nos principais navegadores, como Google Chrome, Microsoft Edge e Mozilla Firefox, é CORRETO afirmar que ela:",
-      "correta": "não mantém no computador o histórico, os cookies e os dados de formulários após a sessão ser encerrada.",
       "incorretas": [
-        "torna o usuário completamente invisível para o provedor de internet e para os sites visitados.",
-        "impede a instalação de qualquer vírus ou código malicioso no computador durante a navegação.",
-        "criptografa automaticamente todos os arquivos baixados durante a sessão de navegação.",
-        "bloqueia automaticamente todos os anúncios e janelas das páginas visitadas pelo usuário."
+        "=A2*$B$2",
+        "=A1*$B$1",
+        "=B2*$B$1",
+        "=A2*B2"
       ]
     },
     {
-      "id": "INF-022",
+      "id": "INF-026",
       "tema": "informatica",
-      "fonte": "Busca na web — operadores do Google",
-      "enunciado": "Ao realizar uma pesquisa no Google, para que sejam retornados resultados que contenham exatamente a expressão concurso PrudenPrev, na mesma ordem, o usuário deve:",
-      "correta": "digitar a expressão entre aspas.",
+      "fonte": "Word 2021 (pt-BR) — Ctrl + B (Salvar)",
+      "enunciado": "No Microsoft Word 2021, em sua versão em português, o atalho Ctrl + B tem a função de:",
+      "correta": "salvar o documento.",
       "incorretas": [
-        "digitar um hífen antes da expressão.",
-        "digitar site: antes da expressão.",
-        "digitar um asterisco após a expressão.",
-        "digitar filetype: antes da expressão."
+        "aplicar negrito ao texto.",
+        "abrir um documento existente.",
+        "buscar uma palavra no texto.",
+        "colar o conteúdo copiado."
       ]
     },
     {
-      "id": "INF-023",
+      "id": "INF-027",
       "tema": "informatica",
-      "fonte": "Google Drive — compartilhamento e permissões",
-      "enunciado": "No Google Drive, ao compartilhar um arquivo com outras pessoas, o usuário pode atribuir a elas os seguintes níveis de acesso:",
-      "correta": "Leitor, Comentarista e Editor.",
+      "fonte": "Word 2021 (pt-BR) — Ctrl + T (Selecionar tudo)",
+      "enunciado": "No Microsoft Word 2021, em sua versão em português, o atalho Ctrl + T tem a função de:",
+      "correta": "selecionar todo o conteúdo do documento.",
       "incorretas": [
-        "Administrador, Moderador e Visitante.",
-        "Proprietário, Gerente e Usuário.",
-        "Leitor, Revisor e Aprovador.",
-        "Leitura, Gravação e Execução."
+        "inserir uma tabela no documento.",
+        "aplicar tachado ao texto selecionado.",
+        "abrir um novo documento em branco.",
+        "imprimir o documento que está aberto."
       ]
     },
     {
-      "id": "INF-024",
+      "id": "INF-028",
       "tema": "informatica",
-      "fonte": "E-mail — campo Cco (cópia oculta)",
-      "enunciado": "Em programas e serviços de e-mail, como Outlook, Gmail e Zimbra, o campo Cco (cópia oculta) é utilizado para:",
-      "correta": "enviar a mensagem a destinatários cujos endereços não ficam visíveis aos demais.",
+      "fonte": "Word 2021 — Pincel de Formatação",
+      "enunciado": "No Microsoft Word 2021, a ferramenta que permite copiar a formatação de um trecho de texto (fonte, cor, tamanho etc.) para aplicá-la em outro trecho é o(a):",
+      "correta": "Pincel de Formatação.",
       "incorretas": [
-        "enviar uma cópia da mensagem apenas para o próprio remetente, como comprovante.",
-        "agendar o envio da mensagem para outro dia ou horário definido pelo remetente.",
-        "criptografar a mensagem para que apenas o destinatário principal consiga lê-la.",
-        "exigir a confirmação de leitura de todos os destinatários antes da entrega."
+        "Controlar Alterações.",
+        "Revisão Ortográfica.",
+        "Quebra de Seção.",
+        "Marca d'Água."
       ]
     },
     {
-      "id": "INF-025",
+      "id": "INF-029",
       "tema": "informatica",
-      "fonte": "Inteligência artificial generativa — uso responsável",
-      "enunciado": "Sobre as ferramentas de inteligência artificial generativa de texto, como ChatGPT, Microsoft Copilot e Google Gemini, é CORRETO afirmar que:",
-      "correta": "podem produzir respostas incorretas, que devem ser conferidas pelo usuário antes de serem utilizadas.",
+      "fonte": "Word 2021 — Controlar Alterações (guia Revisão)",
+      "enunciado": "No Microsoft Word 2021, o recurso Controlar Alterações, que registra as inserções, exclusões e modificações feitas no documento para que possam ser aceitas ou rejeitadas depois, está localizado na guia:",
+      "correta": "Revisão.",
       "incorretas": [
-        "fornecem sempre informações corretas e atualizadas, dispensando qualquer conferência do usuário.",
-        "funcionam exclusivamente sem conexão com a internet, instaladas no computador do usuário.",
-        "são indicadas para receber, sem restrições, dados pessoais e sigilosos de cidadãos atendidos.",
-        "são capazes apenas de realizar cálculos matemáticos, sem produzir textos em linguagem natural."
+        "Página Inicial.",
+        "Inserir.",
+        "Layout.",
+        "Referências."
+      ]
+    },
+    {
+      "id": "INF-030",
+      "tema": "informatica",
+      "fonte": "Word 2021 — Sumário automático (guia Referências)",
+      "enunciado": "No Microsoft Word 2021, para inserir um sumário automático, montado a partir dos estilos de título aplicados ao texto, utiliza-se a guia:",
+      "correta": "Referências.",
+      "incorretas": [
+        "Inserir.",
+        "Design.",
+        "Exibir.",
+        "Correspondências."
+      ]
+    },
+    {
+      "id": "INF-031",
+      "tema": "informatica",
+      "fonte": "Excel 2021 — função MÉDIA",
+      "enunciado": "Em uma planilha do Microsoft Excel 2021, as células B1, B2, B3 e B4 contêm, respectivamente, os valores 4, 6, 8 e 10. O resultado da fórmula =MÉDIA(B1:B4) é:",
+      "correta": "7",
+      "incorretas": [
+        "4",
+        "9",
+        "10",
+        "28"
+      ]
+    },
+    {
+      "id": "INF-032",
+      "tema": "informatica",
+      "fonte": "Excel 2021 — função CONT.SE",
+      "enunciado": "Em uma planilha do Microsoft Excel 2021, as células de A1 a A6 contêm, respectivamente: Sim, Não, Sim, Sim, Não e Talvez. O resultado da fórmula =CONT.SE(A1:A6;\"Sim\") é:",
+      "correta": "3",
+      "incorretas": [
+        "1",
+        "2",
+        "4",
+        "6"
+      ]
+    },
+    {
+      "id": "INF-033",
+      "tema": "informatica",
+      "fonte": "Excel 2021 — função PROCV",
+      "enunciado": "No Microsoft Excel 2021, a função PROCV é utilizada para:",
+      "correta": "buscar um valor na primeira coluna de uma tabela e retornar o dado de outra coluna da mesma linha.",
+      "incorretas": [
+        "somar apenas os valores de um intervalo que atendem a um critério informado pelo usuário.",
+        "contar quantas células de um intervalo não estão vazias, independentemente do conteúdo.",
+        "arredondar um número para a quantidade de casas decimais informada pelo usuário.",
+        "juntar o conteúdo de duas ou mais células em uma única célula, formando um só texto."
+      ]
+    },
+    {
+      "id": "INF-034",
+      "tema": "informatica",
+      "fonte": "Excel 2021 — mensagens de erro (#DIV/0!)",
+      "enunciado": "No Microsoft Excel 2021, a mensagem de erro #DIV/0! exibida em uma célula indica que:",
+      "correta": "a fórmula tenta dividir um valor por zero ou por uma célula vazia.",
+      "incorretas": [
+        "o nome de uma função foi digitado de forma incorreta na fórmula.",
+        "a coluna é estreita demais para exibir todo o valor da célula.",
+        "a fórmula faz referência a uma célula que foi excluída da planilha.",
+        "o valor procurado pela função não foi encontrado no intervalo."
+      ]
+    },
+    {
+      "id": "INF-035",
+      "tema": "informatica",
+      "fonte": "Excel 2021 — referência mista ($A1)",
+      "enunciado": "No Microsoft Excel 2021, a célula B1 contém a fórmula =$A1*2. Se essa fórmula for copiada para a célula C2, a fórmula resultante em C2 será:",
+      "correta": "=$A2*2",
+      "incorretas": [
+        "=$A1*2",
+        "=$B2*2",
+        "=B2*2",
+        "=$A$1*2"
+      ]
+    },
+    {
+      "id": "INF-036",
+      "tema": "informatica",
+      "fonte": "Excel 2021 — funções SE e E",
+      "enunciado": "Em uma planilha do Microsoft Excel 2021, a célula A1 contém o valor 6 e a célula B1 contém o valor 4. O resultado da fórmula =SE(E(A1>=5;B1>=5);\"Aprovado\";\"Reprovado\") é:",
+      "correta": "Reprovado",
+      "incorretas": [
+        "Aprovado",
+        "VERDADEIRO",
+        "FALSO",
+        "#VALOR!"
+      ]
+    },
+    {
+      "id": "INF-037",
+      "tema": "informatica",
+      "fonte": "Windows 11 — Explorador de Arquivos (F2)",
+      "enunciado": "No Explorador de Arquivos do Windows 11, ao selecionar um arquivo e pressionar a tecla F2, o usuário poderá:",
+      "correta": "renomear o arquivo selecionado.",
+      "incorretas": [
+        "excluir o arquivo selecionado.",
+        "abrir as propriedades do arquivo.",
+        "atualizar a exibição da pasta.",
+        "pesquisar arquivos na pasta."
       ]
     },
     {
@@ -1752,7 +1923,6 @@
         "atividade exclusiva do arquivo permanente, voltada apenas ao atendimento de pesquisadores interessados na história da instituição."
       ]
     },
-
     {
       "id": "LEG-001",
       "tema": "legislacao",
@@ -1873,7 +2043,6 @@
         "realização do tratamento para propósitos legítimos, específicos, explícitos e informados ao titular."
       ]
     },
-
     {
       "id": "LEG-011",
       "tema": "legislacao",
@@ -1982,7 +2151,6 @@
         "omissão ilegal de autoridade pública que viole direito líquido e certo."
       ]
     },
-
     {
       "id": "LEG-020",
       "tema": "legislacao",
@@ -2055,7 +2223,6 @@
         "mera infração disciplinar, sem improbidade."
       ]
     },
-
     {
       "id": "L106-01",
       "tema": "especificos",
@@ -2186,7 +2353,6 @@
         "24,40% (vinte e quatro vírgula quarenta por cento)."
       ]
     },
-
     {
       "id": "L05-01",
       "tema": "especificos",
@@ -2317,7 +2483,6 @@
         "10 (dez) anos, 5 (cinco) anos e 2 (dois) anos."
       ]
     },
-
     {
       "id": "L9717-01",
       "tema": "especificos",

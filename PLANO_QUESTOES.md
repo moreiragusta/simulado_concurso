@@ -97,20 +97,17 @@ Toda questão cita o artigo de origem para conferência.
 
 ## Noções de Informática — 25 questões (`INF-xxx`)
 
-| Assunto | Qtd | Status |
+Foco pedido pelo usuário: quase todas sobre Word, Excel e Windows/Explorador de Arquivos.
+
+| Assunto | Qtd | IDs |
 |---|---|---|
-| Conceitos, hardware de entrada/saída e software | 3 | ✅ INF-002 a 004 |
-| Atalhos de teclado | 3 | ✅ INF-001, 005 e 006 |
-| Gerenciamento de arquivos | 2 | ✅ INF-007 e 008 |
-| Segurança de dados | 3 | ✅ INF-009 a 011 |
-| Windows 11 | 2 | ✅ INF-012 e 013 |
-| Linux Ubuntu | 2 | ✅ INF-014 e 015 |
-| Word 2021 | 2 | ✅ INF-016 e 017 |
-| Excel 2021 | 3 | ✅ INF-018 a 020 |
-| Navegadores e busca na Web | 2 | ✅ INF-021 e 022 |
-| Nuvem (Google Drive) | 1 | ✅ INF-023 |
-| E-mail (Outlook, Gmail, Zimbra) | 1 | ✅ INF-024 |
-| Inteligência artificial generativa (ChatGPT, Copilot, Gemini) | 1 | ✅ INF-025 |
+| Word 2021 (atalhos pt-BR, Pincel de Formatação, guias Revisão e Referências, quebra de página) | 8 | INF-001, 016, 017, 026 a 030 ✅ |
+| Excel 2021 (SOMA, MÉDIA, SE, E, CONT.SE, PROCV, erros, referências relativa/absoluta/mista) | 9 | INF-018 a 020, 031 a 036 ✅ |
+| Windows 11 e Explorador de Arquivos (atalhos, extensões, Shift+Delete, F2, Gerenciador de Tarefas, Captura) | 7 | INF-005 a 008, 012, 013, 037 ✅ |
+| Segurança (phishing) | 1 | INF-009 ✅ |
+
+> Removidas nesta revisão: INF-002 a 004 (hardware/software), 010 e 011 (malware/senhas), 014 e 015 (Ubuntu),
+> 021 e 022 (navegadores/busca), 023 (Google Drive), 024 (e-mail) e 025 (IA).
 
 ## Observação
 
