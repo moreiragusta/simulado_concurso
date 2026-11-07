@@ -1323,6 +1323,162 @@
         "Conhecimento, Hábito e Aptidão."
       ]
     },
+    {
+      "id": "ADM-037",
+      "tema": "especificos",
+      "fonte": "Elementos da comunicação — ruído",
+      "enunciado": "No processo de comunicação, qualquer interferência que prejudica ou distorce a mensagem entre o emissor e o receptor é denominada:",
+      "correta": "ruído.",
+      "incorretas": [
+        "feedback.",
+        "canal.",
+        "código.",
+        "contexto."
+      ]
+    },
+    {
+      "id": "ADM-038",
+      "tema": "especificos",
+      "fonte": "Elementos da comunicação — feedback",
+      "enunciado": "A resposta do receptor ao emissor, que permite verificar se a mensagem foi corretamente compreendida, é denominada:",
+      "correta": "feedback.",
+      "incorretas": [
+        "ruído.",
+        "codificação.",
+        "canal.",
+        "repertório."
+      ]
+    },
+    {
+      "id": "ADM-039",
+      "tema": "especificos",
+      "fonte": "Comunicação nas organizações — comunicação informal",
+      "enunciado": "A comunicação que surge espontaneamente entre as pessoas, fora dos canais oficiais da organização, como as conversas de corredor, é denominada comunicação:",
+      "correta": "informal.",
+      "incorretas": [
+        "formal.",
+        "descendente.",
+        "institucional.",
+        "oficial."
+      ]
+    },
+    {
+      "id": "ADM-040",
+      "tema": "especificos",
+      "fonte": "Comunicação nas organizações — fluxos (descendente, ascendente, horizontal)",
+      "enunciado": "A comunicação que parte da chefia em direção aos subordinados, como ordens, instruções e orientações de trabalho, é classificada como comunicação:",
+      "correta": "vertical descendente.",
+      "incorretas": [
+        "vertical ascendente.",
+        "horizontal (lateral).",
+        "diagonal (transversal).",
+        "informal (de corredor)."
+      ]
+    },
+    {
+      "id": "ADM-041",
+      "tema": "especificos",
+      "fonte": "Comunicação corporativa — importância",
+      "enunciado": "A comunicação corporativa é importante para a organização porque:",
+      "correta": "alinha as pessoas aos objetivos da organização e fortalece a sua imagem perante o público.",
+      "incorretas": [
+        "substitui a necessidade de liderança, dispensando a atuação das chefias nos setores.",
+        "restringe as informações estratégicas apenas aos membros da alta administração.",
+        "limita-se à transmissão de ordens, sem espaço para a manifestação dos funcionários.",
+        "elimina o relacionamento da organização com os cidadãos e com a imprensa."
+      ]
+    },
+    {
+      "id": "ADM-042",
+      "tema": "especificos",
+      "fonte": "Técnicas de comunicação — escuta ativa",
+      "enunciado": "A técnica de comunicação que consiste em prestar total atenção ao interlocutor, sem interrompê-lo, demonstrando interesse e confirmando o entendimento do que foi dito, é denominada:",
+      "correta": "escuta ativa.",
+      "incorretas": [
+        "comunicação unilateral.",
+        "retórica persuasiva.",
+        "linguagem técnica.",
+        "escuta seletiva."
+      ]
+    },
+    {
+      "id": "ADM-043",
+      "tema": "especificos",
+      "fonte": "Trabalho em equipe — equipe x grupo",
+      "enunciado": "Diferentemente de um simples grupo de trabalho, uma equipe caracteriza-se por:",
+      "correta": "objetivos comuns, responsabilidade compartilhada pelos resultados e sinergia entre os membros.",
+      "incorretas": [
+        "membros que trabalham isoladamente, cada um responsável apenas pelas suas próprias tarefas.",
+        "ausência de liderança e de objetivos definidos, com tarefas distribuídas de forma aleatória.",
+        "competição interna entre os membros como principal fonte de motivação para o trabalho.",
+        "resultado sempre igual à soma das contribuições individuais, sem qualquer efeito de sinergia."
+      ]
+    },
+    {
+      "id": "ADM-044",
+      "tema": "especificos",
+      "fonte": "Relações humanas — Escola das Relações Humanas (Hawthorne)",
+      "enunciado": "A Escola das Relações Humanas, a partir da experiência de Hawthorne, coordenada por Elton Mayo, destacou a importância:",
+      "correta": "dos fatores sociais e psicológicos, como a integração do grupo, na produtividade.",
+      "incorretas": [
+        "exclusiva da remuneração financeira como fator de motivação dos trabalhadores.",
+        "da divisão rígida das tarefas e do controle dos tempos e movimentos do operário.",
+        "da estrutura formal e da hierarquia rígida como bases da eficiência organizacional.",
+        "da iluminação do ambiente como único fator determinante da produtividade."
+      ]
+    },
+    {
+      "id": "ADM-045",
+      "tema": "especificos",
+      "fonte": "Conflitos — tipos (intrapessoal, interpessoal, intergrupal)",
+      "enunciado": "O conflito que ocorre no interior do próprio indivíduo, quando ele precisa escolher entre objetivos, valores ou papéis incompatíveis, é denominado conflito:",
+      "correta": "intrapessoal.",
+      "incorretas": [
+        "interpessoal.",
+        "intergrupal.",
+        "intragrupal.",
+        "organizacional."
+      ]
+    },
+    {
+      "id": "ADM-046",
+      "tema": "especificos",
+      "fonte": "Gestão de conflitos — estilos (colaboração, competição, acomodação, evitação, compromisso)",
+      "enunciado": "O estilo de administração de conflitos que busca uma solução capaz de satisfazer plenamente os interesses de ambas as partes, do tipo ganha-ganha, é denominado:",
+      "correta": "colaboração.",
+      "incorretas": [
+        "competição.",
+        "acomodação.",
+        "evitação.",
+        "compromisso."
+      ]
+    },
+    {
+      "id": "ADM-047",
+      "tema": "especificos",
+      "fonte": "Conflitos — visão interacionista (conflito funcional)",
+      "enunciado": "Sobre os conflitos nas organizações, assinale a alternativa CORRETA.",
+      "correta": "Quando bem administrados, podem estimular a criatividade, a inovação e a melhoria do trabalho.",
+      "incorretas": [
+        "São sempre prejudiciais à organização e, por isso, devem ser eliminados a qualquer custo.",
+        "Ocorrem apenas entre chefes e subordinados, nunca entre colegas do mesmo nível hierárquico.",
+        "Devem ser ignorados pela chefia, pois sempre se resolvem sozinhos com o passar do tempo.",
+        "Indicam, necessariamente, que os servidores envolvidos são despreparados para o cargo."
+      ]
+    },
+    {
+      "id": "ADM-048",
+      "tema": "especificos",
+      "fonte": "Organização do ambiente de trabalho para prevenção de conflitos",
+      "enunciado": "Assinale a alternativa que apresenta uma medida de organização do ambiente de trabalho que contribui para a prevenção de conflitos.",
+      "correta": "Definir com clareza as atribuições e as responsabilidades de cada servidor.",
+      "incorretas": [
+        "Distribuir as tarefas de forma desigual, sem critérios conhecidos pela equipe.",
+        "Evitar reuniões e qualquer outro canal de diálogo com os servidores do setor.",
+        "Estimular a competição agressiva entre os colegas por melhores resultados.",
+        "Alterar as regras e as rotinas do setor sem comunicar previamente a equipe."
+      ]
+    },
 
     {
       "id": "LEG-001",
