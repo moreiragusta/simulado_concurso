@@ -1479,6 +1479,149 @@
         "Alterar as regras e as rotinas do setor sem comunicar previamente a equipe."
       ]
     },
+    {
+      "id": "ADM-049",
+      "tema": "especificos",
+      "fonte": "Qualidade no atendimento — postura do servidor",
+      "enunciado": "Assinale a alternativa que apresenta uma postura adequada no atendimento ao cidadão.",
+      "correta": "Ouvir com atenção, usar linguagem clara e dar informações precisas sobre o serviço.",
+      "incorretas": [
+        "Usar termos técnicos e jurídicos para demonstrar conhecimento ao cidadão.",
+        "Atender ao telefone enquanto conversa pessoalmente com outro cidadão.",
+        "Encaminhar o cidadão a outro setor sem verificar se é o setor correto.",
+        "Prometer prazos que o setor sabidamente não tem condições de cumprir."
+      ]
+    },
+    {
+      "id": "ADM-050",
+      "tema": "especificos",
+      "fonte": "Qualidade no atendimento — cidadão insatisfeito",
+      "enunciado": "Durante o atendimento, um cidadão demonstra irritação com a demora na análise de seu pedido. Nessa situação, o servidor deve:",
+      "correta": "manter a calma, ouvir sem interromper e buscar uma solução dentro das normas.",
+      "incorretas": [
+        "responder no mesmo tom de voz, para impor respeito e encerrar a discussão.",
+        "encerrar o atendimento imediatamente, sem dar nenhuma explicação ao cidadão.",
+        "concordar com todas as exigências, inclusive as que contrariam as normas.",
+        "chamar outros colegas para discutir o caso em voz alta diante do cidadão."
+      ]
+    },
+    {
+      "id": "ADM-051",
+      "tema": "especificos",
+      "fonte": "Qualidade no atendimento — cliente interno x externo",
+      "enunciado": "No contexto da qualidade no atendimento, entende-se por cliente interno:",
+      "correta": "o colega ou setor da própria organização que recebe o resultado do trabalho de outro.",
+      "incorretas": [
+        "o cidadão que comparece ao órgão público para solicitar a prestação de um serviço.",
+        "o fornecedor que entrega os materiais adquiridos pelo órgão no almoxarifado.",
+        "o órgão de controle externo responsável por fiscalizar as contas da entidade.",
+        "o morador do município que paga os tributos e utiliza os serviços públicos."
+      ]
+    },
+    {
+      "id": "ADM-052",
+      "tema": "especificos",
+      "fonte": "Técnicas de atendimento — atendimento telefônico",
+      "enunciado": "No atendimento telefônico prestado por um órgão público, recomenda-se:",
+      "correta": "identificar o setor e o próprio nome ao atender, tratando o interlocutor com cortesia.",
+      "incorretas": [
+        "atender apenas com \"alô\" e aguardar que o interlocutor se identifique primeiro.",
+        "deixar a ligação em espera por longo tempo, sem dar nenhum retorno ao interlocutor.",
+        "utilizar gírias e expressões informais para tornar a conversa mais descontraída.",
+        "transferir a ligação diversas vezes, até encontrar alguém disposto a responder."
+      ]
+    },
+    {
+      "id": "ADM-053",
+      "tema": "especificos",
+      "fonte": "Administração de materiais — objetivo",
+      "enunciado": "O principal objetivo da administração de materiais é:",
+      "correta": "garantir os materiais necessários, na quantidade, qualidade e momento certos, ao menor custo.",
+      "incorretas": [
+        "manter estoques sempre elevados, independentemente do custo de armazenagem e do consumo.",
+        "adquirir os materiais apenas quando faltarem, sem qualquer planejamento ou controle prévio.",
+        "comprar sempre os materiais de menor preço, independentemente da qualidade oferecida.",
+        "eliminar totalmente os estoques, mesmo que isso provoque a paralisação dos serviços."
+      ]
+    },
+    {
+      "id": "ADM-054",
+      "tema": "especificos",
+      "fonte": "Administração de materiais — curva ABC",
+      "enunciado": "Na classificação ABC de estoques, os itens da classe A correspondem a:",
+      "correta": "poucos itens que representam a maior parte do valor investido em estoque.",
+      "incorretas": [
+        "muitos itens de baixo valor, que exigem pouco controle por parte do setor.",
+        "itens de valor intermediário, tanto em quantidade quanto em valor investido.",
+        "itens obsoletos ou danificados, que devem ser descartados ou leiloados.",
+        "itens de consumo exclusivo da alta administração e das chefias do órgão."
+      ]
+    },
+    {
+      "id": "ADM-055",
+      "tema": "especificos",
+      "fonte": "Administração de materiais — PEPS (FIFO)",
+      "enunciado": "O método de controle de estoque em que os primeiros materiais a entrar no almoxarifado são os primeiros a sair é denominado:",
+      "correta": "PEPS (FIFO).",
+      "incorretas": [
+        "UEPS (LIFO).",
+        "custo médio ponderado.",
+        "curva ABC.",
+        "just in time."
+      ]
+    },
+    {
+      "id": "ADM-056",
+      "tema": "especificos",
+      "fonte": "Administração de materiais — estoque mínimo (de segurança)",
+      "enunciado": "Em administração de materiais, o estoque mínimo, também chamado de estoque de segurança, tem a finalidade de:",
+      "correta": "evitar a falta de materiais diante de atrasos na entrega ou de aumento inesperado do consumo.",
+      "incorretas": [
+        "indicar a quantidade máxima de materiais que pode ser armazenada no espaço do almoxarifado.",
+        "determinar o momento exato do descarte dos materiais obsoletos ou com prazo de validade vencido.",
+        "eliminar a necessidade de controle e de registro das entradas e saídas de materiais do estoque.",
+        "fixar o preço de venda dos materiais excedentes que serão leiloados pela administração pública."
+      ]
+    },
+    {
+      "id": "ADM-057",
+      "tema": "especificos",
+      "fonte": "Controle orçamentário — conceito de orçamento público",
+      "enunciado": "O orçamento público pode ser definido como o instrumento de planejamento que:",
+      "correta": "estima as receitas e fixa as despesas para um exercício financeiro.",
+      "incorretas": [
+        "fixa as receitas e estima as despesas para um exercício financeiro.",
+        "registra apenas as despesas já realizadas no exercício anterior.",
+        "consiste no relatório de prestação de contas aprovado após o exercício.",
+        "define os investimentos públicos para um período de dez anos."
+      ]
+    },
+    {
+      "id": "ADM-058",
+      "tema": "especificos",
+      "fonte": "Controle orçamentário — PPA, LDO e LOA",
+      "enunciado": "Os instrumentos de planejamento e orçamento previstos na Constituição Federal, de iniciativa do Poder Executivo, são:",
+      "correta": "PPA, LDO e LOA.",
+      "incorretas": [
+        "PPA, LRF e LOA.",
+        "LDO, LOA e balanço patrimonial.",
+        "PPA, LDO e Plano Diretor.",
+        "LOA, DRE e fluxo de caixa."
+      ]
+    },
+    {
+      "id": "ADM-059",
+      "tema": "especificos",
+      "fonte": "Administração financeira — fluxo de caixa",
+      "enunciado": "O instrumento de administração financeira que registra e projeta as entradas e saídas de recursos ao longo de um período, permitindo prever sobras ou faltas de dinheiro, é o:",
+      "correta": "fluxo de caixa.",
+      "incorretas": [
+        "balanço patrimonial.",
+        "inventário de materiais.",
+        "organograma funcional.",
+        "plano de cargos e salários."
+      ]
+    },
 
     {
       "id": "LEG-001",

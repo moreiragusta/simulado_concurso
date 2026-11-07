@@ -24,8 +24,9 @@ Geração em blocos pequenos (~10 questões), um assunto por vez, revisados ante
 | Mudança e inovação; gestão por processos (mapeamento, análise, melhoria) | 12 | ✅ ADM-015 a 026 (blocos 19 e 20) |
 | Sistema de Informação de RH; dados de pessoal; desenvolvimento de RH e educação corporativa | 10 | ✅ ADM-027 a 036 (bloco 21) |
 | Comunicação corporativa, trabalho em equipe, relações humanas e conflitos | 12 | ✅ ADM-037 a 048 (bloco 22) |
-| Atendimento ao cliente; administração de materiais; controle orçamentário e adm. financeira | 12 | ⏳ |
+| Atendimento ao cliente; administração de materiais; controle orçamentário e adm. financeira | 11 | ✅ ADM-049 a 059 (bloco 23) |
 | Logística; protocolo, recepção, classificação, registro e distribuição; gestão de arquivos | 10 | ⏳ |
+| Exemplo inicial (RPPS — ESP-001) | 1 | ✅ |
 | LC Municipal 05/1991 — Regime Jurídico Único (Pres. Prudente) | 10 | ✅ bloco 5 (L05-01 a 10) |
 | LC Municipal 106/2001 — legislação previdenciária municipal | 10 | ✅ bloco 4 (L106-01 a 10) |
 | Lei Federal 9.717/1998 — normas gerais dos RPPS | 10 | ✅ bloco 6 (L9717-01 a 10) |
