@@ -233,6 +233,114 @@
       ]
     },
     {
+      "id": "POR-018",
+      "tema": "portugues",
+      "fonte": "Interpretação — ideia central (texto A)",
+      "texto": "A previdência pública costuma ser lembrada apenas no momento da aposentadoria. No entanto, ela acompanha o servidor durante toda a vida funcional: protege-o em caso de doença, ampara a família em caso de morte e garante renda quando a capacidade de trabalho chega ao fim. Por isso, compreender as regras do sistema não é tarefa exclusiva de especialistas. Um servidor bem informado planeja melhor o futuro, evita surpresas e cobra uma gestão transparente dos recursos que, afinal, pertencem a todos os participantes.",
+      "enunciado": "Leia o texto e assinale a alternativa que expressa a sua ideia central.",
+      "correta": "A previdência protege o servidor ao longo de toda a vida funcional, e conhecer suas regras é importante para todos.",
+      "incorretas": [
+        "A previdência pública serve exclusivamente para pagar as aposentadorias dos servidores que deixam o cargo.",
+        "Somente especialistas são capazes de compreender, de fato, as regras do sistema previdenciário público.",
+        "Os recursos previdenciários pertencem ao Município, que deve administrá-los com total transparência.",
+        "A aposentadoria é o único momento em que o servidor precisa se preocupar com as regras da previdência."
+      ]
+    },
+    {
+      "id": "POR-019",
+      "tema": "portugues",
+      "fonte": "Interpretação — inferência (texto A)",
+      "texto": "A previdência pública costuma ser lembrada apenas no momento da aposentadoria. No entanto, ela acompanha o servidor durante toda a vida funcional: protege-o em caso de doença, ampara a família em caso de morte e garante renda quando a capacidade de trabalho chega ao fim. Por isso, compreender as regras do sistema não é tarefa exclusiva de especialistas. Um servidor bem informado planeja melhor o futuro, evita surpresas e cobra uma gestão transparente dos recursos que, afinal, pertencem a todos os participantes.",
+      "enunciado": "A partir da leitura do texto, infere-se que o autor considera que:",
+      "correta": "o desconhecimento das regras previdenciárias pode causar surpresas ao servidor.",
+      "incorretas": [
+        "a gestão dos recursos previdenciários já é plenamente transparente e dispensa cobrança.",
+        "a família do servidor não recebe nenhum tipo de amparo do sistema previdenciário.",
+        "o servidor deve deixar todo o planejamento do seu futuro a cargo do instituto.",
+        "as regras previdenciárias são simples e dispensam qualquer tipo de estudo."
+      ]
+    },
+    {
+      "id": "POR-020",
+      "tema": "portugues",
+      "fonte": "Interpretação — ponto de vista do autor (texto B)",
+      "texto": "Nas repartições públicas, o atendimento ao cidadão passou por grandes mudanças nas últimas décadas. Filas extensas e pilhas de papel deram lugar a agendamentos pela internet e a processos digitais. Ainda assim, a tecnologia não substitui a cortesia. De nada adianta um sistema moderno se o servidor não escuta com atenção, não explica com clareza ou trata o cidadão com indiferença. Modernizar o serviço público, portanto, exige tanto investimento em ferramentas quanto cuidado com as pessoas.",
+      "enunciado": "De acordo com o ponto de vista defendido no texto:",
+      "correta": "a modernização do serviço público depende tanto da tecnologia quanto da boa relação com o cidadão.",
+      "incorretas": [
+        "a tecnologia tornou desnecessária a cortesia no atendimento prestado ao cidadão nas repartições.",
+        "os processos em papel eram mais eficientes do que os atuais processos digitais das repartições.",
+        "o investimento em ferramentas digitais deve ser abandonado pelo poder público em favor das pessoas.",
+        "o cidadão é o único responsável pela qualidade do atendimento que recebe nas repartições públicas."
+      ]
+    },
+    {
+      "id": "POR-021",
+      "tema": "portugues",
+      "fonte": "Interpretação — relação de sentido entre períodos (texto B)",
+      "texto": "Nas repartições públicas, o atendimento ao cidadão passou por grandes mudanças nas últimas décadas. Filas extensas e pilhas de papel deram lugar a agendamentos pela internet e a processos digitais. Ainda assim, a tecnologia não substitui a cortesia. De nada adianta um sistema moderno se o servidor não escuta com atenção, não explica com clareza ou trata o cidadão com indiferença. Modernizar o serviço público, portanto, exige tanto investimento em ferramentas quanto cuidado com as pessoas.",
+      "enunciado": "No texto, a expressão \"Ainda assim\", que inicia o terceiro período, introduz uma ideia de:",
+      "correta": "oposição em relação ao que foi dito antes.",
+      "incorretas": [
+        "conclusão do que foi dito antes.",
+        "explicação do que foi dito antes.",
+        "causa do que foi dito antes.",
+        "tempo em relação ao que foi dito antes."
+      ]
+    },
+    {
+      "id": "POR-022",
+      "tema": "portugues",
+      "fonte": "Figuras de linguagem — hipérbole, metáfora, prosopopeia, comparação, metonímia",
+      "enunciado": "Assinale a alternativa em que há hipérbole.",
+      "correta": "Já te avisei um milhão de vezes sobre esse prazo.",
+      "incorretas": [
+        "A vida é uma longa estrada cheia de curvas.",
+        "O vento sussurrava nas janelas do prédio.",
+        "Ele é forte como um touro na hora do trabalho.",
+        "Li Machado de Assis durante as minhas férias."
+      ]
+    },
+    {
+      "id": "POR-023",
+      "tema": "portugues",
+      "fonte": "Literatura brasileira — Machado de Assis e o Realismo",
+      "enunciado": "Machado de Assis, autor de \"Memórias Póstumas de Brás Cubas\" e \"Dom Casmurro\", é considerado o principal representante, no Brasil, do:",
+      "correta": "Realismo.",
+      "incorretas": [
+        "Romantismo.",
+        "Modernismo.",
+        "Arcadismo.",
+        "Parnasianismo."
+      ]
+    },
+    {
+      "id": "POR-024",
+      "tema": "portugues",
+      "fonte": "Variação linguística",
+      "enunciado": "A frase \"Nóis vai chegá mais tarde\", comum na fala de muitos brasileiros, é um exemplo de:",
+      "correta": "variação linguística, que deve ser respeitada, embora não corresponda à norma-padrão.",
+      "incorretas": [
+        "erro de português, que deve ser corrigido em qualquer situação comunicativa.",
+        "uso da norma-padrão, exigida na redação dos documentos oficiais da administração.",
+        "linguagem técnica, típica de textos científicos, jurídicos e acadêmicos.",
+        "variação histórica, encontrada apenas em textos antigos da língua portuguesa."
+      ]
+    },
+    {
+      "id": "POR-025",
+      "tema": "portugues",
+      "fonte": "Funções sintáticas — objeto direto",
+      "enunciado": "Na oração \"Os servidores aprovaram a proposta\", o termo \"a proposta\" exerce a função sintática de:",
+      "correta": "objeto direto.",
+      "incorretas": [
+        "sujeito.",
+        "objeto indireto.",
+        "adjunto adverbial.",
+        "predicativo do sujeito."
+      ]
+    },
+    {
       "id": "MAT-001",
       "tema": "matematica",
       "enunciado": "Um servidor recebe R$ 3.000,00 e contribui com 14% para o regime próprio. Qual o valor da contribuição?",

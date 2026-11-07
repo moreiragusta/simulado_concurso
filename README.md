@@ -45,6 +45,9 @@ PLANO_QUESTOES.md   distribuição e progresso das 200 questões
 }
 ```
 
+Campos opcionais: `texto` (texto-base exibido numa caixa acima do enunciado, para questões de interpretação)
+e `fonte` (artigo/assunto de origem, não exibido — usado para conferência).
+
 Evite alternativas do tipo "todas as anteriores", porque as alternativas são embaralhadas.
 
 > As questões foram elaboradas com apoio de IA a partir do conteúdo do edital e podem conter erros.

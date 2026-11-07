@@ -61,18 +61,18 @@ Toda questão cita o artigo de origem para conferência.
 
 | Assunto | Qtd | Status |
 |---|---|---|
-| Interpretação de texto (compreensão global, ponto de vista, ideias centrais, inferências) | 4 | ⏳ |
-| Comunicação, linguagem e variações linguísticas | 1 | ⏳ |
+| Interpretação de texto (compreensão global, ponto de vista, ideias centrais, inferências) | 4 | ✅ POR-018 a 021 |
+| Comunicação, linguagem e variações linguísticas | 1 | ✅ POR-024 |
 | Gêneros e tipologias textuais | 2 | ✅ POR-014 e 015 |
 | Coesão e coerência | 2 | ✅ POR-016 e 017 |
 | Ortografia oficial (acentuação, letra/fonema, sílaba, encontros, dígrafos) | 4 | ✅ POR-001 a 004 |
 | Classes de palavras | 2 | ✅ POR-010 e 011 |
 | Semântica (sinônimos, antônimos, conotação/denotação) | 2 | ✅ POR-012 e 013 |
-| Funções sintáticas | 1 | ⏳ |
+| Funções sintáticas | 1 | ✅ POR-025 |
 | Concordância nominal e verbal | 2 | ✅ POR-006 e 007 |
 | Pontuação | 2 | ✅ POR-008 e 009 |
 | Uso dos porquês | 1 | ✅ POR-005 |
-| Literatura brasileira e figuras de linguagem | 2 | ⏳ |
+| Literatura brasileira e figuras de linguagem | 2 | ✅ POR-022 e 023 |
 
 ## Matemática/Raciocínio Lógico — 25 questões (`MAT-xxx`)
 

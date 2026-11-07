@@ -109,6 +109,7 @@
       return {
         id: q.id,
         tema: q.tema,
+        texto: q.texto || '',
         enunciado: q.enunciado,
         alternativas: alternativas,
         correta: alternativas.indexOf(q.correta)
@@ -152,6 +153,8 @@
     $('contador').textContent = 'Questão ' + (estado.atual + 1) + ' de ' + total;
     $('barra').style.width = (estado.atual / total * 100) + '%';
     $('tag-materia').textContent = banco.porId[q.tema].nome;
+    $('texto-base').textContent = q.texto;
+    $('texto-base').hidden = !q.texto;
     $('enunciado').textContent = q.enunciado;
     $('feedback').textContent = '';
     $('feedback').className = 'feedback';
