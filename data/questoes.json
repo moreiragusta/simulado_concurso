@@ -1,0 +1,24 @@
+{
+  "versao": 1,
+  "temas": [
+    { "id": "portugues",    "nome": "Língua Portuguesa",            "questoesNaProva": 5,  "valor": 2 },
+    { "id": "matematica",   "nome": "Matemática/Raciocínio Lógico", "questoesNaProva": 5,  "valor": 2 },
+    { "id": "informatica",  "nome": "Noções de Informática",        "questoesNaProva": 5,  "valor": 2 },
+    { "id": "legislacao",   "nome": "Legislação",                   "questoesNaProva": 5,  "valor": 2 },
+    { "id": "especificos",  "nome": "Conhecimentos Específicos",    "questoesNaProva": 20, "valor": 3 }
+  ],
+  "questoes": [
+    {
+      "id": "POR-001",
+      "tema": "portugues",
+      "enunciado": "Assinale a alternativa em que todas as palavras estão grafadas corretamente.",
+      "correta": "exceção, análise, privilégio",
+      "incorretas": [
+        "excessão, análise, privilégio",
+        "exceção, análize, privilégio",
+        "exceção, análise, previlégio",
+        "esceção, análise, privilégio"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+/* Estilos do simulado — visual completo vem na etapa 2 */
+:root {
+  --bg: #ffffff;
+  --fg: #111111;
+}
+body {
+  margin: 0;
+  background: var(--bg);
+  color: var(--fg);
+  font-family: system-ui, sans-serif;
+}
+main { max-width: 720px; margin: 0 auto; padding: 16px; }
