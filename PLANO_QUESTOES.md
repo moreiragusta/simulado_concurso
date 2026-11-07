@@ -64,13 +64,13 @@ Toda questão cita o artigo de origem para conferência.
 | Comunicação, linguagem e variações linguísticas | 1 | ⏳ |
 | Gêneros e tipologias textuais | 2 | ⏳ |
 | Coesão e coerência | 2 | ⏳ |
-| Ortografia oficial (acentuação, letra/fonema, sílaba, encontros, dígrafos) | 3 | ⏳ |
+| Ortografia oficial (acentuação, letra/fonema, sílaba, encontros, dígrafos) | 4 | ✅ POR-001 a 004 |
 | Classes de palavras | 2 | ⏳ |
 | Semântica (sinônimos, antônimos, conotação/denotação) | 2 | ⏳ |
-| Funções sintáticas | 2 | ⏳ |
-| Concordância nominal e verbal | 2 | ⏳ |
-| Pontuação | 2 | ⏳ |
-| Uso dos porquês | 1 | ⏳ |
+| Funções sintáticas | 1 | ⏳ |
+| Concordância nominal e verbal | 2 | ✅ POR-006 e 007 |
+| Pontuação | 2 | ✅ POR-008 e 009 |
+| Uso dos porquês | 1 | ✅ POR-005 |
 | Literatura brasileira e figuras de linguagem | 2 | ⏳ |
 
 ## Matemática/Raciocínio Lógico — 25 questões (`MAT-xxx`)

@@ -25,6 +25,110 @@
       ]
     },
     {
+      "id": "POR-002",
+      "tema": "portugues",
+      "fonte": "Acentuação gráfica — Acordo Ortográfico de 1990",
+      "enunciado": "De acordo com as regras de acentuação gráfica vigentes após o Novo Acordo Ortográfico, assinale a alternativa em que todas as palavras estão grafadas corretamente.",
+      "correta": "ideia, heroico, voo",
+      "incorretas": [
+        "idéia, heroico, voo",
+        "ideia, heróico, vôo",
+        "idéia, heróico, voo",
+        "ideia, heroico, vôo"
+      ]
+    },
+    {
+      "id": "POR-003",
+      "tema": "portugues",
+      "fonte": "Fonologia — dígrafos e encontros consonantais",
+      "enunciado": "Assinale a alternativa em que todas as palavras apresentam dígrafo.",
+      "correta": "chuva, carro, quilo",
+      "incorretas": [
+        "chuva, prato, quilo",
+        "planta, carro, guarda",
+        "flor, passo, chave",
+        "chuva, clube, massa"
+      ]
+    },
+    {
+      "id": "POR-004",
+      "tema": "portugues",
+      "fonte": "Fonologia — encontros vocálicos (hiato, ditongo, tritongo)",
+      "enunciado": "Assinale a alternativa em que todas as palavras apresentam hiato.",
+      "correta": "saúde, poeta, juíza",
+      "incorretas": [
+        "saúde, pai, juíza",
+        "poeta, Paraguai, saída",
+        "baú, céu, coelho",
+        "lua, quais, piada"
+      ]
+    },
+    {
+      "id": "POR-005",
+      "tema": "portugues",
+      "fonte": "Uso dos porquês",
+      "enunciado": "Assinale a alternativa em que o emprego do \"porquê\" está de acordo com a norma-padrão.",
+      "correta": "Não sei por que ele faltou à reunião.",
+      "incorretas": [
+        "Ele faltou à reunião porquê estava doente.",
+        "Por quê você não veio à reunião ontem?",
+        "Ninguém entendeu o por que da decisão.",
+        "Você saiu mais cedo da reunião, porque?"
+      ]
+    },
+    {
+      "id": "POR-006",
+      "tema": "portugues",
+      "fonte": "Concordância verbal — verbos impessoais e voz passiva sintética",
+      "enunciado": "Assinale a alternativa que está de acordo com a norma-padrão quanto à concordância verbal.",
+      "correta": "Faz dois anos que não visito meus avós.",
+      "incorretas": [
+        "Fazem dois anos que não visito meus avós.",
+        "Houveram muitos problemas na reunião.",
+        "Existe muitas dúvidas sobre o edital.",
+        "Vende-se casas nesta rua do bairro."
+      ]
+    },
+    {
+      "id": "POR-007",
+      "tema": "portugues",
+      "fonte": "Concordância nominal — anexo, proibido, mesmo, meio",
+      "enunciado": "Assinale a alternativa que está de acordo com a norma-padrão quanto à concordância nominal.",
+      "correta": "Seguem anexas as cópias dos documentos.",
+      "incorretas": [
+        "Seguem anexo as cópias dos documentos.",
+        "É proibido a entrada de pessoas estranhas.",
+        "Elas mesmo resolveram todo o problema.",
+        "As portas do arquivo estavam meias abertas."
+      ]
+    },
+    {
+      "id": "POR-008",
+      "tema": "portugues",
+      "fonte": "Pontuação — vírgula entre sujeito e verbo / adjunto adverbial",
+      "enunciado": "Assinale a alternativa corretamente pontuada, de acordo com a norma-padrão.",
+      "correta": "Ontem, os servidores do instituto receberam os novos crachás.",
+      "incorretas": [
+        "Os servidores do instituto, receberam os novos crachás ontem.",
+        "Ontem os servidores, do instituto receberam os novos crachás.",
+        "Os servidores do instituto receberam, os novos crachás ontem.",
+        "Os servidores, do instituto, receberam, ontem os novos crachás."
+      ]
+    },
+    {
+      "id": "POR-009",
+      "tema": "portugues",
+      "fonte": "Pontuação — vírgula no vocativo, aposto, enumeração e orações",
+      "enunciado": "Assinale a alternativa em que a vírgula foi empregada para isolar um vocativo.",
+      "correta": "Senhor diretor, o relatório já está pronto.",
+      "incorretas": [
+        "Presidente Prudente, cidade do oeste paulista, sediará o evento.",
+        "Comprei papel, caneta, grampos e envelopes para o setor.",
+        "Quando o processo chegar, avise imediatamente o protocolo.",
+        "O servidor estudou muito, mas não foi aprovado no concurso."
+      ]
+    },
+    {
       "id": "MAT-001",
       "tema": "matematica",
       "enunciado": "Um servidor recebe R$ 3.000,00 e contribui com 14% para o regime próprio. Qual o valor da contribuição?",
