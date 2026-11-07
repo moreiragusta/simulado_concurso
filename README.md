@@ -63,6 +63,15 @@ e acesse `http://localhost:8000`.
 - [x] Etapa 1 — estrutura e repositório
 - [x] Etapa 2 — visual (cartoon P&B, claro/escuro, responsivo)
 - [x] Etapa 3 — lógica do simulado
-- [ ] Etapa 4 — banco de 200 questões
-- [ ] Etapa 5 — extras (progresso, desempenho por matéria, histórico)
-- [ ] v2 — explicação por questão, filtro por matéria
+- [x] Etapa 4 — banco de 200 questões (24 blocos revisados; ver `PLANO_QUESTOES.md`)
+- [ ] Etapa 5 — extras
+  - [x] barra de progresso e placar parcial
+  - [x] desempenho por matéria e nota ponderada
+  - [ ] histórico de tentativas
+- [ ] v2 — explicação por questão (usando o campo `fonte`), filtro por matéria
+
+### Fontes das questões de legislação
+
+- Leis municipais LC 05/1991 e LC 106/2001: textos consolidados fornecidos pelo usuário.
+- Lei 9.717/1998: texto compilado do Planalto.
+- Portaria MTP 1.467/2022: não incluída (texto oficial indisponível no momento da elaboração).

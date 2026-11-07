@@ -1622,6 +1622,136 @@
         "plano de cargos e salários."
       ]
     },
+    {
+      "id": "ADM-060",
+      "tema": "especificos",
+      "fonte": "Noções de logística — conceito",
+      "enunciado": "A logística pode ser definida como o processo de:",
+      "correta": "planejar, executar e controlar o fluxo e a armazenagem de materiais e informações, da origem até o ponto de consumo.",
+      "incorretas": [
+        "elaborar a folha de pagamento dos servidores, calculando vencimentos, descontos e encargos previdenciários.",
+        "registrar e arquivar os documentos produzidos pela organização, conforme a tabela de temporalidade.",
+        "recrutar e selecionar novos servidores, por meio de concurso público de provas ou de provas e títulos.",
+        "definir a missão, a visão e os valores da organização, orientando o seu planejamento estratégico."
+      ]
+    },
+    {
+      "id": "ADM-061",
+      "tema": "especificos",
+      "fonte": "Noções de logística — just in time",
+      "enunciado": "O sistema logístico em que os materiais são recebidos no momento exato em que serão utilizados, reduzindo ao mínimo a necessidade de estoques, é denominado:",
+      "correta": "just in time.",
+      "incorretas": [
+        "curva ABC.",
+        "PEPS (FIFO).",
+        "estoque de segurança.",
+        "lote econômico de compra."
+      ]
+    },
+    {
+      "id": "ADM-062",
+      "tema": "especificos",
+      "fonte": "Protocolo — conceito e atribuições",
+      "enunciado": "O setor responsável pelo recebimento, classificação, registro, distribuição e controle da tramitação dos documentos de uma organização é denominado:",
+      "correta": "protocolo.",
+      "incorretas": [
+        "almoxarifado.",
+        "arquivo permanente.",
+        "ouvidoria.",
+        "tesouraria."
+      ]
+    },
+    {
+      "id": "ADM-063",
+      "tema": "especificos",
+      "fonte": "Protocolo — registro",
+      "enunciado": "Nas atividades de protocolo, a etapa que consiste em atribuir um número ao documento e anotar dados como data, procedência e assunto, para permitir o controle de sua tramitação, é denominada:",
+      "correta": "registro.",
+      "incorretas": [
+        "recebimento.",
+        "classificação.",
+        "distribuição.",
+        "expedição."
+      ]
+    },
+    {
+      "id": "ADM-064",
+      "tema": "especificos",
+      "fonte": "Protocolo — recepção de correspondência sigilosa ou pessoal",
+      "enunciado": "Ao receber uma correspondência com a indicação \"confidencial\" ou \"pessoal\", o servidor do protocolo deve:",
+      "correta": "encaminhá-la fechada ao destinatário, sem abri-la.",
+      "incorretas": [
+        "abri-la e registrar todo o seu conteúdo no sistema.",
+        "devolvê-la imediatamente ao remetente, sem registro.",
+        "enviá-la diretamente ao arquivo permanente do órgão.",
+        "abri-la para confirmar quem é o real destinatário."
+      ]
+    },
+    {
+      "id": "ADM-065",
+      "tema": "especificos",
+      "fonte": "Gestão de arquivos — teoria das três idades (arquivo corrente)",
+      "enunciado": "Os documentos que ainda estão em tramitação ou que são consultados com frequência pelo setor que os produziu integram o arquivo:",
+      "correta": "corrente.",
+      "incorretas": [
+        "intermediário.",
+        "permanente.",
+        "histórico.",
+        "de segurança."
+      ]
+    },
+    {
+      "id": "ADM-066",
+      "tema": "especificos",
+      "fonte": "Gestão de arquivos — teoria das três idades (arquivo intermediário)",
+      "enunciado": "Os documentos de uso pouco frequente que, por razões administrativas ou legais, aguardam a sua eliminação ou o recolhimento para guarda definitiva integram o arquivo:",
+      "correta": "intermediário.",
+      "incorretas": [
+        "corrente.",
+        "permanente.",
+        "setorial.",
+        "de protocolo."
+      ]
+    },
+    {
+      "id": "ADM-067",
+      "tema": "especificos",
+      "fonte": "Gestão de documentos — tabela de temporalidade",
+      "enunciado": "O instrumento de gestão de documentos que define os prazos de guarda nas fases corrente e intermediária e a destinação final dos documentos (eliminação ou guarda permanente) é a:",
+      "correta": "tabela de temporalidade.",
+      "incorretas": [
+        "guia de recolhimento.",
+        "listagem de protocolo.",
+        "folha de verificação.",
+        "ficha de empréstimo."
+      ]
+    },
+    {
+      "id": "ADM-068",
+      "tema": "especificos",
+      "fonte": "Métodos de arquivamento — alfabético, numérico, geográfico, ideográfico",
+      "enunciado": "O método de arquivamento em que os documentos são ordenados pelo nome de pessoas ou de instituições é o método:",
+      "correta": "alfabético.",
+      "incorretas": [
+        "numérico simples.",
+        "cronológico.",
+        "geográfico.",
+        "ideográfico."
+      ]
+    },
+    {
+      "id": "ADM-069",
+      "tema": "especificos",
+      "fonte": "Gestão de documentos — conceito (Lei nº 8.159/1991, art. 3º)",
+      "enunciado": "Segundo a Lei nº 8.159/1991 (Política Nacional de Arquivos), a gestão de documentos corresponde ao:",
+      "correta": "conjunto de procedimentos e operações técnicas referentes à produção, tramitação, uso, avaliação e arquivamento de documentos em fase corrente e intermediária.",
+      "incorretas": [
+        "conjunto de técnicas destinadas exclusivamente à restauração e à conservação de documentos antigos danificados pela ação do tempo e da umidade.",
+        "processo obrigatório de digitalização de todos os documentos produzidos, seguido da eliminação imediata dos respectivos originais em papel.",
+        "dever de guardar definitivamente todos os documentos produzidos pela administração, sendo vedada a eliminação de qualquer deles.",
+        "atividade exclusiva do arquivo permanente, voltada apenas ao atendimento de pesquisadores interessados na história da instituição."
+      ]
+    },
 
     {
       "id": "LEG-001",
