@@ -1193,6 +1193,136 @@
         "matriz SWOT."
       ]
     },
+    {
+      "id": "ADM-027",
+      "tema": "especificos",
+      "fonte": "Sistema de Informação de RH — conceito",
+      "enunciado": "O Sistema de Informação de Recursos Humanos (SIRH) pode ser definido como:",
+      "correta": "um conjunto integrado de recursos para coletar, armazenar, processar e fornecer informações sobre pessoal, apoiando decisões.",
+      "incorretas": [
+        "um programa utilizado exclusivamente para calcular a folha de pagamento, sem qualquer relação com as decisões gerenciais sobre pessoal.",
+        "um arquivo físico de documentos pessoais dos servidores, mantido apenas para guarda, sem qualquer uso gerencial pela organização.",
+        "um setor da organização responsável exclusivamente pelo recrutamento e pela seleção de novos servidores para os cargos vagos.",
+        "um sistema destinado a registrar a avaliação de satisfação dos cidadãos atendidos, sem relação com os dados dos servidores."
+      ]
+    },
+    {
+      "id": "ADM-028",
+      "tema": "especificos",
+      "fonte": "Sistema de Informação de RH — vantagens",
+      "enunciado": "Assinale a alternativa que apresenta uma vantagem da implantação de um Sistema de Informação de Recursos Humanos.",
+      "correta": "Agilidade e confiabilidade nas informações para decisões sobre pessoal.",
+      "incorretas": [
+        "Eliminação da necessidade de proteger os dados pessoais dos servidores.",
+        "Dispensa de atualização dos cadastros de pessoal após a implantação.",
+        "Substituição completa dos gestores nas decisões que envolvem pessoas.",
+        "Aumento do volume de papéis arquivados no setor de pessoal."
+      ]
+    },
+    {
+      "id": "ADM-029",
+      "tema": "especificos",
+      "fonte": "Organização e controle de dados de pessoal — assentamento funcional",
+      "enunciado": "O registro individual que reúne as informações da vida funcional do servidor, como posse, exercício, licenças, férias, promoções e penalidades, é denominado:",
+      "correta": "assentamento funcional.",
+      "incorretas": [
+        "contracheque mensal.",
+        "organograma do órgão.",
+        "termo de posse do cargo.",
+        "plano de cargos e salários."
+      ]
+    },
+    {
+      "id": "ADM-030",
+      "tema": "especificos",
+      "fonte": "Organização e controle de dados de pessoal — sigilo e LGPD",
+      "enunciado": "Na organização e no controle dos dados de pessoal, o setor de Recursos Humanos de um órgão público deve:",
+      "correta": "restringir o acesso aos dados pessoais a quem precisa deles para exercer suas funções.",
+      "incorretas": [
+        "divulgar em mural os atestados e os dados de saúde dos servidores, para fins de transparência.",
+        "fornecer a ficha funcional completa do servidor a qualquer pessoa que a solicite verbalmente.",
+        "manter os cadastros desatualizados, a fim de preservar as informações originais do servidor.",
+        "guardar as senhas de acesso dos servidores em uma planilha aberta, compartilhada no setor."
+      ]
+    },
+    {
+      "id": "ADM-031",
+      "tema": "especificos",
+      "fonte": "Desenvolvimento de RH — treinamento x desenvolvimento",
+      "enunciado": "Sobre a diferença entre treinamento e desenvolvimento de pessoas, assinale a alternativa CORRETA.",
+      "correta": "O treinamento é orientado para o cargo atual, e o desenvolvimento visa ao crescimento e a cargos futuros.",
+      "incorretas": [
+        "O treinamento visa ao crescimento e a cargos futuros, e o desenvolvimento é orientado para o cargo atual.",
+        "Treinamento e desenvolvimento são sinônimos e designam exatamente as mesmas ações educacionais.",
+        "O treinamento destina-se apenas aos chefes, e o desenvolvimento, apenas aos servidores operacionais.",
+        "O desenvolvimento ocorre apenas fora da organização, em cursos de graduação e pós-graduação."
+      ]
+    },
+    {
+      "id": "ADM-032",
+      "tema": "especificos",
+      "fonte": "Desenvolvimento de RH — etapas do processo de treinamento",
+      "enunciado": "No processo de treinamento, a primeira etapa, que identifica as carências de conhecimentos e habilidades a serem supridas, é:",
+      "correta": "o levantamento das necessidades de treinamento.",
+      "incorretas": [
+        "a avaliação dos resultados do treinamento.",
+        "a execução do treinamento com os participantes.",
+        "a contratação dos instrutores externos.",
+        "a emissão dos certificados de conclusão."
+      ]
+    },
+    {
+      "id": "ADM-033",
+      "tema": "especificos",
+      "fonte": "Desenvolvimento de RH — avaliação de treinamento (modelo de Kirkpatrick)",
+      "enunciado": "No modelo de avaliação de treinamento de Kirkpatrick, o nível que verifica se os participantes estão aplicando no trabalho aquilo que aprenderam no curso é o nível de:",
+      "correta": "comportamento.",
+      "incorretas": [
+        "reação.",
+        "aprendizagem.",
+        "resultados.",
+        "satisfação."
+      ]
+    },
+    {
+      "id": "ADM-034",
+      "tema": "especificos",
+      "fonte": "Educação corporativa — conceito",
+      "enunciado": "A educação corporativa caracteriza-se por:",
+      "correta": "ações educacionais contínuas, alinhadas às estratégias da organização e voltadas ao desenvolvimento de competências.",
+      "incorretas": [
+        "cursos isolados e eventuais, oferecidos sem nenhuma relação com os objetivos estratégicos da organização.",
+        "formação acadêmica obrigatória, realizada exclusivamente em universidades públicas reconhecidas pelo MEC.",
+        "treinamento destinado exclusivamente aos novos servidores, realizado apenas no primeiro dia de trabalho.",
+        "programas de lazer e recreação oferecidos aos servidores e às suas famílias nos fins de semana."
+      ]
+    },
+    {
+      "id": "ADM-035",
+      "tema": "especificos",
+      "fonte": "Educação corporativa — educação a distância",
+      "enunciado": "A modalidade de capacitação realizada por meio de plataformas digitais, que permite ao servidor estudar em horários flexíveis, sem a necessidade de presença física em sala de aula, é denominada:",
+      "correta": "educação a distância (e-learning).",
+      "incorretas": [
+        "treinamento no cargo (on the job).",
+        "rodízio de cargos (job rotation).",
+        "coaching.",
+        "mentoria."
+      ]
+    },
+    {
+      "id": "ADM-036",
+      "tema": "especificos",
+      "fonte": "Desenvolvimento de RH — competências (CHA)",
+      "enunciado": "Na gestão por competências, a sigla CHA, utilizada para representar os elementos que compõem uma competência, significa:",
+      "correta": "Conhecimento, Habilidade e Atitude.",
+      "incorretas": [
+        "Capacidade, Hierarquia e Autoridade.",
+        "Comunicação, Harmonia e Ação.",
+        "Controle, Habilidade e Avaliação.",
+        "Conhecimento, Hábito e Aptidão."
+      ]
+    },
 
     {
       "id": "LEG-001",
