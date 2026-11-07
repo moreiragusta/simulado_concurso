@@ -29,6 +29,8 @@ index.html          página principal
 css/style.css       estilos (tema claro/escuro)
 js/app.js           lógica do simulado
 data/questoes.json  banco de questões
+tools/validar.py    validador do banco (python tools/validar.py)
+PLANO_QUESTOES.md   distribuição e progresso das 200 questões
 ```
 
 ### Formato de uma questão

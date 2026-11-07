@@ -49,6 +49,127 @@
         "trabalhadores autônomos",
         "empregados públicos celetistas"
       ]
+    },
+
+    {
+      "id": "LEG-001",
+      "tema": "legislacao",
+      "enunciado": "De acordo com a Lei nº 12.527/2011 (Lei de Acesso à Informação), não sendo possível conceder o acesso imediato à informação solicitada, o órgão ou entidade deverá atender ao pedido em prazo não superior a:",
+      "correta": "20 (vinte) dias, prorrogável por mais 10 (dez) dias, mediante justificativa expressa.",
+      "incorretas": [
+        "10 (dez) dias, prorrogável por mais 10 (dez) dias, mediante justificativa expressa.",
+        "15 (quinze) dias, improrrogáveis.",
+        "30 (trinta) dias, prorrogável por mais 15 (quinze) dias, independentemente de justificativa.",
+        "20 (vinte) dias, prorrogável por igual período, sem necessidade de justificativa."
+      ]
+    },
+    {
+      "id": "LEG-002",
+      "tema": "legislacao",
+      "enunciado": "Segundo a Lei nº 12.527/2011, os prazos máximos de restrição de acesso à informação classificada como ultrassecreta, secreta e reservada são, respectivamente:",
+      "correta": "25 anos, 15 anos e 5 anos.",
+      "incorretas": [
+        "30 anos, 20 anos e 10 anos.",
+        "25 anos, 10 anos e 5 anos.",
+        "50 anos, 25 anos e 10 anos.",
+        "15 anos, 10 anos e 5 anos."
+      ]
+    },
+    {
+      "id": "LEG-003",
+      "tema": "legislacao",
+      "enunciado": "Sobre o pedido de acesso a informações previsto na Lei nº 12.527/2011, assinale a alternativa CORRETA.",
+      "correta": "São vedadas quaisquer exigências relativas aos motivos determinantes da solicitação de informações de interesse público.",
+      "incorretas": [
+        "O requerente deve, obrigatoriamente, justificar o seu interesse pessoal na informação, sob pena de indeferimento do pedido.",
+        "O pedido somente pode ser apresentado pessoalmente, no protocolo do órgão ou entidade, vedado o uso de meios eletrônicos.",
+        "A identificação do requerente é dispensada em qualquer hipótese, bastando a especificação da informação requerida.",
+        "O serviço de busca e fornecimento da informação é sempre cobrado do requerente, conforme tabela fixada pelo órgão."
+      ]
+    },
+    {
+      "id": "LEG-004",
+      "tema": "legislacao",
+      "enunciado": "Conforme a Lei nº 12.527/2011, as informações pessoais relativas à intimidade, vida privada, honra e imagem terão seu acesso restrito, independentemente de classificação de sigilo, pelo prazo máximo de:",
+      "correta": "100 (cem) anos a contar da sua data de produção.",
+      "incorretas": [
+        "25 (vinte e cinco) anos a contar da sua data de produção.",
+        "50 (cinquenta) anos a contar da data de falecimento do titular.",
+        "75 (setenta e cinco) anos a contar da sua data de produção.",
+        "prazo indeterminado, enquanto vivo o titular da informação."
+      ]
+    },
+    {
+      "id": "LEG-005",
+      "tema": "legislacao",
+      "enunciado": "No caso de indeferimento de acesso a informações ou às razões da negativa do acesso, a Lei nº 12.527/2011 assegura ao interessado a interposição de recurso no prazo de:",
+      "correta": "10 (dez) dias a contar da sua ciência.",
+      "incorretas": [
+        "5 (cinco) dias a contar da sua ciência.",
+        "15 (quinze) dias a contar da publicação da decisão.",
+        "20 (vinte) dias a contar da sua ciência.",
+        "30 (trinta) dias a contar da publicação da decisão."
+      ]
+    },
+    {
+      "id": "LEG-006",
+      "tema": "legislacao",
+      "enunciado": "De acordo com a Lei nº 13.709/2018 (LGPD), assinale a alternativa que NÃO constitui dado pessoal sensível.",
+      "correta": "Endereço residencial do titular.",
+      "incorretas": [
+        "Origem racial ou étnica.",
+        "Convicção religiosa.",
+        "Dado biométrico, quando vinculado a uma pessoa natural.",
+        "Filiação a sindicato."
+      ]
+    },
+    {
+      "id": "LEG-007",
+      "tema": "legislacao",
+      "enunciado": "Segundo a Lei nº 13.709/2018 (LGPD), a pessoa indicada pelo controlador e pelo operador para atuar como canal de comunicação entre o controlador, os titulares dos dados e a Autoridade Nacional de Proteção de Dados (ANPD) é denominada:",
+      "correta": "encarregado.",
+      "incorretas": [
+        "operador.",
+        "controlador.",
+        "agente de tratamento.",
+        "titular."
+      ]
+    },
+    {
+      "id": "LEG-008",
+      "tema": "legislacao",
+      "enunciado": "Conforme a Lei nº 13.709/2018 (LGPD), a lei NÃO se aplica ao tratamento de dados pessoais realizado para fins exclusivos de:",
+      "correta": "segurança pública.",
+      "incorretas": [
+        "execução de políticas públicas por órgão da administração direta.",
+        "gestão da folha de pagamento de servidores por autarquia previdenciária.",
+        "prestação de serviços de saúde por hospital privado.",
+        "envio de publicidade por empresa privada aos seus clientes."
+      ]
+    },
+    {
+      "id": "LEG-009",
+      "tema": "legislacao",
+      "enunciado": "Entre as sanções administrativas previstas na Lei nº 13.709/2018 (LGPD), a multa simples pode chegar a:",
+      "correta": "2% do faturamento da pessoa jurídica de direito privado, grupo ou conglomerado no Brasil no seu último exercício, excluídos os tributos, limitada, no total, a R$ 50.000.000,00 por infração.",
+      "incorretas": [
+        "5% do faturamento da pessoa jurídica de direito privado, grupo ou conglomerado no Brasil no seu último exercício, excluídos os tributos, limitada, no total, a R$ 50.000.000,00 por infração.",
+        "2% do faturamento da pessoa jurídica de direito privado, grupo ou conglomerado no Brasil no seu último exercício, excluídos os tributos, limitada, no total, a R$ 10.000.000,00 por infração.",
+        "10% do faturamento da pessoa jurídica de direito privado, grupo ou conglomerado no Brasil no seu último exercício, excluídos os tributos, limitada, no total, a R$ 100.000.000,00 por infração.",
+        "1% do faturamento da pessoa jurídica de direito privado, grupo ou conglomerado no Brasil no seu último exercício, incluídos os tributos, limitada, no total, a R$ 5.000.000,00 por infração."
+      ]
+    },
+    {
+      "id": "LEG-010",
+      "tema": "legislacao",
+      "enunciado": "Entre os princípios que devem ser observados no tratamento de dados pessoais, segundo a Lei nº 13.709/2018 (LGPD), o princípio da NECESSIDADE corresponde à:",
+      "correta": "limitação do tratamento ao mínimo necessário para a realização de suas finalidades.",
+      "incorretas": [
+        "compatibilidade do tratamento com as finalidades informadas ao titular, de acordo com o contexto do tratamento.",
+        "garantia aos titulares de consulta facilitada e gratuita sobre a forma e a duração do tratamento.",
+        "garantia aos titulares de informações claras, precisas e facilmente acessíveis sobre a realização do tratamento.",
+        "realização do tratamento para propósitos legítimos, específicos, explícitos e informados ao titular."
+      ]
     }
   ]
 }
