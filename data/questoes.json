@@ -855,6 +855,97 @@
         "empregados públicos celetistas"
       ]
     },
+    {
+      "id": "ADM-001",
+      "tema": "especificos",
+      "fonte": "Introdução à Administração — natureza das organizações",
+      "enunciado": "Em Administração, o conceito de organização corresponde a:",
+      "correta": "um agrupamento de pessoas e recursos, estruturado de forma deliberada para alcançar objetivos comuns.",
+      "incorretas": [
+        "qualquer grupo de pessoas reunidas ao acaso, sem objetivos ou divisão de tarefas definidos.",
+        "exclusivamente uma empresa privada, constituída com a finalidade de obter lucro.",
+        "um conjunto de máquinas e equipamentos, considerado independentemente das pessoas.",
+        "um sistema fechado, que não sofre nenhuma influência do ambiente externo."
+      ]
+    },
+    {
+      "id": "ADM-002",
+      "tema": "especificos",
+      "fonte": "Processo administrativo — PODC",
+      "enunciado": "As quatro funções que compõem o processo administrativo, segundo a abordagem neoclássica da Administração, são:",
+      "correta": "planejamento, organização, direção e controle.",
+      "incorretas": [
+        "planejamento, execução, avaliação e correção.",
+        "previsão, comando, coordenação e liderança.",
+        "organização, comunicação, motivação e liderança.",
+        "planejamento, orçamento, contratação e demissão."
+      ]
+    },
+    {
+      "id": "ADM-003",
+      "tema": "especificos",
+      "fonte": "Processo administrativo — planejamento",
+      "enunciado": "A função administrativa que consiste em definir os objetivos da organização e decidir antecipadamente o que deve ser feito para alcançá-los é denominada:",
+      "correta": "planejamento.",
+      "incorretas": [
+        "organização.",
+        "direção.",
+        "controle.",
+        "coordenação."
+      ]
+    },
+    {
+      "id": "ADM-004",
+      "tema": "especificos",
+      "fonte": "Planejamento — níveis estratégico, tático e operacional",
+      "enunciado": "O planejamento elaborado pela alta administração, voltado para o longo prazo e que abrange a organização como um todo, é denominado planejamento:",
+      "correta": "estratégico.",
+      "incorretas": [
+        "tático.",
+        "operacional.",
+        "orçamentário.",
+        "contingencial."
+      ]
+    },
+    {
+      "id": "ADM-005",
+      "tema": "especificos",
+      "fonte": "Processo administrativo — direção",
+      "enunciado": "A chefe de um setor da autarquia reúne a equipe no início do expediente, orienta as tarefas do dia, esclarece dúvidas e procura motivar os servidores. Ao agir assim, ela exerce, principalmente, a função administrativa de:",
+      "correta": "direção.",
+      "incorretas": [
+        "planejamento.",
+        "organização.",
+        "controle.",
+        "departamentalização."
+      ]
+    },
+    {
+      "id": "ADM-006",
+      "tema": "especificos",
+      "fonte": "Processo administrativo — organização",
+      "enunciado": "A divisão do trabalho, a definição de cargos e responsabilidades, o agrupamento de atividades em setores e a distribuição de recursos são atividades típicas da função administrativa de:",
+      "correta": "organização.",
+      "incorretas": [
+        "planejamento.",
+        "direção.",
+        "controle.",
+        "avaliação."
+      ]
+    },
+    {
+      "id": "ADM-007",
+      "tema": "especificos",
+      "fonte": "Processo administrativo — etapas do controle",
+      "enunciado": "As etapas do processo de controle, na sequência correta, são:",
+      "correta": "estabelecer padrões, medir o desempenho, comparar o desempenho com o padrão e tomar ação corretiva.",
+      "incorretas": [
+        "medir o desempenho, tomar ação corretiva, estabelecer padrões e comparar o desempenho com o padrão.",
+        "tomar ação corretiva, estabelecer padrões, comparar o desempenho com o padrão e medir o desempenho.",
+        "comparar o desempenho com o padrão, medir o desempenho, estabelecer padrões e tomar ação corretiva.",
+        "estabelecer padrões, tomar ação corretiva, medir o desempenho e comparar o desempenho com o padrão."
+      ]
+    },
 
     {
       "id": "LEG-001",
