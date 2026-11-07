@@ -129,6 +129,110 @@
       ]
     },
     {
+      "id": "POR-010",
+      "tema": "portugues",
+      "fonte": "Classes de palavras — advérbio",
+      "enunciado": "Na frase \"O servidor chegou cedo ao trabalho\", a palavra \"cedo\" é classificada como:",
+      "correta": "advérbio de tempo.",
+      "incorretas": [
+        "advérbio de modo.",
+        "adjetivo.",
+        "substantivo.",
+        "preposição."
+      ]
+    },
+    {
+      "id": "POR-011",
+      "tema": "portugues",
+      "fonte": "Classes de palavras — pronome demonstrativo",
+      "enunciado": "Assinale a alternativa em que a palavra entre aspas pertence à classe dos pronomes.",
+      "correta": "\"Aquele\" processo já foi arquivado pelo setor.",
+      "incorretas": [
+        "O processo foi arquivado \"ontem\" pelo setor.",
+        "O processo foi \"arquivado\" pelo setor responsável.",
+        "O processo \"e\" o ofício foram arquivados pelo setor.",
+        "O processo foi arquivado \"com\" cuidado pelo setor."
+      ]
+    },
+    {
+      "id": "POR-012",
+      "tema": "portugues",
+      "fonte": "Semântica — sinonímia",
+      "enunciado": "Na frase \"O servidor foi assíduo durante todo o ano\", a palavra \"assíduo\" pode ser substituída, sem alteração de sentido, por:",
+      "correta": "frequente.",
+      "incorretas": [
+        "ausente.",
+        "atrasado.",
+        "dispensado.",
+        "afastado."
+      ]
+    },
+    {
+      "id": "POR-013",
+      "tema": "portugues",
+      "fonte": "Semântica — sentido conotativo e denotativo",
+      "enunciado": "Assinale a alternativa em que há palavra empregada em sentido conotativo (figurado).",
+      "correta": "Aquele chefe tem um coração de pedra.",
+      "incorretas": [
+        "A pedra rolou pela encosta do morro.",
+        "O coração bombeia o sangue pelo corpo.",
+        "O arquivo fica no segundo andar do prédio.",
+        "A chuva forte alagou as ruas do centro."
+      ]
+    },
+    {
+      "id": "POR-014",
+      "tema": "portugues",
+      "fonte": "Tipologia textual",
+      "enunciado": "O texto cuja finalidade principal é defender um ponto de vista, apresentando argumentos para convencer o leitor, pertence ao tipo textual:",
+      "correta": "dissertativo-argumentativo.",
+      "incorretas": [
+        "narrativo.",
+        "descritivo.",
+        "injuntivo.",
+        "expositivo."
+      ]
+    },
+    {
+      "id": "POR-015",
+      "tema": "portugues",
+      "fonte": "Gêneros e tipologia textual — texto injuntivo",
+      "enunciado": "Um manual de instruções e uma receita culinária são gêneros textuais em que predomina o tipo:",
+      "correta": "injuntivo, pois orientam o leitor a executar ações.",
+      "incorretas": [
+        "narrativo, pois relatam fatos em sequência temporal.",
+        "descritivo, pois caracterizam seres, objetos e lugares.",
+        "argumentativo, pois defendem um ponto de vista do autor.",
+        "expositivo, pois apenas apresentam conceitos ao leitor."
+      ]
+    },
+    {
+      "id": "POR-016",
+      "tema": "portugues",
+      "fonte": "Coesão sequencial — conectivos",
+      "enunciado": "Na frase \"O servidor estudou bastante; no entanto, não foi aprovado\", a expressão \"no entanto\" estabelece relação de:",
+      "correta": "oposição.",
+      "incorretas": [
+        "causa.",
+        "conclusão.",
+        "adição.",
+        "finalidade."
+      ]
+    },
+    {
+      "id": "POR-017",
+      "tema": "portugues",
+      "fonte": "Coesão referencial — retomada pronominal",
+      "enunciado": "No trecho \"A PrudenPrev publicou o edital do concurso. Ele estabelece todas as regras da seleção.\", o pronome \"Ele\" retoma:",
+      "correta": "o edital.",
+      "incorretas": [
+        "a PrudenPrev.",
+        "o concurso.",
+        "as regras.",
+        "o candidato."
+      ]
+    },
+    {
       "id": "MAT-001",
       "tema": "matematica",
       "enunciado": "Um servidor recebe R$ 3.000,00 e contribui com 14% para o regime próprio. Qual o valor da contribuição?",

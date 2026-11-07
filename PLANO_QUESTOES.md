@@ -20,16 +20,15 @@ Geração em blocos pequenos (~10 questões), um assunto por vez, revisados ante
 
 | Assunto | Qtd | Status |
 |---|---|---|
-| Introdução à Administração (natureza das organizações, PODC, estrutura organizacional, gestão pela qualidade) | 12 | ⏳ |
-| Mudança e inovação; gestão por processos (mapeamento, análise, melhoria) | 10 | ⏳ |
-| Sistema de Informação de RH; dados de pessoal; desenvolvimento de RH e educação corporativa | 8 | ⏳ |
-| Comunicação corporativa, trabalho em equipe, relações humanas e conflitos | 10 | ⏳ |
-| Atendimento ao cliente; administração de materiais; controle orçamentário e adm. financeira | 10 | ⏳ |
+| Introdução à Administração (natureza das organizações, PODC, estrutura organizacional, gestão pela qualidade) | 14 | ⏳ |
+| Mudança e inovação; gestão por processos (mapeamento, análise, melhoria) | 12 | ⏳ |
+| Sistema de Informação de RH; dados de pessoal; desenvolvimento de RH e educação corporativa | 10 | ⏳ |
+| Comunicação corporativa, trabalho em equipe, relações humanas e conflitos | 12 | ⏳ |
+| Atendimento ao cliente; administração de materiais; controle orçamentário e adm. financeira | 12 | ⏳ |
 | Logística; protocolo, recepção, classificação, registro e distribuição; gestão de arquivos | 10 | ⏳ |
 | LC Municipal 05/1991 — Regime Jurídico Único (Pres. Prudente) | 10 | ✅ bloco 5 (L05-01 a 10) |
 | LC Municipal 106/2001 — legislação previdenciária municipal | 10 | ✅ bloco 4 (L106-01 a 10) |
 | Lei Federal 9.717/1998 — normas gerais dos RPPS | 10 | ✅ bloco 6 (L9717-01 a 10) |
-| Portaria MTP 1.467/2022 — parâmetros e diretrizes dos RPPS | 10 | ⏳ aguardando texto oficial |
 
 ### Leis municipais — divisão por assunto
 
@@ -56,17 +55,19 @@ Toda questão cita o artigo de origem para conferência.
 | Auxílio-doença, salário-família, salário-maternidade, pensão por morte, auxílio-reclusão e abono anual | 28–59, 78 | 2 |
 | Organização da entidade, custeio, receitas e reservas | 111–135 | 2 |
 
+> Portaria MTP 1.467/2022 retirada do banco a pedido do usuário (texto oficial indisponível); as 10 vagas foram redistribuídas entre os assuntos de Administração.
+
 ## Língua Portuguesa — 25 questões (`POR-xxx`)
 
 | Assunto | Qtd | Status |
 |---|---|---|
 | Interpretação de texto (compreensão global, ponto de vista, ideias centrais, inferências) | 4 | ⏳ |
 | Comunicação, linguagem e variações linguísticas | 1 | ⏳ |
-| Gêneros e tipologias textuais | 2 | ⏳ |
-| Coesão e coerência | 2 | ⏳ |
+| Gêneros e tipologias textuais | 2 | ✅ POR-014 e 015 |
+| Coesão e coerência | 2 | ✅ POR-016 e 017 |
 | Ortografia oficial (acentuação, letra/fonema, sílaba, encontros, dígrafos) | 4 | ✅ POR-001 a 004 |
-| Classes de palavras | 2 | ⏳ |
-| Semântica (sinônimos, antônimos, conotação/denotação) | 2 | ⏳ |
+| Classes de palavras | 2 | ✅ POR-010 e 011 |
+| Semântica (sinônimos, antônimos, conotação/denotação) | 2 | ✅ POR-012 e 013 |
 | Funções sintáticas | 1 | ⏳ |
 | Concordância nominal e verbal | 2 | ✅ POR-006 e 007 |
 | Pontuação | 2 | ✅ POR-008 e 009 |
