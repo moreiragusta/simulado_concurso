@@ -11,8 +11,8 @@ Geração em blocos pequenos (~10 questões), um assunto por vez, revisados ante
 | Lei 12.846/2013 — Anticorrupção | 3 | LEG-011 a 013 | ✅ bloco 2 |
 | Lei 12.288/2010 — Estatuto da Igualdade Racial | 3 | LEG-014 a 016 | ✅ bloco 2 |
 | Lei 12.016/2009 — Mandado de Segurança | 3 | LEG-017 a 019 | ✅ bloco 2 |
-| Lei 9.507/1997 — Habeas Data | 3 | LEG-020 a 022 | ⏳ |
-| Lei 8.429/1992 — Improbidade Administrativa | 3 | LEG-023 a 025 | ⏳ |
+| Lei 9.507/1997 — Habeas Data | 3 | LEG-020 a 022 | ✅ bloco 3 |
+| Lei 8.429/1992 — Improbidade Administrativa | 3 | LEG-023 a 025 | ✅ bloco 3 |
 
 ## Conhecimentos Específicos — 100 questões (`ESP-xxx`)
 
@@ -24,10 +24,35 @@ Geração em blocos pequenos (~10 questões), um assunto por vez, revisados ante
 | Comunicação corporativa, trabalho em equipe, relações humanas e conflitos | 10 | ⏳ |
 | Atendimento ao cliente; administração de materiais; controle orçamentário e adm. financeira | 10 | ⏳ |
 | Logística; protocolo, recepção, classificação, registro e distribuição; gestão de arquivos | 10 | ⏳ |
-| LC Municipal 05/1991 — Regime Jurídico Único (Pres. Prudente) | 10 | ⏳ precisa do texto da lei |
-| LC Municipal 106/2001 — legislação previdenciária municipal | 10 | ⏳ precisa do texto da lei |
+| LC Municipal 05/1991 — Regime Jurídico Único (Pres. Prudente) | 10 | ⏳ texto recebido |
+| LC Municipal 106/2001 — legislação previdenciária municipal | 10 | ⏳ texto recebido |
 | Lei Federal 9.717/1998 — normas gerais dos RPPS | 10 | ⏳ |
 | Portaria MTP 1.467/2022 — parâmetros e diretrizes dos RPPS | 10 | ⏳ |
+
+### Leis municipais — divisão por assunto
+
+Fonte: textos consolidados enviados pelo usuário (LC 05/1991 consolidada em 06/04/2026; LC 106/2001 consolidada em 20/05/2024).
+Toda questão cita o artigo de origem para conferência.
+
+**LC 05/1991 — Regime Jurídico Único (10)**
+
+| Assunto | Artigos | Qtd |
+|---|---|---|
+| Provimento, nomeação, concurso, posse, exercício, estabilidade e estágio probatório | 7–31 | 3 |
+| Readaptação, reversão, reintegração, disponibilidade, vacância e substituição | 24–27, 48–59 | 1 |
+| Vencimento, vantagens, gratificações, adicionais e férias | 60–97 | 2 |
+| Licenças, concessões, afastamentos, tempo de serviço e direito de petição | 98–132 | 2 |
+| Deveres, proibições, acumulação, responsabilidades, penalidades e PAD | 133–196 | 2 |
+
+**LC 106/2001 — Sistema de Previdência Municipal (10)**
+
+| Assunto | Artigos | Qtd |
+|---|---|---|
+| Finalidades, definições e princípios | 1–9 | 1 |
+| Participantes, dependentes, inscrição e perda da qualidade | 10–18 | 2 |
+| Aposentadorias (invalidez, compulsória, tempo de contribuição e idade) e regras gerais | 19–27, 60–69 | 3 |
+| Auxílio-doença, salário-família, salário-maternidade, pensão por morte, auxílio-reclusão e abono anual | 28–59, 78 | 2 |
+| Organização da entidade, custeio, receitas e reservas | 111–135 | 2 |
 
 ## Língua Portuguesa — 25 questões (`POR-xxx`)
 

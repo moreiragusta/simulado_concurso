@@ -279,6 +279,79 @@
         "ato administrativo do qual caiba recurso sem efeito suspensivo.",
         "omissão ilegal de autoridade pública que viole direito líquido e certo."
       ]
+    },
+
+    {
+      "id": "LEG-020",
+      "tema": "legislacao",
+      "enunciado": "De acordo com a Lei nº 9.507/1997, conceder-se-á habeas data para:",
+      "correta": "assegurar o conhecimento de informações relativas à pessoa do impetrante, constantes de banco de dados de entidades governamentais ou de caráter público.",
+      "incorretas": [
+        "obter informações de interesse coletivo ou geral relativas a terceiros, constantes de registro ou banco de dados de entidades governamentais.",
+        "proteger direito líquido e certo, não amparado por habeas corpus, contra ato ilegal ou abusivo praticado por autoridade pública.",
+        "assegurar a liberdade de locomoção de quem sofre ou se acha ameaçado de sofrer violência ou coação por ilegalidade ou abuso de poder.",
+        "anular ato lesivo ao patrimônio público ou de entidade de que o Estado participe, à moralidade administrativa e ao meio ambiente."
+      ]
+    },
+    {
+      "id": "LEG-021",
+      "tema": "legislacao",
+      "enunciado": "Conforme a Lei nº 9.507/1997, a petição inicial do habeas data deverá ser instruída com prova da recusa ao acesso às informações ou do decurso de mais de quantos dias sem decisão?",
+      "correta": "10 (dez) dias.",
+      "incorretas": [
+        "5 (cinco) dias.",
+        "15 (quinze) dias.",
+        "20 (vinte) dias.",
+        "30 (trinta) dias."
+      ]
+    },
+    {
+      "id": "LEG-022",
+      "tema": "legislacao",
+      "enunciado": "Sobre o habeas data, nos termos da Lei nº 9.507/1997, assinale a alternativa CORRETA.",
+      "correta": "São gratuitos o procedimento administrativo para acesso a informações e retificação de dados e a ação de habeas data.",
+      "incorretas": [
+        "A ação de habeas data está sujeita ao pagamento de custas judiciais, salvo comprovada hipossuficiência do impetrante.",
+        "O requerimento administrativo será deferido ou indeferido no prazo de 30 (trinta) dias, contados do seu protocolo.",
+        "O habeas data pode ser impetrado para obter informações pessoais relativas a terceiros, desde que haja interesse legítimo.",
+        "Os processos de habeas data não têm prioridade sobre os demais atos judiciais, ressalvado apenas o habeas corpus."
+      ]
+    },
+    {
+      "id": "LEG-023",
+      "tema": "legislacao",
+      "enunciado": "Com as alterações promovidas pela Lei nº 14.230/2021, a Lei nº 8.429/1992 (Lei de Improbidade Administrativa) passou a considerar atos de improbidade administrativa:",
+      "correta": "somente as condutas dolosas tipificadas na lei, não bastando a mera voluntariedade do agente.",
+      "incorretas": [
+        "as condutas dolosas ou culposas tipificadas na lei, indistintamente, em todas as modalidades.",
+        "as condutas culposas que causem lesão ao erário e as dolosas que atentem contra os princípios.",
+        "qualquer conduta irregular do agente público, independentemente da presença de dolo ou culpa.",
+        "apenas as condutas culposas praticadas por agentes políticos no exercício de mandato eletivo."
+      ]
+    },
+    {
+      "id": "LEG-024",
+      "tema": "legislacao",
+      "enunciado": "Segundo a Lei nº 8.429/1992, com a redação dada pela Lei nº 14.230/2021, a ação para a aplicação das sanções nela previstas prescreve em:",
+      "correta": "8 (oito) anos, contados a partir da ocorrência do fato ou, no caso de infrações permanentes, do dia em que cessou a permanência.",
+      "incorretas": [
+        "5 (cinco) anos, contados a partir do término do exercício de mandato, de cargo em comissão ou de função de confiança.",
+        "10 (dez) anos, contados a partir da ocorrência do fato ou, no caso de infrações permanentes, do dia em que cessou a permanência.",
+        "4 (quatro) anos, contados a partir da data em que o fato se tornou conhecido pela autoridade administrativa competente.",
+        "8 (oito) anos, contados a partir da data em que o fato se tornou conhecido pelo Ministério Público ou pela pessoa jurídica lesada."
+      ]
+    },
+    {
+      "id": "LEG-025",
+      "tema": "legislacao",
+      "enunciado": "Nos termos da Lei nº 8.429/1992, o agente público que percebe vantagem econômica para intermediar a liberação ou aplicação de verba pública de qualquer natureza pratica ato de improbidade administrativa que importa:",
+      "correta": "enriquecimento ilícito.",
+      "incorretas": [
+        "prejuízo ao erário, apenas.",
+        "atentado aos princípios da administração.",
+        "concessão indevida de benefício tributário.",
+        "mera infração disciplinar, sem improbidade."
+      ]
     }
   ]
 }
