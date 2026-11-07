@@ -614,6 +614,137 @@
         "5 (cinco) anos, 1 (um) ano e 180 (cento e oitenta) dias.",
         "10 (dez) anos, 5 (cinco) anos e 2 (dois) anos."
       ]
+    },
+
+    {
+      "id": "L9717-01",
+      "tema": "especificos",
+      "fonte": "Lei 9.717/1998, art. 1º, V",
+      "enunciado": "De acordo com a Lei nº 9.717/1998, os regimes próprios de previdência social terão cobertura exclusiva a servidores públicos titulares de cargos efetivos e a militares, e a seus respectivos dependentes, de cada ente estatal, sendo vedado o pagamento de benefícios mediante:",
+      "correta": "convênios ou consórcios entre Estados, entre Estados e Municípios e entre Municípios.",
+      "incorretas": [
+        "folha de pagamento processada pela unidade gestora do próprio ente federativo.",
+        "crédito em conta bancária de titularidade do próprio segurado ou beneficiário.",
+        "recursos do fundo previdenciário instituído por lei pelo próprio ente estatal.",
+        "ato de concessão publicado pela unidade gestora e homologado pelo Tribunal de Contas."
+      ]
+    },
+    {
+      "id": "L9717-02",
+      "tema": "especificos",
+      "fonte": "Lei 9.717/1998, art. 1º-A",
+      "enunciado": "Segundo a Lei nº 9.717/1998, o servidor público titular de cargo efetivo filiado a regime próprio de previdência social, quando cedido a órgão ou entidade de outro ente da federação:",
+      "correta": "permanecerá vinculado ao regime de origem, com ou sem ônus para o cessionário.",
+      "incorretas": [
+        "passará a vincular-se ao regime próprio do ente cessionário durante a cessão.",
+        "passará a vincular-se ao Regime Geral de Previdência Social durante a cessão.",
+        "permanecerá no regime de origem somente se a cessão ocorrer sem ônus para o cessionário.",
+        "poderá optar entre o regime de origem e o regime do ente cessionário, em caráter irretratável."
+      ]
+    },
+    {
+      "id": "L9717-03",
+      "tema": "especificos",
+      "fonte": "Lei 9.717/1998, art. 2º, caput",
+      "enunciado": "Conforme a Lei nº 9.717/1998, a contribuição dos Municípios, incluídas suas autarquias e fundações, ao regime próprio de previdência social a que estejam vinculados seus servidores:",
+      "correta": "não poderá ser inferior ao valor da contribuição do servidor ativo, nem superior ao dobro desta contribuição.",
+      "incorretas": [
+        "não poderá ser inferior à metade do valor da contribuição do servidor ativo, nem superior a esta contribuição.",
+        "deverá ser exatamente igual ao valor da contribuição do servidor ativo, vedada qualquer diferenciação.",
+        "não poderá ser inferior ao dobro do valor da contribuição do servidor ativo, nem superior ao triplo desta.",
+        "será livremente fixada por lei municipal, sem qualquer relação com a contribuição do servidor ativo."
+      ]
+    },
+    {
+      "id": "L9717-04",
+      "tema": "especificos",
+      "fonte": "Lei 9.717/1998, art. 2º, § 1º",
+      "enunciado": "Nos termos da Lei nº 9.717/1998, a responsabilidade pela cobertura de eventuais insuficiências financeiras do regime próprio de previdência social de um Município, decorrentes do pagamento de benefícios previdenciários, é:",
+      "correta": "do próprio Município, ente instituidor do regime.",
+      "incorretas": [
+        "da União, por meio de transferências obrigatórias.",
+        "do Regime Geral de Previdência Social (INSS).",
+        "do Estado em cujo território o Município se situa.",
+        "exclusivamente dos segurados ativos e inativos."
+      ]
+    },
+    {
+      "id": "L9717-05",
+      "tema": "especificos",
+      "fonte": "Lei 9.717/1998, art. 2º, § 2º",
+      "enunciado": "A Lei nº 9.717/1998 determina que os entes federativos publiquem demonstrativo financeiro e orçamentário da receita e despesa previdenciárias acumuladas no exercício financeiro em curso:",
+      "correta": "até 30 (trinta) dias após o encerramento de cada bimestre.",
+      "incorretas": [
+        "até 60 (sessenta) dias após o encerramento de cada trimestre.",
+        "até 30 (trinta) dias após o encerramento de cada semestre.",
+        "até 15 (quinze) dias após o encerramento de cada mês.",
+        "até 90 (noventa) dias após o encerramento de cada exercício."
+      ]
+    },
+    {
+      "id": "L9717-06",
+      "tema": "especificos",
+      "fonte": "Lei 9.717/1998, art. 3º",
+      "enunciado": "De acordo com a Lei nº 9.717/1998, as alíquotas de contribuição dos servidores ativos dos Estados, do Distrito Federal e dos Municípios para os respectivos regimes próprios de previdência social:",
+      "correta": "não serão inferiores às dos servidores titulares de cargos efetivos da União.",
+      "incorretas": [
+        "não serão superiores às dos servidores titulares de cargos efetivos da União.",
+        "serão iguais às dos segurados empregados do Regime Geral de Previdência Social.",
+        "serão fixadas livremente por cada ente, sem qualquer parâmetro federal mínimo.",
+        "não serão inferiores às dos servidores titulares de cargos efetivos do respectivo Estado."
+      ]
+    },
+    {
+      "id": "L9717-07",
+      "tema": "especificos",
+      "fonte": "Lei 9.717/1998, art. 6º, II, IV, VI e IX",
+      "enunciado": "Na constituição de fundos integrados de bens, direitos e ativos com finalidade previdenciária, a Lei nº 9.717/1998 estabelece, entre outros preceitos, a:",
+      "correta": "vedação à aplicação de recursos em títulos públicos, com exceção de títulos do Governo Federal.",
+      "incorretas": [
+        "vedação à existência de conta do fundo distinta da conta do Tesouro da unidade federativa.",
+        "aplicação de recursos conforme critérios livremente estabelecidos pelo Chefe do Poder Executivo.",
+        "possibilidade de constituição e extinção do fundo por decreto do Chefe do Poder Executivo.",
+        "possibilidade de empréstimos aos segurados, desde que garantidos por consignação em folha."
+      ]
+    },
+    {
+      "id": "L9717-08",
+      "tema": "especificos",
+      "fonte": "Lei 9.717/1998, art. 7º",
+      "enunciado": "Segundo a Lei nº 9.717/1998, o descumprimento de suas disposições pelos Estados, Distrito Federal e Municípios e pelos respectivos fundos implicará, entre outras consequências:",
+      "correta": "a suspensão das transferências voluntárias de recursos pela União.",
+      "incorretas": [
+        "a suspensão das transferências constitucionais obrigatórias da União.",
+        "a decretação automática de intervenção federal no ente responsável.",
+        "a extinção imediata do regime próprio e a migração ao Regime Geral.",
+        "a perda do mandato do Chefe do Poder Executivo do ente responsável."
+      ]
+    },
+    {
+      "id": "L9717-09",
+      "tema": "especificos",
+      "fonte": "Lei 9.717/1998, art. 9º, IV",
+      "enunciado": "Nos termos da Lei nº 9.717/1998, o Certificado de Regularidade Previdenciária (CRP) é emitido:",
+      "correta": "pela União, e atesta o cumprimento, pelos Estados, Distrito Federal e Municípios, dos critérios e exigências aplicáveis aos regimes próprios.",
+      "incorretas": [
+        "pelo Tribunal de Contas do Estado, e atesta a regularidade das contas anuais apresentadas pela unidade gestora do regime próprio.",
+        "pela própria unidade gestora do regime próprio, e atesta a inexistência de débitos do ente com o fundo previdenciário municipal.",
+        "pelo Instituto Nacional do Seguro Social, e atesta a regularidade das contribuições do ente ao Regime Geral de Previdência Social.",
+        "pelo Conselho Monetário Nacional, e atesta que a aplicação dos recursos previdenciários observou os limites de investimento."
+      ]
+    },
+    {
+      "id": "L9717-10",
+      "tema": "especificos",
+      "fonte": "Lei 9.717/1998, art. 10",
+      "enunciado": "Conforme a Lei nº 9.717/1998, no caso de extinção de regime próprio de previdência social de um Município:",
+      "correta": "o Município assumirá integralmente o pagamento dos benefícios concedidos e daqueles cujos requisitos foram implementados antes da extinção.",
+      "incorretas": [
+        "o Regime Geral de Previdência Social assumirá o pagamento dos benefícios concedidos durante a vigência do regime extinto.",
+        "a União assumirá o pagamento dos benefícios concedidos, ressarcindo-se por meio da retenção de transferências ao Município.",
+        "o Município assumirá apenas os benefícios já concedidos, extinguindo-se o direito daqueles que ainda não os requereram.",
+        "os benefícios concedidos serão extintos, cabendo aos segurados a restituição das contribuições vertidas ao regime."
+      ]
     }
   ]
 }
