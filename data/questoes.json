@@ -1,11 +1,15 @@
 {
   "versao": 1,
+  "simulado": {
+    "totalQuestoes": 20,
+    "observacao": "Matérias com 'noSimulado' fixo entram com essa quantidade; as demais dividem o restante (2 ou 3 cada, sorteado)."
+  },
   "temas": [
-    { "id": "portugues",    "nome": "Língua Portuguesa",            "questoesNaProva": 5,  "valor": 2 },
-    { "id": "matematica",   "nome": "Matemática/Raciocínio Lógico", "questoesNaProva": 5,  "valor": 2 },
-    { "id": "informatica",  "nome": "Noções de Informática",        "questoesNaProva": 5,  "valor": 2 },
-    { "id": "legislacao",   "nome": "Legislação",                   "questoesNaProva": 5,  "valor": 2 },
-    { "id": "especificos",  "nome": "Conhecimentos Específicos",    "questoesNaProva": 20, "valor": 3 }
+    { "id": "portugues",   "nome": "Língua Portuguesa",            "questoesNaProva": 5,  "valor": 2 },
+    { "id": "matematica",  "nome": "Matemática/Raciocínio Lógico", "questoesNaProva": 5,  "valor": 2 },
+    { "id": "informatica", "nome": "Noções de Informática",        "questoesNaProva": 5,  "valor": 2 },
+    { "id": "legislacao",  "nome": "Legislação",                   "questoesNaProva": 5,  "valor": 2 },
+    { "id": "especificos", "nome": "Conhecimentos Específicos",    "questoesNaProva": 20, "valor": 3, "noSimulado": 10 }
   ],
   "questoes": [
     {
@@ -18,6 +22,32 @@
         "exceção, análize, privilégio",
         "exceção, análise, previlégio",
         "esceção, análise, privilégio"
+      ]
+    },
+    {
+      "id": "MAT-001",
+      "tema": "matematica",
+      "enunciado": "Um servidor recebe R$ 3.000,00 e contribui com 14% para o regime próprio. Qual o valor da contribuição?",
+      "correta": "R$ 420,00",
+      "incorretas": ["R$ 300,00", "R$ 340,00", "R$ 400,00", "R$ 440,00"]
+    },
+    {
+      "id": "INF-001",
+      "tema": "informatica",
+      "enunciado": "No Microsoft Word, o atalho Ctrl + Z serve para:",
+      "correta": "desfazer a última ação",
+      "incorretas": ["salvar o documento", "refazer a última ação", "selecionar todo o texto", "fechar o documento"]
+    },
+    {
+      "id": "ESP-001",
+      "tema": "especificos",
+      "enunciado": "O Regime Próprio de Previdência Social (RPPS) é destinado aos:",
+      "correta": "servidores titulares de cargo efetivo",
+      "incorretas": [
+        "trabalhadores da iniciativa privada",
+        "ocupantes exclusivamente de cargo em comissão",
+        "trabalhadores autônomos",
+        "empregados públicos celetistas"
       ]
     }
   ]

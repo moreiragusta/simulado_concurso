@@ -1,39 +1,37 @@
 /* =========================================================
    Simulado PrudenPrev
-   Etapa 2: interface + demonstração com questões de exemplo.
-   Etapa 3 vai trocar a DEMO pelo motor real
-   (carregar JSON, sorteio por matéria, embaralhar alternativas).
+   Carrega o banco (data/questoes.json), sorteia as questões
+   respeitando o peso de cada matéria e embaralha as alternativas.
    ========================================================= */
 (function () {
   'use strict';
 
   var LETRAS = ['A', 'B', 'C', 'D', 'E'];
-
-  var MATERIAS = {
-    portugues:   { nome: 'Língua Portuguesa',            noSimulado: '2 ou 3', valor: 2 },
-    matematica:  { nome: 'Matemática/Raciocínio Lógico', noSimulado: '2 ou 3', valor: 2 },
-    informatica: { nome: 'Noções de Informática',        noSimulado: '2 ou 3', valor: 2 },
-    legislacao:  { nome: 'Legislação',                   noSimulado: '2 ou 3', valor: 2 },
-    especificos: { nome: 'Conhecimentos Específicos',    noSimulado: '10',     valor: 3 }
-  };
-
-  // ---------- DEMO (temporário — substituído na etapa 3) ----------
-  var DEMO = [
-    { tema: 'portugues', enunciado: 'Assinale a alternativa em que todas as palavras estão grafadas corretamente.',
-      alternativas: ['excessão, análise, privilégio', 'exceção, análise, privilégio', 'exceção, análize, privilégio', 'exceção, análise, previlégio', 'esceção, análise, privilégio'], correta: 1 },
-    { tema: 'matematica', enunciado: 'Um servidor recebe R$ 3.000,00 e contribui com 14% para o regime próprio. Qual o valor da contribuição?',
-      alternativas: ['R$ 300,00', 'R$ 340,00', 'R$ 400,00', 'R$ 420,00', 'R$ 440,00'], correta: 3 },
-    { tema: 'informatica', enunciado: 'No Microsoft Word, o atalho Ctrl + Z serve para:',
-      alternativas: ['salvar o documento', 'desfazer a última ação', 'refazer a última ação', 'selecionar todo o texto', 'fechar o documento'], correta: 1 },
-    { tema: 'especificos', enunciado: 'O Regime Próprio de Previdência Social (RPPS) é destinado aos:',
-      alternativas: ['trabalhadores da iniciativa privada', 'servidores titulares de cargo efetivo', 'ocupantes exclusivamente de cargo em comissão', 'trabalhadores autônomos', 'empregados públicos celetistas'], correta: 1 }
-  ];
+  var ARQUIVO = 'data/questoes.json';
 
   // ---------- Elementos ----------
   var $ = function (id) { return document.getElementById(id); };
   var telas = { inicio: $('tela-inicio'), questao: $('tela-questao'), resultado: $('tela-resultado') };
 
+  var banco = { total: 20, temas: [], porId: {}, questoes: [] };
   var estado = { questoes: [], atual: 0, respostas: [] };
+
+  // ---------- Utilidades ----------
+  // Embaralhamento de Fisher–Yates (devolve uma cópia).
+  function embaralhar(lista) {
+    var a = lista.slice();
+    for (var i = a.length - 1; i > 0; i--) {
+      var j = Math.floor(Math.random() * (i + 1));
+      var t = a[i]; a[i] = a[j]; a[j] = t;
+    }
+    return a;
+  }
+
+  function escapar(txt) {
+    return String(txt).replace(/[&<>"']/g, function (c) {
+      return { '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&#39;' }[c];
+    });
+  }
 
   // ---------- Tema claro/escuro ----------
   function temaAtual() {
@@ -53,18 +51,95 @@
     window.scrollTo(0, 0);
   }
 
+  // ---------- Banco de questões ----------
+  function questaoValida(q) {
+    return q && q.id && banco.porId[q.tema] && q.enunciado && q.correta &&
+      Array.isArray(q.incorretas) && q.incorretas.length === 4;
+  }
+
+  function carregarBanco() {
+    return fetch(ARQUIVO, { cache: 'no-cache' })
+      .then(function (r) {
+        if (!r.ok) throw new Error('HTTP ' + r.status);
+        return r.json();
+      })
+      .then(function (dados) {
+        banco.total = (dados.simulado && dados.simulado.totalQuestoes) || 20;
+        banco.temas = dados.temas;
+        banco.porId = {};
+        dados.temas.forEach(function (t) { banco.porId[t.id] = t; });
+        banco.questoes = (dados.questoes || []).filter(function (q) {
+          var ok = questaoValida(q);
+          if (!ok) console.warn('Questão ignorada (formato inválido):', q && q.id);
+          return ok;
+        });
+      });
+  }
+
+  // Quantas questões de cada matéria entram no simulado.
+  // Matérias com "noSimulado" fixo recebem essa quantidade; as demais
+  // dividem o restante igualmente, e a sobra vai para matérias sorteadas.
+  function cotasPorMateria() {
+    var cotas = {};
+    var restante = banco.total;
+    var livres = [];
+    banco.temas.forEach(function (t) {
+      if (t.noSimulado) { cotas[t.id] = t.noSimulado; restante -= t.noSimulado; }
+      else livres.push(t.id);
+    });
+    if (livres.length) {
+      var base = Math.floor(restante / livres.length);
+      var sobra = restante - base * livres.length;
+      embaralhar(livres).forEach(function (id, i) { cotas[id] = base + (i < sobra ? 1 : 0); });
+    }
+    return cotas;
+  }
+
+  // Sorteia as questões e embaralha as alternativas de cada uma.
+  function sortearSimulado() {
+    var cotas = cotasPorMateria();
+    var escolhidas = [];
+    banco.temas.forEach(function (t) {
+      var daMateria = banco.questoes.filter(function (q) { return q.tema === t.id; });
+      escolhidas = escolhidas.concat(embaralhar(daMateria).slice(0, cotas[t.id] || 0));
+    });
+    // Ordem da prova: matérias na ordem do edital (como no caderno real).
+    return escolhidas.map(function (q) {
+      var alternativas = embaralhar([q.correta].concat(q.incorretas));
+      return {
+        id: q.id,
+        tema: q.tema,
+        enunciado: q.enunciado,
+        alternativas: alternativas,
+        correta: alternativas.indexOf(q.correta)
+      };
+    });
+  }
+
   // ---------- Tela inicial ----------
-  function montarTabelaMaterias() {
-    $('tabela-materias').innerHTML = Object.keys(MATERIAS).map(function (k) {
-      var m = MATERIAS[k];
-      return '<tr><td>' + m.nome + '</td><td>' + m.noSimulado + '</td><td>' + m.valor + ' pts</td></tr>';
+  function montarTelaInicial() {
+    var cotasFixas = {};
+    banco.temas.forEach(function (t) { cotasFixas[t.id] = t.noSimulado; });
+    var livres = banco.temas.filter(function (t) { return !t.noSimulado; });
+    var restante = banco.total - banco.temas.reduce(function (s, t) { return s + (t.noSimulado || 0); }, 0);
+    var base = livres.length ? Math.floor(restante / livres.length) : 0;
+    var temSobra = livres.length && restante % livres.length !== 0;
+
+    $('tabela-materias').innerHTML = banco.temas.map(function (t) {
+      var qtd = t.noSimulado ? String(t.noSimulado) : (temSobra ? base + ' ou ' + (base + 1) : String(base));
+      var noBanco = banco.questoes.filter(function (q) { return q.tema === t.id; }).length;
+      return '<tr><td>' + escapar(t.nome) + '</td><td>' + qtd + '</td><td>' + t.valor + ' pts</td><td>' + noBanco + '</td></tr>';
     }).join('');
+
+    $('info-banco').textContent = 'Banco atual: ' + banco.questoes.length + ' questões.';
+    $('btn-iniciar').disabled = banco.questoes.length === 0;
   }
 
   function iniciar() {
-    estado.questoes = DEMO;
+    estado.questoes = sortearSimulado();
     estado.atual = 0;
     estado.respostas = [];
+    if (!estado.questoes.length) return;
     mostrar('questao');
     renderQuestao();
   }
@@ -76,7 +151,7 @@
 
     $('contador').textContent = 'Questão ' + (estado.atual + 1) + ' de ' + total;
     $('barra').style.width = (estado.atual / total * 100) + '%';
-    $('tag-materia').textContent = MATERIAS[q.tema].nome;
+    $('tag-materia').textContent = banco.porId[q.tema].nome;
     $('enunciado').textContent = q.enunciado;
     $('feedback').textContent = '';
     $('feedback').className = 'feedback';
@@ -100,7 +175,7 @@
 
   function responder(escolha) {
     var q = estado.questoes[estado.atual];
-    if (estado.respostas[estado.atual] !== undefined) return; // já respondida
+    if (estado.respostas[estado.atual] !== undefined) return; // resposta travada
     var acertou = escolha === q.correta;
     estado.respostas[estado.atual] = { escolha: escolha, acertou: acertou };
 
@@ -126,7 +201,7 @@
     var prox = $('btn-proxima');
     prox.textContent = estado.atual === estado.questoes.length - 1 ? 'Ver resultado →' : 'Próxima →';
     prox.hidden = false;
-    prox.focus();
+    prox.focus({ preventScroll: true });
     atualizarPlacar();
   }
 
@@ -154,7 +229,7 @@
     var porMateria = {};
 
     estado.questoes.forEach(function (q, i) {
-      var valor = MATERIAS[q.tema].valor;
+      var valor = banco.porId[q.tema].valor;
       var r = estado.respostas[i];
       max += valor;
       if (r.acertou) { nota += valor; acertos++; }
@@ -168,10 +243,10 @@
     $('nota-max').textContent = max;
     $('resumo').textContent = acertos + ' de ' + total + ' questões certas (' + Math.round(acertos / total * 100) + '%)';
 
-    $('desempenho').innerHTML = Object.keys(MATERIAS).filter(function (k) { return porMateria[k]; }).map(function (k) {
-      var pm = porMateria[k];
+    $('desempenho').innerHTML = banco.temas.filter(function (t) { return porMateria[t.id]; }).map(function (t) {
+      var pm = porMateria[t.id];
       var pct = Math.round(pm.ok / pm.total * 100);
-      return '<li><div class="linha"><span>' + MATERIAS[k].nome + '</span><span>' + pm.ok + '/' + pm.total + '</span></div>' +
+      return '<li><div class="linha"><span>' + escapar(t.nome) + '</span><span>' + pm.ok + '/' + pm.total + '</span></div>' +
         '<div class="trilho"><div class="cheio" style="width:' + pct + '%"></div></div></li>';
     }).join('');
 
@@ -183,15 +258,22 @@
       return '<li class="' + (r.acertou ? 'ok' : 'erro') + '">' +
         '<span class="num">' + (i + 1) + '.</span>' +
         '<span class="marca-res" aria-label="' + (r.acertou ? 'certa' : 'errada') + '">' + (r.acertou ? '✓' : '✗') + '</span>' +
-        '<span class="mat">' + MATERIAS[q.tema].nome + '</span>' +
+        '<span class="mat">' + escapar(banco.porId[q.tema].nome) + '</span>' +
         '<span class="resp">' + resp + '</span></li>';
     }).join('');
   }
 
-  // ---------- Eventos ----------
+  // ---------- Início ----------
   $('btn-iniciar').addEventListener('click', iniciar);
   $('btn-proxima').addEventListener('click', proxima);
   $('btn-refazer').addEventListener('click', iniciar);
 
-  montarTabelaMaterias();
+  carregarBanco()
+    .then(montarTelaInicial)
+    .catch(function (e) {
+      console.error(e);
+      var info = $('info-banco');
+      info.textContent = 'Não foi possível carregar as questões. Se abriu o arquivo direto do computador, use um servidor local (veja o README).';
+      info.className = 'info-banco erro';
+    });
 })();

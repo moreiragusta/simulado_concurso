@@ -57,7 +57,7 @@ e acesse `http://localhost:8000`.
 
 - [x] Etapa 1 — estrutura e repositório
 - [x] Etapa 2 — visual (cartoon P&B, claro/escuro, responsivo)
-- [ ] Etapa 3 — lógica do simulado
+- [x] Etapa 3 — lógica do simulado
 - [ ] Etapa 4 — banco de 200 questões
 - [ ] Etapa 5 — extras (progresso, desempenho por matéria, histórico)
 - [ ] v2 — explicação por questão, filtro por matéria

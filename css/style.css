@@ -173,6 +173,9 @@ main {
 .tabela-materias tr:last-child td { border-bottom: none; }
 .tabela-materias th:not(:first-child), .tabela-materias td:not(:first-child) { text-align: center; white-space: nowrap; }
 
+.info-banco { margin: 12px 0 0; font-size: .9rem; color: var(--fg-suave); }
+.info-banco.erro { color: var(--erro); font-weight: 700; }
+
 /* ---------- Botões ---------- */
 .btn {
   font: inherit;
@@ -190,6 +193,7 @@ main {
 }
 .btn:hover { transform: translate(-1px, -1px); box-shadow: calc(var(--desloc) + 1px) calc(var(--desloc) + 1px) 0 var(--sombra); }
 .btn:active { transform: translate(var(--desloc), var(--desloc)); box-shadow: 0 0 0 var(--sombra) !important; }
+.btn:disabled { opacity: .45; cursor: wait; transform: none; }
 .btn-grande { width: 100%; }
 button:focus-visible { outline: 3px dashed var(--fg); outline-offset: 4px; }
 
