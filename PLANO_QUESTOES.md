@@ -85,12 +85,12 @@ Toda questão cita o artigo de origem para conferência.
 | Potenciação, radiciação, fatoração, polinômios e produtos notáveis | 2 | ⏳ |
 | Funções (constante, afim, crescente/decrescente, gráficos) | 1 | ⏳ |
 | Unidades de medida e conversões | 1 | ⏳ |
-| Geometria plana (ângulos, Tales, circunferência, áreas) | 3 | ⏳ |
-| Geometria espacial (volume de prisma e cilindro) | 1 | ⏳ |
-| Plano cartesiano e orientação espacial | 1 | ⏳ |
-| Estatística (média, moda, mediana, tabelas e gráficos) | 2 | ⏳ |
+| Geometria plana (ângulos, Tales, circunferência, áreas) | 3 | ✅ MAT-011 a 013 |
+| Geometria espacial (volume de prisma e cilindro) | 1 | ✅ MAT-014 |
+| Plano cartesiano e orientação espacial | 1 | ✅ MAT-015 |
+| Estatística (média, moda, mediana, tabelas e gráficos) | 2 | ✅ MAT-016 e 017 |
 | Sequências lógicas (números, figuras, letras) | 2 | ⏳ |
-| Probabilidade | 1 | ⏳ |
+| Probabilidade | 1 | ✅ MAT-018 |
 | Razão, proporção e regra de três simples/composta | 2 | ✅ MAT-007 e 008 |
 | Porcentagem e juros simples | 2 | ✅ MAT-001 e 009 |
 

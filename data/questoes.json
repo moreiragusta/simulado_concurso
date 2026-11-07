@@ -420,6 +420,70 @@
       "incorretas": ["150", "175", "250", "300"]
     },
     {
+      "id": "MAT-011",
+      "tema": "matematica",
+      "fonte": "Geometria plana — ângulos suplementares",
+      "enunciado": "Dois ângulos são suplementares, e um deles mede 40° a mais que o outro. A medida do maior desses ângulos é:",
+      "correta": "110°",
+      "incorretas": ["65°", "70°", "100°", "140°"]
+    },
+    {
+      "id": "MAT-012",
+      "tema": "matematica",
+      "fonte": "Geometria plana — Teorema de Tales",
+      "enunciado": "Três retas paralelas são cortadas por duas retas transversais. Na primeira transversal, os segmentos determinados medem 4 cm e 6 cm. Na segunda transversal, o segmento correspondente ao de 4 cm mede 10 cm. O segmento correspondente ao de 6 cm mede:",
+      "correta": "15 cm.",
+      "incorretas": ["2,4 cm.", "8 cm.", "12 cm.", "20 cm."]
+    },
+    {
+      "id": "MAT-013",
+      "tema": "matematica",
+      "fonte": "Geometria plana — área do círculo",
+      "enunciado": "Uma praça circular tem raio de 10 metros. Considerando π = 3,14, a área dessa praça é de:",
+      "correta": "314 m².",
+      "incorretas": ["31,4 m².", "62,8 m².", "628 m².", "3.140 m²."]
+    },
+    {
+      "id": "MAT-014",
+      "tema": "matematica",
+      "fonte": "Geometria espacial — volume do paralelepípedo e conversão m³/litros",
+      "enunciado": "Uma caixa-d'água tem a forma de um paralelepípedo reto-retângulo com dimensões internas de 2 m de comprimento, 1,5 m de largura e 1 m de altura. A capacidade dessa caixa-d'água é de:",
+      "correta": "3.000 litros.",
+      "incorretas": ["3 litros.", "300 litros.", "4.500 litros.", "30.000 litros."]
+    },
+    {
+      "id": "MAT-015",
+      "tema": "matematica",
+      "fonte": "Plano cartesiano — simetria",
+      "enunciado": "No plano cartesiano, o ponto simétrico de A(3, −2) em relação ao eixo das abscissas (eixo x) é:",
+      "correta": "(3, 2)",
+      "incorretas": ["(−3, −2)", "(−3, 2)", "(2, 3)", "(−2, 3)"]
+    },
+    {
+      "id": "MAT-016",
+      "tema": "matematica",
+      "fonte": "Estatística — média, moda e mediana",
+      "enunciado": "As idades de cinco servidores de um setor são: 25, 30, 30, 42 e 48 anos. A média aritmética, a moda e a mediana dessas idades são, respectivamente:",
+      "correta": "35, 30 e 30.",
+      "incorretas": ["35, 30 e 42.", "30, 30 e 35.", "35, 42 e 30.", "34, 30 e 30."]
+    },
+    {
+      "id": "MAT-017",
+      "tema": "matematica",
+      "fonte": "Estatística — média ponderada",
+      "enunciado": "Em uma prova, um candidato obteve nota 6 em Português (peso 2), nota 9 em Matemática (peso 1) e nota 8 em Conhecimentos Específicos (peso 3). A média ponderada desse candidato foi:",
+      "correta": "7,5",
+      "incorretas": ["6,5", "7,0", "7,7", "8,0"]
+    },
+    {
+      "id": "MAT-018",
+      "tema": "matematica",
+      "fonte": "Probabilidade — evento simples",
+      "enunciado": "Uma urna contém 4 bolas vermelhas, 6 bolas azuis e 10 bolas brancas, todas do mesmo tamanho. Retirando-se uma bola ao acaso, a probabilidade de ela ser azul é de:",
+      "correta": "30%",
+      "incorretas": ["6%", "20%", "25%", "60%"]
+    },
+    {
       "id": "INF-001",
       "tema": "informatica",
       "enunciado": "No Microsoft Word, o atalho Ctrl + Z serve para:",
