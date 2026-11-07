@@ -1,4 +1,4 @@
-# Simulado PrudenPrev
+﻿# Simulado PrudenPrev
 
 Simulado web (celular e computador) com questões no estilo da banca **FAFIPA** para o concurso da
 **PrudenPrev** — Instituto de Previdência dos Servidores de Presidente Prudente/SP.
@@ -56,7 +56,7 @@ e acesse `http://localhost:8000`.
 ## Roadmap
 
 - [x] Etapa 1 — estrutura e repositório
-- [ ] Etapa 2 — visual (cartoon P&B, claro/escuro, responsivo)
+- [x] Etapa 2 — visual (cartoon P&B, claro/escuro, responsivo)
 - [ ] Etapa 3 — lógica do simulado
 - [ ] Etapa 4 — banco de 200 questões
 - [ ] Etapa 5 — extras (progresso, desempenho por matéria, histórico)

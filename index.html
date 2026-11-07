@@ -5,13 +5,103 @@
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>Simulado PrudenPrev</title>
   <meta name="description" content="Simulado de questões para o concurso da PrudenPrev — Presidente Prudente/SP (banca FAFIPA).">
+  <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><rect x='8' y='8' width='84' height='84' rx='14' fill='white' stroke='black' stroke-width='8'/><path d='M28 52l15 15 30-34' fill='none' stroke='black' stroke-width='10' stroke-linecap='round' stroke-linejoin='round'/></svg>">
+  <script>
+    // Aplica o tema salvo antes de desenhar a página (evita "piscar").
+    (function () {
+      try {
+        var t = localStorage.getItem('tema');
+        if (t === 'claro' || t === 'escuro') document.documentElement.dataset.theme = t === 'escuro' ? 'dark' : 'light';
+      } catch (e) {}
+    })();
+  </script>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Bangers&family=Comic+Neue:wght@400;700&display=swap" rel="stylesheet">
   <link rel="stylesheet" href="css/style.css">
 </head>
 <body>
+  <header class="topo">
+    <span class="marca">Simulado <b>PrudenPrev</b></span>
+    <button id="btn-tema" class="btn-tema" type="button" aria-label="Alternar modo claro/escuro">
+      <svg class="ico-lua" viewBox="0 0 24 24" aria-hidden="true"><path d="M20 14.5A8.5 8.5 0 0 1 9.5 4a8.5 8.5 0 1 0 10.5 10.5z"/></svg>
+      <svg class="ico-sol" viewBox="0 0 24 24" aria-hidden="true"><circle cx="12" cy="12" r="4.5"/><path d="M12 1.5v3M12 19.5v3M1.5 12h3M19.5 12h3M4.6 4.6l2.1 2.1M17.3 17.3l2.1 2.1M4.6 19.4l2.1-2.1M17.3 6.7l2.1-2.1"/></svg>
+    </button>
+  </header>
+
   <main id="app">
-    <h1>Simulado PrudenPrev</h1>
-    <p>Em construção — etapa 1 (estrutura) concluída.</p>
+    <!-- TELA INICIAL -->
+    <section id="tela-inicio" class="tela">
+      <div class="card destaque">
+        <h1 class="titulo">Simulado<br>PrudenPrev</h1>
+        <p class="sub">Instituto de Previdência dos Servidores de Presidente Prudente · estilo FAFIPA</p>
+      </div>
+
+      <div class="card">
+        <h2>Como funciona</h2>
+        <ul class="lista-regras">
+          <li><b>20 questões</b> sorteadas a cada simulado</li>
+          <li>5 alternativas, sempre embaralhadas</li>
+          <li>Correção na hora — sem trocar a resposta</li>
+          <li>Nota com os pesos da prova real</li>
+        </ul>
+      </div>
+
+      <div class="card">
+        <h2>Matérias</h2>
+        <table class="tabela-materias">
+          <thead><tr><th>Matéria</th><th>No simulado</th><th>Peso</th></tr></thead>
+          <tbody id="tabela-materias"></tbody>
+        </table>
+      </div>
+
+      <button id="btn-iniciar" class="btn btn-grande" type="button">Iniciar simulado</button>
+    </section>
+
+    <!-- TELA DE QUESTÃO -->
+    <section id="tela-questao" class="tela" hidden>
+      <div class="status">
+        <span id="contador" class="contador">Questão 1 de 20</span>
+        <span class="placar"><span class="placar-ok" id="placar-ok">✓ 0</span><span class="placar-erro" id="placar-erro">✗ 0</span></span>
+      </div>
+      <div class="progresso" aria-hidden="true"><div id="barra" class="barra"></div></div>
+
+      <article class="card">
+        <span id="tag-materia" class="tag">Matéria</span>
+        <p id="enunciado" class="enunciado"></p>
+        <ol id="alternativas" class="alternativas"></ol>
+        <p id="feedback" class="feedback" aria-live="polite"></p>
+      </article>
+
+      <button id="btn-proxima" class="btn btn-grande" type="button" hidden>Próxima →</button>
+    </section>
+
+    <!-- TELA DE RESULTADO -->
+    <section id="tela-resultado" class="tela" hidden>
+      <div class="card destaque resultado-topo">
+        <h1 class="titulo titulo-menor">Resultado</h1>
+        <p class="nota"><span id="nota">0</span><small> / <span id="nota-max">0</span> pts</small></p>
+        <p id="resumo" class="sub"></p>
+      </div>
+
+      <div class="card">
+        <h2>Desempenho por matéria</h2>
+        <ul id="desempenho" class="desempenho"></ul>
+      </div>
+
+      <div class="card">
+        <h2>Gabarito</h2>
+        <ol id="gabarito" class="gabarito"></ol>
+      </div>
+
+      <button id="btn-refazer" class="btn btn-grande" type="button">↻ Refazer simulado</button>
+    </section>
   </main>
+
+  <footer class="rodape">
+    Questões elaboradas com apoio de IA a partir do edital — confira sempre a legislação oficial.
+  </footer>
+
   <script src="js/app.js"></script>
 </body>
 </html>
