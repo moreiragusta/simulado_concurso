@@ -104,12 +104,12 @@ Toda questão cita o artigo de origem para conferência.
 | Segurança de dados | 3 | ✅ INF-009 a 011 |
 | Windows 11 | 2 | ✅ INF-012 e 013 |
 | Linux Ubuntu | 2 | ✅ INF-014 e 015 |
-| Word 2021 | 2 | ⏳ |
-| Excel 2021 | 3 | ⏳ |
-| Navegadores e busca na Web | 2 | ⏳ |
-| Nuvem (Google Drive) | 1 | ⏳ |
-| E-mail (Outlook, Gmail, Zimbra) | 1 | ⏳ |
-| Inteligência artificial generativa (ChatGPT, Copilot, Gemini) | 1 | ⏳ |
+| Word 2021 | 2 | ✅ INF-016 e 017 |
+| Excel 2021 | 3 | ✅ INF-018 a 020 |
+| Navegadores e busca na Web | 2 | ✅ INF-021 e 022 |
+| Nuvem (Google Drive) | 1 | ✅ INF-023 |
+| E-mail (Outlook, Gmail, Zimbra) | 1 | ✅ INF-024 |
+| Inteligência artificial generativa (ChatGPT, Copilot, Gemini) | 1 | ✅ INF-025 |
 
 ## Observação
 

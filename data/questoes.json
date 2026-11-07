@@ -729,6 +729,121 @@
       ]
     },
     {
+      "id": "INF-016",
+      "tema": "informatica",
+      "fonte": "Word 2021 (pt-BR) — atalhos de formatação",
+      "enunciado": "No Microsoft Word 2021, em sua versão em português, o atalho Ctrl + N tem a função de:",
+      "correta": "aplicar negrito ao texto selecionado.",
+      "incorretas": [
+        "aplicar itálico ao texto selecionado.",
+        "aplicar sublinhado ao texto selecionado.",
+        "criar um novo documento em branco.",
+        "salvar o documento que está aberto."
+      ]
+    },
+    {
+      "id": "INF-017",
+      "tema": "informatica",
+      "fonte": "Word 2021 — quebra de página (Ctrl + Enter)",
+      "enunciado": "No Microsoft Word 2021, o atalho de teclado que insere uma quebra de página manual na posição do cursor é:",
+      "correta": "Ctrl + Enter",
+      "incorretas": [
+        "Shift + Enter",
+        "Alt + Enter",
+        "Ctrl + Shift + Enter",
+        "Tab + Enter"
+      ]
+    },
+    {
+      "id": "INF-018",
+      "tema": "informatica",
+      "fonte": "Excel 2021 — função SOMA",
+      "enunciado": "Em uma planilha do Microsoft Excel 2021, as células A1, A2, A3 e A4 contêm, respectivamente, os valores 2, 4, 6 e 8. O resultado da fórmula =SOMA(A1:A4) é:",
+      "correta": "20",
+      "incorretas": ["5", "8", "10", "12"]
+    },
+    {
+      "id": "INF-019",
+      "tema": "informatica",
+      "fonte": "Excel 2021 — função SE",
+      "enunciado": "Em uma planilha do Microsoft Excel 2021, a célula B2 contém o valor 6,5. A célula C2 contém a fórmula =SE(B2>=7;\"Aprovado\";\"Reprovado\"). O resultado exibido em C2 será:",
+      "correta": "Reprovado",
+      "incorretas": ["Aprovado", "6,5", "VERDADEIRO", "#VALOR!"]
+    },
+    {
+      "id": "INF-020",
+      "tema": "informatica",
+      "fonte": "Excel 2021 — referência relativa e absoluta ($)",
+      "enunciado": "No Microsoft Excel 2021, a célula C1 contém a fórmula =A1*$B$1. Se essa fórmula for copiada para a célula C2, a fórmula resultante em C2 será:",
+      "correta": "=A2*$B$1",
+      "incorretas": ["=A2*$B$2", "=A1*$B$1", "=B2*$B$1", "=A2*B2"]
+    },
+    {
+      "id": "INF-021",
+      "tema": "informatica",
+      "fonte": "Navegadores — navegação anônima/privada",
+      "enunciado": "Sobre a navegação anônima (ou privada), disponível nos principais navegadores, como Google Chrome, Microsoft Edge e Mozilla Firefox, é CORRETO afirmar que ela:",
+      "correta": "não mantém no computador o histórico, os cookies e os dados de formulários após a sessão ser encerrada.",
+      "incorretas": [
+        "torna o usuário completamente invisível para o provedor de internet e para os sites visitados.",
+        "impede a instalação de qualquer vírus ou código malicioso no computador durante a navegação.",
+        "criptografa automaticamente todos os arquivos baixados durante a sessão de navegação.",
+        "bloqueia automaticamente todos os anúncios e janelas das páginas visitadas pelo usuário."
+      ]
+    },
+    {
+      "id": "INF-022",
+      "tema": "informatica",
+      "fonte": "Busca na web — operadores do Google",
+      "enunciado": "Ao realizar uma pesquisa no Google, para que sejam retornados resultados que contenham exatamente a expressão concurso PrudenPrev, na mesma ordem, o usuário deve:",
+      "correta": "digitar a expressão entre aspas.",
+      "incorretas": [
+        "digitar um hífen antes da expressão.",
+        "digitar site: antes da expressão.",
+        "digitar um asterisco após a expressão.",
+        "digitar filetype: antes da expressão."
+      ]
+    },
+    {
+      "id": "INF-023",
+      "tema": "informatica",
+      "fonte": "Google Drive — compartilhamento e permissões",
+      "enunciado": "No Google Drive, ao compartilhar um arquivo com outras pessoas, o usuário pode atribuir a elas os seguintes níveis de acesso:",
+      "correta": "Leitor, Comentarista e Editor.",
+      "incorretas": [
+        "Administrador, Moderador e Visitante.",
+        "Proprietário, Gerente e Usuário.",
+        "Leitor, Revisor e Aprovador.",
+        "Leitura, Gravação e Execução."
+      ]
+    },
+    {
+      "id": "INF-024",
+      "tema": "informatica",
+      "fonte": "E-mail — campo Cco (cópia oculta)",
+      "enunciado": "Em programas e serviços de e-mail, como Outlook, Gmail e Zimbra, o campo Cco (cópia oculta) é utilizado para:",
+      "correta": "enviar a mensagem a destinatários cujos endereços não ficam visíveis aos demais.",
+      "incorretas": [
+        "enviar uma cópia da mensagem apenas para o próprio remetente, como comprovante.",
+        "agendar o envio da mensagem para outro dia ou horário definido pelo remetente.",
+        "criptografar a mensagem para que apenas o destinatário principal consiga lê-la.",
+        "exigir a confirmação de leitura de todos os destinatários antes da entrega."
+      ]
+    },
+    {
+      "id": "INF-025",
+      "tema": "informatica",
+      "fonte": "Inteligência artificial generativa — uso responsável",
+      "enunciado": "Sobre as ferramentas de inteligência artificial generativa de texto, como ChatGPT, Microsoft Copilot e Google Gemini, é CORRETO afirmar que:",
+      "correta": "podem produzir respostas incorretas, que devem ser conferidas pelo usuário antes de serem utilizadas.",
+      "incorretas": [
+        "fornecem sempre informações corretas e atualizadas, dispensando qualquer conferência do usuário.",
+        "funcionam exclusivamente sem conexão com a internet, instaladas no computador do usuário.",
+        "são indicadas para receber, sem restrições, dados pessoais e sigilosos de cidadãos atendidos.",
+        "são capazes apenas de realizar cálculos matemáticos, sem produzir textos em linguagem natural."
+      ]
+    },
+    {
       "id": "ESP-001",
       "tema": "especificos",
       "enunciado": "O Regime Próprio de Previdência Social (RPPS) é destinado aos:",
