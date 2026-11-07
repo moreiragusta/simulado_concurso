@@ -352,6 +352,137 @@
         "concessão indevida de benefício tributário.",
         "mera infração disciplinar, sem improbidade."
       ]
+    },
+
+    {
+      "id": "L106-01",
+      "tema": "especificos",
+      "fonte": "LC 106/2001, art. 111",
+      "enunciado": "De acordo com a Lei Complementar Municipal nº 106/2001, a Entidade de Previdência Municipal de Presidente Prudente, denominada PRUDENPREV, foi constituída sob a forma de:",
+      "correta": "autarquia, com personalidade jurídica, patrimônio e receitas próprios.",
+      "incorretas": [
+        "fundação pública de direito privado, vinculada à Secretaria da Fazenda.",
+        "empresa pública, com capital integralmente pertencente ao Município.",
+        "órgão da administração direta, sem personalidade jurídica própria.",
+        "sociedade de economia mista, com participação acionária dos servidores."
+      ]
+    },
+    {
+      "id": "L106-02",
+      "tema": "especificos",
+      "fonte": "LC 106/2001, art. 4º, caput e § 2º",
+      "enunciado": "Segundo a Lei Complementar Municipal nº 106/2001, os recursos garantidores integralizados ao Sistema de Previdência Municipal:",
+      "correta": "têm a natureza de direito coletivo dos participantes.",
+      "incorretas": [
+        "pertencem individualmente a cada participante, na proporção de suas contribuições.",
+        "podem ser resgatados pelo participante que se desligar do serviço público municipal.",
+        "integram o orçamento geral do Município e podem custear outras despesas públicas.",
+        "têm natureza de direito individual disponível, transmissível aos herdeiros do participante."
+      ]
+    },
+    {
+      "id": "L106-03",
+      "tema": "especificos",
+      "fonte": "LC 106/2001, art. 11, I, e § 7º",
+      "enunciado": "Conforme a Lei Complementar Municipal nº 106/2001, a dependência econômica e financeira em relação ao participante é PRESUMIDA para:",
+      "correta": "o cônjuge, a companheira, o companheiro e o filho não emancipado, menor de 21 anos ou inválido.",
+      "incorretas": [
+        "os pais e o irmão não emancipado, menor de 21 anos ou inválido, mediante declaração do participante.",
+        "todos os dependentes inscritos, independentemente da classe a que pertençam no sistema.",
+        "somente o cônjuge, devendo ser comprovada documentalmente para os filhos e companheiros.",
+        "os pais, o enteado e o menor sob tutela, desde que residam com o participante."
+      ]
+    },
+    {
+      "id": "L106-04",
+      "tema": "especificos",
+      "fonte": "LC 106/2001, art. 11, § 2º",
+      "enunciado": "Um servidor titular de cargo efetivo, participante do Sistema de Previdência Municipal, faleceu deixando esposa e pai, que dependia economicamente dele. De acordo com a Lei Complementar Municipal nº 106/2001, a pensão por morte:",
+      "correta": "será devida apenas à esposa, pois a existência de dependente de uma classe exclui o direito das classes seguintes.",
+      "incorretas": [
+        "será dividida em partes iguais entre a esposa e o pai, pois ambos são dependentes do participante falecido.",
+        "será devida apenas ao pai, desde que ele comprove a dependência econômica e financeira em relação ao filho.",
+        "será dividida, cabendo 70% à esposa e 30% ao pai, conforme a ordem de preferência estabelecida na lei.",
+        "será paga primeiro ao pai e, após o seu falecimento, revertida integralmente em favor da esposa."
+      ]
+    },
+    {
+      "id": "L106-05",
+      "tema": "especificos",
+      "fonte": "LC 106/2001, art. 12",
+      "enunciado": "Sobre a filiação ao Sistema de Previdência Municipal, prevista na Lei Complementar Municipal nº 106/2001, assinale a alternativa CORRETA.",
+      "correta": "A filiação do participante é automática a partir da posse no cargo efetivo, e a dos seus dependentes é feita mediante inscrição.",
+      "incorretas": [
+        "A filiação do participante depende de requerimento apresentado em até 30 dias após a posse no cargo efetivo.",
+        "A filiação do participante e a de seus dependentes ocorrem automaticamente a partir da nomeação no cargo.",
+        "A filiação ao sistema é facultativa para o servidor efetivo, que pode optar pelo Regime Geral de Previdência Social.",
+        "A filiação do participante é automática a partir do término do estágio probatório, quando adquire estabilidade."
+      ]
+    },
+    {
+      "id": "L106-06",
+      "tema": "especificos",
+      "fonte": "LC 106/2001, art. 22",
+      "enunciado": "De acordo com a Lei Complementar Municipal nº 106/2001, o aposentado por invalidez que retornar voluntariamente à atividade:",
+      "correta": "terá sua aposentadoria automaticamente cessada a partir da data do retorno.",
+      "incorretas": [
+        "continuará recebendo os proventos, acumulando-os com a nova remuneração.",
+        "terá a aposentadoria suspensa por até dois anos, podendo restabelecê-la.",
+        "manterá metade dos proventos até a realização de nova perícia médica.",
+        "terá a aposentadoria convertida automaticamente em auxílio-doença."
+      ]
+    },
+    {
+      "id": "L106-07",
+      "tema": "especificos",
+      "fonte": "LC 106/2001, arts. 28, caput e § 2º, e 29",
+      "enunciado": "Sobre o auxílio-doença previsto na Lei Complementar Municipal nº 106/2001, assinale a alternativa CORRETA.",
+      "correta": "É devido ao participante incapacitado para a atividade de seu cargo por mais de quinze dias consecutivos, a contar do décimo sexto dia do afastamento.",
+      "incorretas": [
+        "É devido ao participante incapacitado para a atividade de seu cargo por mais de trinta dias consecutivos, a contar do trigésimo primeiro dia do afastamento.",
+        "É devido ao participante desde o primeiro dia de afastamento por motivo de doença, independentemente da duração da incapacidade.",
+        "É pago pela entidade previdenciária desde o primeiro dia de afastamento, desde que a incapacidade ultrapasse quinze dias consecutivos.",
+        "Não é devido ao participante que sofrer acidente de qualquer natureza, sendo restrito aos casos de acidente em serviço."
+      ]
+    },
+    {
+      "id": "L106-08",
+      "tema": "especificos",
+      "fonte": "LC 106/2001, art. 44",
+      "enunciado": "Nos termos do art. 44 da Lei Complementar Municipal nº 106/2001, o salário-maternidade é devido à participante durante:",
+      "correta": "cento e vinte dias, com início vinte e oito dias antes e término noventa e um dias depois do parto.",
+      "incorretas": [
+        "cento e oitenta dias, com início trinta dias antes e término cento e cinquenta dias depois do parto.",
+        "cento e vinte dias, contados exclusivamente a partir da data do parto, sem afastamento anterior.",
+        "noventa dias, com início quinze dias antes e término setenta e cinco dias depois do parto.",
+        "cento e cinquenta dias, com início vinte e oito dias antes e término cento e vinte e dois dias depois do parto."
+      ]
+    },
+    {
+      "id": "L106-09",
+      "tema": "especificos",
+      "fonte": "LC 106/2001, art. 53, caput e § 1º",
+      "enunciado": "Conforme a Lei Complementar Municipal nº 106/2001, havendo mais de um pensionista, a pensão por morte será:",
+      "correta": "rateada entre todos em partes iguais, revertendo-se proporcionalmente aos demais a parte daquele cujo direito cessar.",
+      "incorretas": [
+        "rateada proporcionalmente à idade de cada pensionista, sem reversão da parte daquele cujo direito cessar.",
+        "paga integralmente ao cônjuge, que ficará responsável por repassar as cotas aos demais dependentes.",
+        "rateada entre todos em partes iguais, extinguindo-se, sem reversão, a parte daquele cujo direito cessar.",
+        "rateada, cabendo metade ao cônjuge e a outra metade dividida igualmente entre os filhos menores."
+      ]
+    },
+    {
+      "id": "L106-10",
+      "tema": "especificos",
+      "fonte": "LC 106/2001, art. 122 (redação da LC 255/2021)",
+      "enunciado": "De acordo com a Lei Complementar Municipal nº 106/2001, com a redação dada pela Lei Complementar nº 255/2021, a alíquota de contribuição dos participantes em atividade para o custeio do Sistema de Previdência Municipal corresponde a:",
+      "correta": "14% (quatorze por cento).",
+      "incorretas": [
+        "11% (onze por cento).",
+        "12,20% (doze vírgula vinte por cento).",
+        "16% (dezesseis por cento).",
+        "24,40% (vinte e quatro vírgula quarenta por cento)."
+      ]
     }
   ]
 }

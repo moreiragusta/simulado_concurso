@@ -1,5 +1,7 @@
 # Plano do banco de questões (200)
 
+**Cargo:** Escriturário — nível médio completo · **Banca:** FAFIPA. Dificuldade de nível médio: letra da lei, conceitos e situações práticas.
+
 Geração em blocos pequenos (~10 questões), um assunto por vez, revisados antes do próximo.
 
 ## Legislação — 25 questões (`LEG-xxx`)
@@ -25,7 +27,7 @@ Geração em blocos pequenos (~10 questões), um assunto por vez, revisados ante
 | Atendimento ao cliente; administração de materiais; controle orçamentário e adm. financeira | 10 | ⏳ |
 | Logística; protocolo, recepção, classificação, registro e distribuição; gestão de arquivos | 10 | ⏳ |
 | LC Municipal 05/1991 — Regime Jurídico Único (Pres. Prudente) | 10 | ⏳ texto recebido |
-| LC Municipal 106/2001 — legislação previdenciária municipal | 10 | ⏳ texto recebido |
+| LC Municipal 106/2001 — legislação previdenciária municipal | 10 | ✅ bloco 4 (L106-01 a 10) |
 | Lei Federal 9.717/1998 — normas gerais dos RPPS | 10 | ⏳ |
 | Portaria MTP 1.467/2022 — parâmetros e diretrizes dos RPPS | 10 | ⏳ |
 
