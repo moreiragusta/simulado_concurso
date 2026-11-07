@@ -78,10 +78,10 @@ Toda questão cita o artigo de origem para conferência.
 
 | Assunto | Qtd | Status |
 |---|---|---|
-| Quatro operações, estimativas e resolução de problemas | 1 | ⏳ |
-| Equações de 1º e 2º graus e sistemas | 3 | ⏳ |
+| Quatro operações, estimativas e resolução de problemas | 1 | ✅ MAT-010 |
+| Equações de 1º e 2º graus e sistemas | 3 | ✅ MAT-002 a 004 |
 | Conjuntos numéricos, intervalos e operações entre conjuntos | 1 | ⏳ |
-| Múltiplos, divisores, MMC e MDC | 2 | ⏳ |
+| Múltiplos, divisores, MMC e MDC | 2 | ✅ MAT-005 e 006 |
 | Potenciação, radiciação, fatoração, polinômios e produtos notáveis | 2 | ⏳ |
 | Funções (constante, afim, crescente/decrescente, gráficos) | 1 | ⏳ |
 | Unidades de medida e conversões | 1 | ⏳ |
@@ -91,8 +91,8 @@ Toda questão cita o artigo de origem para conferência.
 | Estatística (média, moda, mediana, tabelas e gráficos) | 2 | ⏳ |
 | Sequências lógicas (números, figuras, letras) | 2 | ⏳ |
 | Probabilidade | 1 | ⏳ |
-| Razão, proporção e regra de três simples/composta | 2 | ⏳ |
-| Porcentagem e juros simples | 2 | ⏳ |
+| Razão, proporção e regra de três simples/composta | 2 | ✅ MAT-007 e 008 |
+| Porcentagem e juros simples | 2 | ✅ MAT-001 e 009 |
 
 ## Noções de Informática — 25 questões (`INF-xxx`)
 

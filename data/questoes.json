@@ -348,6 +348,78 @@
       "incorretas": ["R$ 300,00", "R$ 340,00", "R$ 400,00", "R$ 440,00"]
     },
     {
+      "id": "MAT-002",
+      "tema": "matematica",
+      "fonte": "Equação do 1º grau",
+      "enunciado": "O triplo de um número, somado a 12, é igual a 45. Esse número é:",
+      "correta": "11",
+      "incorretas": ["9", "13", "15", "19"]
+    },
+    {
+      "id": "MAT-003",
+      "tema": "matematica",
+      "fonte": "Equação do 2º grau",
+      "enunciado": "As raízes da equação x² − 5x + 6 = 0 são:",
+      "correta": "2 e 3.",
+      "incorretas": ["−2 e −3.", "1 e 6.", "−1 e 6.", "−2 e 3."]
+    },
+    {
+      "id": "MAT-004",
+      "tema": "matematica",
+      "fonte": "Sistema de equações do 1º grau",
+      "enunciado": "Em um setor da prefeitura trabalham 30 servidores, entre homens e mulheres. Sabendo que o número de mulheres excede o de homens em 6, quantas mulheres trabalham nesse setor?",
+      "correta": "18",
+      "incorretas": ["12", "16", "20", "24"]
+    },
+    {
+      "id": "MAT-005",
+      "tema": "matematica",
+      "fonte": "MMC",
+      "enunciado": "Um equipamento passa por manutenção a cada 12 dias, e outro, a cada 18 dias. Se ambos passaram por manutenção hoje, voltarão a passar por manutenção no mesmo dia daqui a:",
+      "correta": "36 dias.",
+      "incorretas": ["30 dias.", "54 dias.", "72 dias.", "216 dias."]
+    },
+    {
+      "id": "MAT-006",
+      "tema": "matematica",
+      "fonte": "MDC",
+      "enunciado": "Um almoxarifado possui 48 canetas e 72 lápis, que serão distribuídos em kits idênticos, com o maior número possível de kits e sem sobras. Quantos kits serão formados?",
+      "correta": "24",
+      "incorretas": ["6", "8", "12", "144"]
+    },
+    {
+      "id": "MAT-007",
+      "tema": "matematica",
+      "fonte": "Regra de três simples",
+      "enunciado": "Uma impressora imprime 240 páginas em 8 minutos. Mantido o mesmo ritmo, quantas páginas ela imprimirá em 15 minutos?",
+      "correta": "450",
+      "incorretas": ["360", "400", "480", "500"]
+    },
+    {
+      "id": "MAT-008",
+      "tema": "matematica",
+      "fonte": "Regra de três composta",
+      "enunciado": "Cinco servidores digitalizam 600 documentos em 4 dias. Mantido o mesmo ritmo de trabalho, quantos documentos oito servidores digitalizarão em 6 dias?",
+      "correta": "1.440",
+      "incorretas": ["960", "1.200", "1.600", "1.800"]
+    },
+    {
+      "id": "MAT-009",
+      "tema": "matematica",
+      "fonte": "Juros simples",
+      "enunciado": "Um capital de R$ 2.000,00 foi aplicado a juros simples, à taxa de 1,5% ao mês, durante 8 meses. O valor dos juros obtidos nessa aplicação foi de:",
+      "correta": "R$ 240,00",
+      "incorretas": ["R$ 120,00", "R$ 160,00", "R$ 300,00", "R$ 2.240,00"]
+    },
+    {
+      "id": "MAT-010",
+      "tema": "matematica",
+      "fonte": "Quatro operações e frações — resolução de problemas",
+      "enunciado": "Um servidor recebeu 3 caixas com 125 processos cada uma e já arquivou 2/5 do total. Quantos processos ainda faltam ser arquivados?",
+      "correta": "225",
+      "incorretas": ["150", "175", "250", "300"]
+    },
+    {
       "id": "INF-001",
       "tema": "informatica",
       "enunciado": "No Microsoft Word, o atalho Ctrl + Z serve para:",
