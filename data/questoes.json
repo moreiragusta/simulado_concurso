@@ -638,6 +638,97 @@
       ]
     },
     {
+      "id": "INF-009",
+      "tema": "informatica",
+      "fonte": "Segurança — phishing",
+      "enunciado": "Um servidor recebeu um e-mail que imitava a aparência do site do seu banco, pedindo que clicasse em um link e informasse sua senha para \"evitar o bloqueio da conta\". Essa tentativa de fraude é conhecida como:",
+      "correta": "phishing.",
+      "incorretas": [
+        "backup.",
+        "firewall.",
+        "criptografia.",
+        "atualização de software."
+      ]
+    },
+    {
+      "id": "INF-010",
+      "tema": "informatica",
+      "fonte": "Segurança — tipos de malware (ransomware)",
+      "enunciado": "O tipo de código malicioso que torna inacessíveis os dados armazenados em um equipamento, geralmente por meio de criptografia, e exige pagamento de resgate para restabelecer o acesso é denominado:",
+      "correta": "ransomware.",
+      "incorretas": [
+        "spyware.",
+        "adware.",
+        "worm.",
+        "cavalo de troia."
+      ]
+    },
+    {
+      "id": "INF-011",
+      "tema": "informatica",
+      "fonte": "Segurança — boas práticas (senhas e autenticação em dois fatores)",
+      "enunciado": "Assinale a alternativa que apresenta uma boa prática de segurança da informação.",
+      "correta": "Ativar a verificação em duas etapas nas contas que oferecem esse recurso.",
+      "incorretas": [
+        "Utilizar a mesma senha em todos os serviços para não correr o risco de esquecê-la.",
+        "Anotar as senhas em um papel colado no monitor para consultá-las com rapidez.",
+        "Desativar o antivírus para que o computador fique mais rápido durante o trabalho.",
+        "Abrir os anexos de e-mails de remetentes desconhecidos para verificar o conteúdo."
+      ]
+    },
+    {
+      "id": "INF-012",
+      "tema": "informatica",
+      "fonte": "Windows 11 — Gerenciador de Tarefas (Ctrl + Shift + Esc)",
+      "enunciado": "No Windows 11, o atalho de teclado Ctrl + Shift + Esc tem a função de abrir:",
+      "correta": "o Gerenciador de Tarefas.",
+      "incorretas": [
+        "o Painel de Controle.",
+        "o Explorador de Arquivos.",
+        "o Menu Iniciar.",
+        "o aplicativo Configurações."
+      ]
+    },
+    {
+      "id": "INF-013",
+      "tema": "informatica",
+      "fonte": "Windows 11 — Ferramenta de Captura (Windows + Shift + S)",
+      "enunciado": "No Windows 11, o atalho formado pela tecla do logotipo do Windows + Shift + S permite:",
+      "correta": "capturar uma parte da tela por meio da Ferramenta de Captura.",
+      "incorretas": [
+        "salvar o documento aberto com outro nome e em outro local.",
+        "abrir as configurações de som e ajustar o volume do sistema.",
+        "desligar o computador sem fechar os aplicativos abertos.",
+        "alternar entre as janelas dos aplicativos que estão abertos."
+      ]
+    },
+    {
+      "id": "INF-014",
+      "tema": "informatica",
+      "fonte": "Linux Ubuntu — comandos básicos do terminal (ls)",
+      "enunciado": "No terminal do Linux Ubuntu, o comando utilizado para listar o conteúdo de um diretório é:",
+      "correta": "ls",
+      "incorretas": [
+        "cd",
+        "pwd",
+        "mkdir",
+        "rm"
+      ]
+    },
+    {
+      "id": "INF-015",
+      "tema": "informatica",
+      "fonte": "Linux Ubuntu — comando sudo",
+      "enunciado": "No Linux Ubuntu, o comando sudo, colocado antes de outro comando no terminal, é utilizado para:",
+      "correta": "executar o comando com privilégios de administrador (superusuário).",
+      "incorretas": [
+        "apagar permanentemente os arquivos indicados no comando.",
+        "mudar do diretório atual para o diretório pessoal do usuário.",
+        "exibir o caminho completo do diretório em que o usuário está.",
+        "encerrar a interface gráfica e reiniciar o sistema operacional."
+      ]
+    },
+    {
       "id": "ESP-001",
       "tema": "especificos",
       "enunciado": "O Regime Próprio de Previdência Social (RPPS) é destinado aos:",

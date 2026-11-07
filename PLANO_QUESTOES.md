@@ -101,9 +101,9 @@ Toda questão cita o artigo de origem para conferência.
 | Conceitos, hardware de entrada/saída e software | 3 | ✅ INF-002 a 004 |
 | Atalhos de teclado | 3 | ✅ INF-001, 005 e 006 |
 | Gerenciamento de arquivos | 2 | ✅ INF-007 e 008 |
-| Segurança de dados | 3 | ⏳ |
-| Windows 11 | 2 | ⏳ |
-| Linux Ubuntu | 2 | ⏳ |
+| Segurança de dados | 3 | ✅ INF-009 a 011 |
+| Windows 11 | 2 | ✅ INF-012 e 013 |
+| Linux Ubuntu | 2 | ✅ INF-014 e 015 |
 | Word 2021 | 2 | ⏳ |
 | Excel 2021 | 3 | ⏳ |
 | Navegadores e busca na Web | 2 | ⏳ |
