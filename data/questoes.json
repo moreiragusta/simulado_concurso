@@ -547,6 +547,97 @@
       "incorretas": ["salvar o documento", "refazer a última ação", "selecionar todo o texto", "fechar o documento"]
     },
     {
+      "id": "INF-002",
+      "tema": "informatica",
+      "fonte": "Hardware — dispositivos de entrada e saída",
+      "enunciado": "Assinale a alternativa que apresenta apenas dispositivos de entrada.",
+      "correta": "Teclado, mouse e scanner.",
+      "incorretas": [
+        "Monitor, impressora e caixa de som.",
+        "Teclado, monitor e impressora.",
+        "Mouse, projetor e fone de ouvido.",
+        "Scanner, impressora e monitor."
+      ]
+    },
+    {
+      "id": "INF-003",
+      "tema": "informatica",
+      "fonte": "Hardware — memória RAM x ROM",
+      "enunciado": "Sobre a memória RAM de um computador, assinale a alternativa CORRETA.",
+      "correta": "É uma memória volátil, cujo conteúdo é perdido quando o computador é desligado.",
+      "incorretas": [
+        "É uma memória permanente, usada para guardar arquivos após o desligamento.",
+        "É um software responsável por gerenciar os periféricos do computador.",
+        "É um dispositivo de saída que exibe as informações processadas ao usuário.",
+        "É uma memória somente de leitura, gravada de fábrica pelo fabricante."
+      ]
+    },
+    {
+      "id": "INF-004",
+      "tema": "informatica",
+      "fonte": "Software — sistema operacional",
+      "enunciado": "O Windows 11 e o Linux Ubuntu são exemplos de:",
+      "correta": "sistemas operacionais.",
+      "incorretas": [
+        "aplicativos de escritório.",
+        "navegadores de internet.",
+        "programas antivírus.",
+        "dispositivos de hardware."
+      ]
+    },
+    {
+      "id": "INF-005",
+      "tema": "informatica",
+      "fonte": "Atalhos de teclado — Windows 11",
+      "enunciado": "No Windows 11, o atalho de teclado formado pela tecla do logotipo do Windows + E tem a função de:",
+      "correta": "abrir o Explorador de Arquivos.",
+      "incorretas": [
+        "abrir o aplicativo Configurações.",
+        "mostrar a área de trabalho.",
+        "bloquear o computador.",
+        "abrir a caixa de diálogo Executar."
+      ]
+    },
+    {
+      "id": "INF-006",
+      "tema": "informatica",
+      "fonte": "Atalhos de teclado — copiar e colar",
+      "enunciado": "Nos aplicativos para Windows, os atalhos Ctrl + C e Ctrl + V servem, respectivamente, para:",
+      "correta": "copiar e colar.",
+      "incorretas": [
+        "cortar e colar.",
+        "colar e copiar.",
+        "copiar e visualizar a impressão.",
+        "criar um arquivo e verificar a ortografia."
+      ]
+    },
+    {
+      "id": "INF-007",
+      "tema": "informatica",
+      "fonte": "Gerenciamento de arquivos — extensões",
+      "enunciado": "Assinale a alternativa que associa corretamente a extensão de arquivo ao seu tipo.",
+      "correta": ".xlsx — planilha do Microsoft Excel.",
+      "incorretas": [
+        ".docx — apresentação do PowerPoint.",
+        ".pdf — planilha eletrônica editável.",
+        ".jpg — documento de texto do Word.",
+        ".pptx — arquivo de áudio compactado."
+      ]
+    },
+    {
+      "id": "INF-008",
+      "tema": "informatica",
+      "fonte": "Gerenciamento de arquivos — exclusão permanente (Shift + Delete)",
+      "enunciado": "No Explorador de Arquivos do Windows 11, ao selecionar um arquivo e pressionar as teclas Shift + Delete, confirmando a operação:",
+      "correta": "o arquivo é excluído permanentemente, sem passar pela Lixeira.",
+      "incorretas": [
+        "o arquivo é enviado para a Lixeira, podendo ser restaurado depois.",
+        "o arquivo é copiado para a área de transferência do sistema.",
+        "o arquivo é renomeado automaticamente pelo sistema operacional.",
+        "o arquivo é compactado em formato .zip na mesma pasta."
+      ]
+    },
+    {
       "id": "ESP-001",
       "tema": "especificos",
       "enunciado": "O Regime Próprio de Previdência Social (RPPS) é destinado aos:",
