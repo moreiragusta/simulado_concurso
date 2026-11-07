@@ -80,16 +80,16 @@ Toda questão cita o artigo de origem para conferência.
 |---|---|---|
 | Quatro operações, estimativas e resolução de problemas | 1 | ✅ MAT-010 |
 | Equações de 1º e 2º graus e sistemas | 3 | ✅ MAT-002 a 004 |
-| Conjuntos numéricos, intervalos e operações entre conjuntos | 1 | ⏳ |
+| Conjuntos numéricos, intervalos e operações entre conjuntos | 1 | ✅ MAT-021 |
 | Múltiplos, divisores, MMC e MDC | 2 | ✅ MAT-005 e 006 |
-| Potenciação, radiciação, fatoração, polinômios e produtos notáveis | 2 | ⏳ |
-| Funções (constante, afim, crescente/decrescente, gráficos) | 1 | ⏳ |
-| Unidades de medida e conversões | 1 | ⏳ |
+| Potenciação, radiciação, fatoração, polinômios e produtos notáveis | 2 | ✅ MAT-022 e 023 |
+| Funções (constante, afim, crescente/decrescente, gráficos) | 1 | ✅ MAT-024 |
+| Unidades de medida e conversões | 1 | ✅ MAT-025 |
 | Geometria plana (ângulos, Tales, circunferência, áreas) | 3 | ✅ MAT-011 a 013 |
 | Geometria espacial (volume de prisma e cilindro) | 1 | ✅ MAT-014 |
 | Plano cartesiano e orientação espacial | 1 | ✅ MAT-015 |
 | Estatística (média, moda, mediana, tabelas e gráficos) | 2 | ✅ MAT-016 e 017 |
-| Sequências lógicas (números, figuras, letras) | 2 | ⏳ |
+| Sequências lógicas (números, figuras, letras) | 2 | ✅ MAT-019 e 020 |
 | Probabilidade | 1 | ✅ MAT-018 |
 | Razão, proporção e regra de três simples/composta | 2 | ✅ MAT-007 e 008 |
 | Porcentagem e juros simples | 2 | ✅ MAT-001 e 009 |

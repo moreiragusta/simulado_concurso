@@ -484,6 +484,62 @@
       "incorretas": ["6%", "20%", "25%", "60%"]
     },
     {
+      "id": "MAT-019",
+      "tema": "matematica",
+      "fonte": "Sequência numérica — diferenças crescentes",
+      "enunciado": "Observe a sequência numérica: 2, 6, 12, 20, 30, ... Mantido o mesmo padrão, o próximo termo é:",
+      "correta": "42",
+      "incorretas": ["36", "38", "40", "44"]
+    },
+    {
+      "id": "MAT-020",
+      "tema": "matematica",
+      "fonte": "Sequência de letras — saltos crescentes no alfabeto de 26 letras",
+      "enunciado": "Considere o alfabeto de 26 letras (incluindo K, W e Y) e a sequência: A, C, F, J, O, ... Mantido o mesmo padrão, a próxima letra é:",
+      "correta": "U",
+      "incorretas": ["S", "T", "V", "X"]
+    },
+    {
+      "id": "MAT-021",
+      "tema": "matematica",
+      "fonte": "Conjuntos — união e interseção",
+      "enunciado": "Em um grupo de 50 servidores, 30 fizeram curso de Excel, 25 fizeram curso de Word e 10 fizeram os dois cursos. Quantos servidores desse grupo não fizeram nenhum dos dois cursos?",
+      "correta": "5",
+      "incorretas": ["0", "10", "15", "20"]
+    },
+    {
+      "id": "MAT-022",
+      "tema": "matematica",
+      "fonte": "Potenciação e ordem das operações",
+      "enunciado": "O valor da expressão 2³ + 3² − 4⁰ × 5 é:",
+      "correta": "12",
+      "incorretas": ["7", "16", "17", "80"]
+    },
+    {
+      "id": "MAT-023",
+      "tema": "matematica",
+      "fonte": "Produtos notáveis — quadrado da soma",
+      "enunciado": "O desenvolvimento do produto notável (x + 3)² resulta em:",
+      "correta": "x² + 6x + 9",
+      "incorretas": ["x² + 9", "x² + 3x + 9", "x² + 6x + 6", "x² − 6x + 9"]
+    },
+    {
+      "id": "MAT-024",
+      "tema": "matematica",
+      "fonte": "Função afim",
+      "enunciado": "O valor de uma corrida de táxi é dado por uma função afim: R$ 5,00 de valor fixo (bandeirada) mais R$ 2,50 por quilômetro rodado. Uma corrida de 12 km custará:",
+      "correta": "R$ 35,00",
+      "incorretas": ["R$ 30,00", "R$ 32,50", "R$ 37,50", "R$ 60,00"]
+    },
+    {
+      "id": "MAT-025",
+      "tema": "matematica",
+      "fonte": "Unidades de medida — tempo",
+      "enunciado": "Uma reunião começou às 8h45min e durou 2h50min. Essa reunião terminou às:",
+      "correta": "11h35min",
+      "incorretas": ["10h35min", "11h05min", "11h25min", "12h35min"]
+    },
+    {
       "id": "INF-001",
       "tema": "informatica",
       "enunciado": "No Microsoft Word, o atalho Ctrl + Z serve para:",
