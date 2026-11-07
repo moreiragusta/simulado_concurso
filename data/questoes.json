@@ -1037,6 +1037,84 @@
         "Redução de custos, ainda que em prejuízo da satisfação do cliente."
       ]
     },
+    {
+      "id": "ADM-015",
+      "tema": "especificos",
+      "fonte": "Mudança e inovação — inovação incremental x radical",
+      "enunciado": "A inovação que consiste em pequenas melhorias contínuas em produtos, serviços ou processos já existentes é denominada inovação:",
+      "correta": "incremental.",
+      "incorretas": [
+        "radical.",
+        "disruptiva.",
+        "aberta.",
+        "fechada."
+      ]
+    },
+    {
+      "id": "ADM-016",
+      "tema": "especificos",
+      "fonte": "Mudança e inovação — conceito de mudança organizacional",
+      "enunciado": "Sobre a mudança organizacional, assinale a alternativa CORRETA.",
+      "correta": "É a passagem de uma situação atual para outra desejada, envolvendo estrutura, tecnologia, processos ou pessoas.",
+      "incorretas": [
+        "Ocorre apenas em empresas privadas, pois a administração pública é regida por normas que impedem mudanças.",
+        "É sempre um processo espontâneo, que dispensa planejamento, comunicação e acompanhamento da liderança.",
+        "Restringe-se à substituição de equipamentos e sistemas, sem afetar o comportamento e a cultura das pessoas.",
+        "Deve ser evitada pelas organizações, pois toda mudança provoca, necessariamente, a redução da eficiência."
+      ]
+    },
+    {
+      "id": "ADM-017",
+      "tema": "especificos",
+      "fonte": "Gestão da mudança — modelo de Kurt Lewin",
+      "enunciado": "Segundo o modelo de Kurt Lewin, o processo de mudança organizacional ocorre em três etapas, que são, na ordem:",
+      "correta": "descongelamento, mudança e recongelamento.",
+      "incorretas": [
+        "planejamento, execução e avaliação.",
+        "diagnóstico, intervenção e controle.",
+        "recongelamento, mudança e descongelamento.",
+        "resistência, aceitação e adaptação."
+      ]
+    },
+    {
+      "id": "ADM-018",
+      "tema": "especificos",
+      "fonte": "Gestão da mudança — redução da resistência",
+      "enunciado": "Assinale a alternativa que apresenta uma forma adequada de reduzir a resistência dos servidores a uma mudança na organização.",
+      "correta": "Comunicar com clareza os motivos da mudança e envolver as pessoas no processo.",
+      "incorretas": [
+        "Implantar a mudança de surpresa, sem informar previamente os servidores.",
+        "Punir os servidores que manifestarem dúvidas ou críticas sobre a mudança.",
+        "Restringir as informações sobre a mudança apenas à alta administração.",
+        "Ignorar as preocupações da equipe para acelerar a implantação da mudança."
+      ]
+    },
+    {
+      "id": "ADM-019",
+      "tema": "especificos",
+      "fonte": "Liderança para mudança e inovação — liderança transformacional",
+      "enunciado": "O estilo de liderança que inspira e motiva os liderados a superar seus interesses individuais em favor de uma visão compartilhada, sendo especialmente associado a processos de mudança e inovação, é a liderança:",
+      "correta": "transformacional.",
+      "incorretas": [
+        "transacional.",
+        "autocrática.",
+        "liberal (laissez-faire).",
+        "burocrática."
+      ]
+    },
+    {
+      "id": "ADM-020",
+      "tema": "especificos",
+      "fonte": "Gestão da mudança — causas da resistência",
+      "enunciado": "É uma causa comum de resistência à mudança nas organizações:",
+      "correta": "o medo do desconhecido e da perda de segurança ou de status.",
+      "incorretas": [
+        "a comunicação clara sobre os objetivos e os motivos da mudança.",
+        "a participação dos funcionários no planejamento da mudança.",
+        "o apoio visível da liderança durante todo o processo de transição.",
+        "o treinamento oferecido aos funcionários para as novas rotinas."
+      ]
+    },
 
     {
       "id": "LEG-001",
