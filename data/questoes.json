@@ -1115,6 +1115,84 @@
         "o treinamento oferecido aos funcionários para as novas rotinas."
       ]
     },
+    {
+      "id": "ADM-021",
+      "tema": "especificos",
+      "fonte": "Gestão por processos — conceito de processo",
+      "enunciado": "No contexto da gestão por processos, um processo pode ser definido como:",
+      "correta": "um conjunto de atividades inter-relacionadas que transformam entradas em saídas para o cliente.",
+      "incorretas": [
+        "um documento formal que registra todas as decisões tomadas pela diretoria da organização.",
+        "um setor da organização que é responsável pela execução de uma única tarefa específica.",
+        "um conjunto de normas disciplinares aplicadas aos servidores que descumprem seus deveres.",
+        "uma atividade isolada, executada sem qualquer relação com as demais áreas da organização."
+      ]
+    },
+    {
+      "id": "ADM-022",
+      "tema": "especificos",
+      "fonte": "Gestão por processos — visão horizontal",
+      "enunciado": "É uma característica da gestão por processos:",
+      "correta": "a visão horizontal da organização, com foco no fluxo de trabalho que atravessa os setores até o cliente.",
+      "incorretas": [
+        "a visão exclusivamente vertical, centrada na hierarquia e no funcionamento isolado dos departamentos.",
+        "a eliminação de todos os indicadores de desempenho, por serem incompatíveis com os processos.",
+        "a valorização das atividades que não agregam valor ao cliente, para garantir controle interno.",
+        "a proibição de qualquer alteração nos procedimentos, depois que estes forem mapeados."
+      ]
+    },
+    {
+      "id": "ADM-023",
+      "tema": "especificos",
+      "fonte": "Mapeamento de processos — símbolos do fluxograma",
+      "enunciado": "No mapeamento de processos por meio de fluxograma, o símbolo em forma de losango representa:",
+      "correta": "uma decisão.",
+      "incorretas": [
+        "o início ou o fim do processo.",
+        "uma atividade ou operação.",
+        "um documento impresso.",
+        "um conector entre páginas."
+      ]
+    },
+    {
+      "id": "ADM-024",
+      "tema": "especificos",
+      "fonte": "Melhoria de processos — benchmarking",
+      "enunciado": "A técnica de melhoria que consiste em comparar os processos e práticas da organização com os de organizações reconhecidas como referência, a fim de identificar e adaptar as melhores práticas, é denominada:",
+      "correta": "benchmarking.",
+      "incorretas": [
+        "brainstorming.",
+        "downsizing.",
+        "outsourcing.",
+        "empowerment."
+      ]
+    },
+    {
+      "id": "ADM-025",
+      "tema": "especificos",
+      "fonte": "Ferramentas da qualidade — diagrama de Ishikawa",
+      "enunciado": "A ferramenta da qualidade que organiza as possíveis causas de um problema em categorias, em um formato semelhante a uma espinha de peixe, é o(a):",
+      "correta": "diagrama de Ishikawa.",
+      "incorretas": [
+        "gráfico de Pareto.",
+        "histograma.",
+        "fluxograma.",
+        "folha de verificação."
+      ]
+    },
+    {
+      "id": "ADM-026",
+      "tema": "especificos",
+      "fonte": "Ferramentas da qualidade — gráfico de Pareto",
+      "enunciado": "A ferramenta que apresenta, em barras ordenadas da maior para a menor frequência, as causas de um problema, baseando-se no princípio de que poucas causas respondem pela maior parte dos efeitos (regra 80/20), é o(a):",
+      "correta": "gráfico de Pareto.",
+      "incorretas": [
+        "diagrama de Ishikawa.",
+        "brainstorming.",
+        "plano de ação 5W2H.",
+        "matriz SWOT."
+      ]
+    },
 
     {
       "id": "LEG-001",

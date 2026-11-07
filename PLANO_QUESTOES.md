@@ -21,7 +21,7 @@ Geração em blocos pequenos (~10 questões), um assunto por vez, revisados ante
 | Assunto | Qtd | Status |
 |---|---|---|
 | Introdução à Administração (natureza das organizações, PODC, estrutura organizacional, gestão pela qualidade) | 14 | ✅ ADM-001 a 014 (blocos 17 e 18) |
-| Mudança e inovação; gestão por processos (mapeamento, análise, melhoria) | 12 | 🟡 6/12 — ADM-015 a 020 (bloco 19) |
+| Mudança e inovação; gestão por processos (mapeamento, análise, melhoria) | 12 | ✅ ADM-015 a 026 (blocos 19 e 20) |
 | Sistema de Informação de RH; dados de pessoal; desenvolvimento de RH e educação corporativa | 10 | ⏳ |
 | Comunicação corporativa, trabalho em equipe, relações humanas e conflitos | 12 | ⏳ |
 | Atendimento ao cliente; administração de materiais; controle orçamentário e adm. financeira | 12 | ⏳ |
