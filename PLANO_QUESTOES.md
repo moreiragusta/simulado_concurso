@@ -26,7 +26,7 @@ Geração em blocos pequenos (~10 questões), um assunto por vez, revisados ante
 | Comunicação corporativa, trabalho em equipe, relações humanas e conflitos | 10 | ⏳ |
 | Atendimento ao cliente; administração de materiais; controle orçamentário e adm. financeira | 10 | ⏳ |
 | Logística; protocolo, recepção, classificação, registro e distribuição; gestão de arquivos | 10 | ⏳ |
-| LC Municipal 05/1991 — Regime Jurídico Único (Pres. Prudente) | 10 | ⏳ texto recebido |
+| LC Municipal 05/1991 — Regime Jurídico Único (Pres. Prudente) | 10 | ✅ bloco 5 (L05-01 a 10) |
 | LC Municipal 106/2001 — legislação previdenciária municipal | 10 | ✅ bloco 4 (L106-01 a 10) |
 | Lei Federal 9.717/1998 — normas gerais dos RPPS | 10 | ⏳ |
 | Portaria MTP 1.467/2022 — parâmetros e diretrizes dos RPPS | 10 | ⏳ |

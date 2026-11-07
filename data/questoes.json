@@ -483,6 +483,137 @@
         "16% (dezesseis por cento).",
         "24,40% (vinte e quatro vírgula quarenta por cento)."
       ]
+    },
+
+    {
+      "id": "L05-01",
+      "tema": "especificos",
+      "fonte": "LC 05/1991, art. 7º",
+      "enunciado": "De acordo com a Lei Complementar Municipal nº 05/1991 (Regime Jurídico Único dos Servidores de Presidente Prudente), são requisitos para ingresso no serviço público, EXCETO:",
+      "correta": "a idade mínima de 21 (vinte e um) anos completos.",
+      "incorretas": [
+        "a nacionalidade brasileira.",
+        "o gozo dos direitos políticos.",
+        "a quitação com as obrigações militares e eleitorais.",
+        "a idade mínima de 18 (dezoito) anos completos."
+      ]
+    },
+    {
+      "id": "L05-02",
+      "tema": "especificos",
+      "fonte": "LC 05/1991, art. 16, §§ 1º e 5º",
+      "enunciado": "Segundo a Lei Complementar Municipal nº 05/1991, a posse ocorrerá no prazo de:",
+      "correta": "30 (trinta) dias, contados da publicação do ato de provimento, prorrogável por mais 30 (trinta) dias, a requerimento do interessado.",
+      "incorretas": [
+        "15 (quinze) dias, contados da publicação do ato de provimento, prorrogável por mais 15 (quinze) dias, a critério da Administração.",
+        "30 (trinta) dias, contados da homologação do concurso público, improrrogável em qualquer hipótese.",
+        "60 (sessenta) dias, contados da publicação do ato de provimento, prorrogável por igual período, a requerimento do interessado.",
+        "10 (dez) dias, contados da convocação do candidato, prorrogável por mais 10 (dez) dias, mediante justificativa."
+      ]
+    },
+    {
+      "id": "L05-03",
+      "tema": "especificos",
+      "fonte": "LC 05/1991, arts. 10 e 54",
+      "enunciado": "Conforme a Lei Complementar Municipal nº 05/1991, NÃO constitui forma de provimento em cargo público:",
+      "correta": "a exoneração.",
+      "incorretas": [
+        "a nomeação.",
+        "a reversão.",
+        "o aproveitamento.",
+        "a reintegração."
+      ]
+    },
+    {
+      "id": "L05-04",
+      "tema": "especificos",
+      "fonte": "LC 05/1991, art. 48",
+      "enunciado": "Nos termos da Lei Complementar Municipal nº 05/1991, a reinvestidura do funcionário no cargo anteriormente ocupado, ou no cargo resultante de sua transformação, quando invalidada a sua demissão por decisão administrativa ou judicial, denomina-se:",
+      "correta": "reintegração.",
+      "incorretas": [
+        "reversão.",
+        "readaptação.",
+        "aproveitamento.",
+        "recondução."
+      ]
+    },
+    {
+      "id": "L05-05",
+      "tema": "especificos",
+      "fonte": "LC 05/1991, art. 93, § 1º",
+      "enunciado": "De acordo com a Lei Complementar Municipal nº 05/1991, as férias do funcionário, normalmente de 30 (trinta) dias consecutivos, são reduzidas a:",
+      "correta": "20 (vinte) dias, quando o funcionário contar, no período aquisitivo, com mais de 9 (nove) faltas não justificadas ao trabalho.",
+      "incorretas": [
+        "15 (quinze) dias, quando o funcionário contar, no período aquisitivo, com mais de 5 (cinco) faltas não justificadas ao trabalho.",
+        "20 (vinte) dias, quando o funcionário contar, no período aquisitivo, com mais de 15 (quinze) faltas, justificadas ou não.",
+        "24 (vinte e quatro) dias, quando o funcionário contar, no período aquisitivo, com 6 (seis) a 14 (quatorze) faltas injustificadas.",
+        "10 (dez) dias, quando o funcionário contar, no período aquisitivo, com mais de 30 (trinta) faltas não justificadas ao trabalho."
+      ]
+    },
+    {
+      "id": "L05-06",
+      "tema": "especificos",
+      "fonte": "LC 05/1991, art. 112, II, a",
+      "enunciado": "Segundo a Lei Complementar Municipal nº 05/1991, sem qualquer prejuízo, o funcionário poderá ausentar-se do serviço por 7 (sete) dias consecutivos em razão de:",
+      "correta": "casamento.",
+      "incorretas": [
+        "doação de sangue.",
+        "falecimento de sogros.",
+        "falecimento de avós.",
+        "mudança de domicílio."
+      ]
+    },
+    {
+      "id": "L05-07",
+      "tema": "especificos",
+      "fonte": "LC 05/1991, art. 104",
+      "enunciado": "Sobre a licença-prêmio por assiduidade prevista na Lei Complementar Municipal nº 05/1991, assinale a alternativa CORRETA.",
+      "correta": "Após cada quinquênio ininterrupto de exercício, o funcionário fará jus a 3 (três) meses de licença, com a remuneração do cargo, podendo fracioná-la em até 3 (três) parcelas.",
+      "incorretas": [
+        "Após cada decênio ininterrupto de exercício, o funcionário fará jus a 6 (seis) meses de licença, com a remuneração do cargo, vedado o seu fracionamento.",
+        "Após cada quinquênio de exercício, ainda que interrompido, o funcionário fará jus a 1 (um) mês de licença, sem remuneração, podendo fracioná-la em até 2 (duas) parcelas.",
+        "Após cada triênio ininterrupto de exercício, o funcionário fará jus a 3 (três) meses de licença, com metade da remuneração, podendo fracioná-la livremente.",
+        "Após cada quinquênio ininterrupto de exercício, o funcionário fará jus a 3 (três) meses de licença, desde que não tenha faltado nenhum dia, ainda que justificadamente."
+      ]
+    },
+    {
+      "id": "L05-08",
+      "tema": "especificos",
+      "fonte": "LC 05/1991, arts. 109 e 110",
+      "enunciado": "Conforme a Lei Complementar Municipal nº 05/1991, a licença para tratar de interesses particulares:",
+      "correta": "poderá ser concedida, a critério da Administração, pelo prazo de até 2 (dois) anos consecutivos, sem remuneração.",
+      "incorretas": [
+        "é direito subjetivo do funcionário e será concedida por até 2 (dois) anos, com remuneração integral do cargo.",
+        "poderá ser concedida ao ocupante de cargo em comissão, pelo prazo de até 1 (um) ano, sem remuneração.",
+        "poderá ser concedida pelo prazo de até 4 (quatro) anos consecutivos, com metade da remuneração do cargo.",
+        "permite que o requerente se afaste do serviço logo após protocolar o pedido, independentemente de deferimento."
+      ]
+    },
+    {
+      "id": "L05-09",
+      "tema": "especificos",
+      "fonte": "LC 05/1991, arts. 152 e 153",
+      "enunciado": "Segundo a Lei Complementar Municipal nº 05/1991, configura abandono de cargo a ausência intencional do funcionário ao serviço por mais de:",
+      "correta": "30 (trinta) dias consecutivos.",
+      "incorretas": [
+        "15 (quinze) dias consecutivos.",
+        "45 (quarenta e cinco) dias consecutivos.",
+        "60 (sessenta) dias, interpoladamente, em 12 meses.",
+        "90 (noventa) dias, interpoladamente, em 12 meses."
+      ]
+    },
+    {
+      "id": "L05-10",
+      "tema": "especificos",
+      "fonte": "LC 05/1991, art. 156",
+      "enunciado": "De acordo com a Lei Complementar Municipal nº 05/1991, a ação disciplinar prescreverá, quanto às infrações puníveis com demissão, suspensão e advertência, respectivamente, em:",
+      "correta": "5 (cinco) anos, 2 (dois) anos e 180 (cento e oitenta) dias.",
+      "incorretas": [
+        "5 (cinco) anos, 3 (três) anos e 1 (um) ano.",
+        "4 (quatro) anos, 2 (dois) anos e 90 (noventa) dias.",
+        "5 (cinco) anos, 1 (um) ano e 180 (cento e oitenta) dias.",
+        "10 (dez) anos, 5 (cinco) anos e 2 (dois) anos."
+      ]
     }
   ]
 }
